@@ -1,0 +1,340 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 1147
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 9
+	Country: France ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Italy ; Times: 7
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 155
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-04 ; Times: 3
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 9
+	Date: 2015-07-07 ; Times: 8
+	Date: 2015-07-08 ; Times: 23
+	Date: 2015-07-09 ; Times: 10
+	Date: 2015-07-10 ; Times: 4
+	Date: 2015-07-13 ; Times: 5
+	Date: 2015-07-14 ; Times: 11
+	Date: 2015-07-15 ; Times: 12
+	Date: 2015-07-16 ; Times: 6
+	Date: 2015-07-17 ; Times: 5
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 9
+	Date: 2015-07-22 ; Times: 21
+	Date: 2015-07-23 ; Times: 7
+	Date: 2015-07-24 ; Times: 6
+	Date: 2015-07-25 ; Times: 7
+	Date: 2015-07-27 ; Times: 9
+	Date: 2015-07-28 ; Times: 6
+	Date: 2015-07-29 ; Times: 13
+	Date: 2015-07-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "190161" ; Times: 1
+	Query: "22774" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "camelidae media:1 fossil:1" ; Times: 3
+	Query: "genus:Myrmecobius" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "catalognumber:253539" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "catalognumber:96307" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "Anniella distance(location,geopoint(35.24561909420681,-119.3994140625))<36079" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "Trionyx muticus" ; Times: 3
+	Query: "rana mappable:1 distance(location,geopoint(38.01699254658493,-122.3356819152832))<7024" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "155398" ; Times: 1
+	Query: "222738" ; Times: 1
+	Query: "Reptilia Fremont Wyoming" ; Times: 1
+	Query: "stateprovince:"alaska" class:reptilia" ; Times: 10
+	Query: "catalognumber:96258" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 9
+	Query: "rana mappable:1 distance(location,geopoint(38.01699254658493,-122.3356819152832))<12082" ; Times: 1
+	Query: "Syncerus caffer" ; Times: 1
+	Query: "155329" ; Times: 1
+	Query: "multituberculate" ; Times: 2
+	Query: "178475" ; Times: 1
+	Query: "epipubic" ; Times: 1
+	Query: "triceratops" ; Times: 1
+	Query: "stateprovince:"Meta" country:"Colombia" class:Reptilia institutioncode:UCMP AND (NOT UTA)" ; Times: 1
+	Query: "catalognumber:223963" ; Times: 1
+	Query: "thylacinus cynocephalus" ; Times: 5
+	Query: "62750" ; Times: 1
+	Query: "cuba fossil:1" ; Times: 1
+	Query: "Graptemys nigrinoda" ; Times: 1
+	Query: "williamsi media:1" ; Times: 2
+	Query: "hippopotamus" ; Times: 1
+	Query: "100263" ; Times: 1
+	Query: "Dinornithiformes type:specimen fossil:1" ; Times: 1
+	Query: "eryops" ; Times: 1
+	Query: "95649" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 2
+	Query: "stateprovince:"Meta" country:"Colombia" class:Reptilia AND (NOT UTA)" ; Times: 1
+	Query: "stateprovince:"oregon" specificepithet:californicus genus:microtus" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 5
+	Query: "amnh 120360" ; Times: 1
+	Query: "catalognumber:186681" ; Times: 1
+	Query: "191043" ; Times: 1
+	Query: "komodoensis" ; Times: 1
+	Query: "210612" ; Times: 2
+	Query: "Dracaena" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "Perognathus fallax" ; Times: 1
+	Query: "catalognumber:222645" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "Eupleridae" ; Times: 2
+	Query: "AMNH 120353" ; Times: 1
+	Query: "catalognumber:190336" ; Times: 1
+	Query: "Rana mappable:1 distance(location,geopoint(38.019426820061696,-122.28504180908203))<3072" ; Times: 1
+	Query: "62346" ; Times: 1
+	Query: "chrysochloridae type:specimen (skeleton)" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "gonyosoma oxycephalum" ; Times: 2
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "type:specimen country:"Cuba" fossil:1" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "Leptostomus" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 2
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "catalognumber:164049" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "Litopterna" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "rhinocerotidae" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "183420" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "specificepithet:pratensis genus:Steatomys" ; Times: 1
+	Query: "mammoth genus:Mammuthus" ; Times: 1
+	Query: "62176" ; Times: 1
+	Query: "rana mappable:1 distance(location,geopoint(38.00617257513525,-122.2807502746582))<7023.995390252768" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "class:mammalia catalognumber:96258" ; Times: 1
+	Query: "entelodontidae media:1 fossil:1" ; Times: 1
+	Query: "catalognumber:228886" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "entelodontidae" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah" genus:Neotoma" ; Times: 3
+	Query: "73644" ; Times: 1
+	Query: "Dinornithiformes" ; Times: 2
+	Query: "Trionyx ferox" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "228897" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "155432" ; Times: 1
+	Query: "county:"kern" stateprovince:"California" genus:phrynosoma" ; Times: 1
+	Query: "Brazil Parana Reptilia" ; Times: 3
+	Query: "33625" ; Times: 1
+	Query: "stateprovince:"Alaska" class:reptilia fossil:1" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 21
+	Query: "25578" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "rana mappable:1 distance(location,geopoint(38.019426820061696,-122.28504180908203))<5044" ; Times: 3
+	Query: "Meridiungulata" ; Times: 1
+	Query: "62178" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "crotalus montezuma" ; Times: 5
+	Query: "142880 type:specimen" ; Times: 1
+	Query: "country:"cuba" fossil:1" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 116 (out of 1084 download events in this period)
+Total number of records downloaded: 31485 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 27642
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 14
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 83
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 15
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-07 ; Times: 3
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 3
+	Date: 2015-07-15 ; Times: 5
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 5
+	Date: 2015-07-22 ; Times: 29
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 6
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 4
+	Date: 2015-07-30 ; Times: 8
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "camelidae media:1 fossil:1" ; Times: 3
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "blandingii (Emydoidea OR Emys)" ; Times: 1
+	Query: "Emys marmorata" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "namibia" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "elephantulus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Reptilia Brazil Parana" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Sternotherus carinatus" ; Times: 1
+	Query: "Trionyx muticus" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "stateprovince:"alaska" class:reptilia" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "lagurus curtatus" ; Times: 2
+	Query: "Clemmys marmorata" ; Times: 2
+	Query: "triceratops" ; Times: 1
+	Query: "Eublepharidae" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "Kinosternon subrubrum" ; Times: 1
+	Query: "rhinocheilus lecontei" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "county:"Carbon" stateprovince:"Utah"" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "tamias minimus" ; Times: 1
+	Query: "Graptemys nigrinoda" ; Times: 1
+	Query: "hyla smithii" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "arizona elegans type:specimen" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "petrodromus" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "county:"Emery" stateprovince:"Utah"" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "country:"Mexico" class:Amphibia" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Malaclemys (terrapin OR centrata OR tequesta OR rhizophorarum OR macrospilota OR pileata OR litoralis )" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "aepyornis" ; Times: 2
+	Query: "iguana iguana" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "callisaurus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "mammalia san juan county utah" ; Times: 1
+	Query: "rana mappable:1 distance(location,geopoint(38.00617257513525,-122.2807502746582))<7023.995390252768" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "entelodontidae media:1 fossil:1" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "Xenosauridae" ; Times: 1
+	Query: "Trionyx ferox" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "genus:Kinosternon mappable:1" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "country:"Mexico" class:Reptilia" ; Times: 1
+	Query: "Cordylidae" ; Times: 1
+	Query: "genus:Trimorphodon" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Sternotherus minor" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "lemmiscus curtatus" ; Times: 1
+	Query: "Graptemys (pseudogeographica OR sabinensis)" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 970
+Total number of records retrieved from searches: 12179
+Number of download events that retrieved data from the resource: 252
+Total number of records downloaded: 60508
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1063
+Total number of records retrieved from searches: 13057
+Number of download events that retrieved data from the resource: 894
+Total number of records downloaded: 458151
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
