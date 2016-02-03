@@ -1,0 +1,247 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 1172
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 59
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 4
+	Country: Russia ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-03 ; Times: 4
+	Date: 2015-11-11 ; Times: 6
+	Date: 2015-11-10 ; Times: 4
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-12 ; Times: 2
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-17 ; Times: 4
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-20 ; Times: 4
+	Date: 2015-11-21 ; Times: 4
+	Date: 2015-11-23 ; Times: 4
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-29 ; Times: 3
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-25 ; Times: 4
+	Date: 2015-11-26 ; Times: 7
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 20
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 4
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "74990" ; Times: 1
+	Query: "genus:Cantius" ; Times: 1
+	Query: "107871" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "176578" ; Times: 2
+	Query: "genus:Ursus stateprovince:(california OR wyoming)" ; Times: 1
+	Query: "Perognathus inornatus" ; Times: 3
+	Query: "family:Testudinidae order:Testudines stateprovince:&#34;Texas&#34; AND (-Terrapene) mappable:1" ; Times: 1
+	Query: "F.W. Hutton" ; Times: 2
+	Query: "felis lynx" ; Times: 1
+	Query: "genus:teilhardina" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Gambelia wislizeni" ; Times: 1
+	Query: "Antidorcas bondi" ; Times: 1
+	Query: "176582" ; Times: 1
+	Query: "94563" ; Times: 1
+	Query: "229974" ; Times: 1
+	Query: "Onychogalea lunata" ; Times: 1
+	Query: "176575" ; Times: 1
+	Query: "connochaetes" ; Times: 2
+	Query: "dermochelys coriacea -india" ; Times: 1
+	Query: "192049" ; Times: 1
+	Query: "317876" ; Times: 2
+	Query: "Caloprymnus campestris" ; Times: 1
+	Query: "wizard" ; Times: 10
+	Query: "176592" ; Times: 1
+	Query: "176579" ; Times: 1
+	Query: "65941" ; Times: 1
+	Query: "borophagus" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "141749" ; Times: 1
+	Query: "28884" ; Times: 1
+	Query: "Trigonocephalus" ; Times: 1
+	Query: "33462" ; Times: 2
+	Query: "Chaeropus ecaudatus" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "Stereolepis" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Colorado&#34; mappable:1" ; Times: 1
+	Query: "vanzolinii" ; Times: 1
+	Query: "la brea specificepithet:corax genus:corvus fossil:1" ; Times: 1
+	Query: "Trionyx muticus" ; Times: 1
+	Query: "benham NOT phred" ; Times: 1
+	Query: "M-141746" ; Times: 1
+	Query: "smilodonichthys" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "28862" ; Times: 1
+	Query: "genus:pelusios family:pelomedusidae AND (NOT subrufa)" ; Times: 1
+	Query: "80723" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "genus:Branta fossil:1" ; Times: 1
+	Query: "type:specimen (Pedionomus)" ; Times: 1
+	Query: "176891" ; Times: 2
+	Query: "231094" ; Times: 1
+	Query: "176585" ; Times: 1
+	Query: "Ailuropoda" ; Times: 4
+	Query: "176587" ; Times: 1
+	Query: "176586" ; Times: 1
+	Query: "Thylacinus" ; Times: 1
+	Query: "Raw data" ; Times: 1
+	Query: "order:serpentes continent:North america fossil:1" ; Times: 1
+	Query: "specificepithet:corax genus:corvus fossil:1" ; Times: 1
+	Query: "228115" ; Times: 2
+	Query: "canis adustus" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "Chaeropus" ; Times: 1
+	Query: "Sciuridae oregon cenozoic fossil:1" ; Times: 2
+	Query: "187218" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 145 (out of 751 download events in this period)
+Total number of records downloaded: 2545253
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 115
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 12
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Japan ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 4
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-30 ; Times: 3
+	Date: 2015-11-03 ; Times: 15
+	Date: 2015-11-11 ; Times: 4
+	Date: 2015-11-10 ; Times: 8
+	Date: 2015-11-13 ; Times: 6
+	Date: 2015-11-12 ; Times: 9
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-17 ; Times: 7
+	Date: 2015-11-16 ; Times: 5
+	Date: 2015-11-06 ; Times: 8
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-04 ; Times: 6
+	Date: 2015-11-05 ; Times: 8
+	Date: 2015-11-08 ; Times: 3
+	Date: 2015-11-09 ; Times: 5
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-02 ; Times: 8
+	Date: 2015-11-25 ; Times: 7
+	Date: 2015-11-26 ; Times: 9
+	Date: 2015-11-01 ; Times: 5
+	Date: 2015-11-20 ; Times: 3
+	Date: 2015-11-21 ; Times: 3
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-23 ; Times: 3
+	Date: 2015-11-18 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "class:mammalia stateprovince:California" ; Times: 37
+	Query: "cryptotis parva" ; Times: 1
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "type:specimen order:Testudines stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "Basiliscus basiliscus specificepithet:basiliscus genus:Basiliscus" ; Times: 1
+	Query: "felis lynx" ; Times: 1
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "Bradypus" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Peru&#34;" ; Times: 1
+	Query: "metachirus" ; Times: 2
+	Query: "Callisaurus" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:Hyla country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "genus:Melanitta preparations:skeleton" ; Times: 1
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Microtus californicus" ; Times: 1
+	Query: "sceloporus poinsetti" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "genus:Oxyura preparations:skeleton" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "elgaria" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "Corvus corax type:specimen mappable:1" ; Times: 1
+	Query: "Chaeropus ecaudatus" ; Times: 1
+	Query: "Scaphiopus couchi" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Colorado&#34; mappable:1" ; Times: 1
+	Query: "class:Mammalia Cervus canadensis" ; Times: 2
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Branta preparations:skeleton" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 2
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "genus:Anas preparations:skeleton" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "Dipodomys deserti" ; Times: 1
+	Query: "Trionyx muticus" ; Times: 1
+	Query: "F.W. Hutton" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "Myocastor" ; Times: 1
+	Query: "genus:Aythya preparations:skeleton" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "thomomys bottae" ; Times: 5
+	Query: "type:specimen order:Testudines stateprovince:&#34;Oklahoma&#34; mappable:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Myanmar&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 1
+	Query: "type:specimen order:Testudines stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
