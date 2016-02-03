@@ -1,0 +1,295 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 2701
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 84
+	Country: Italy ; Times: 8
+	Country: Czech Republic ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 26
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 1
+	Date: 2015-10-17 ; Times: 2
+	Date: 2015-10-14 ; Times: 16
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 2
+	Date: 2015-10-13 ; Times: 7
+	Date: 2015-10-11 ; Times: 2
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-28 ; Times: 11
+	Date: 2015-10-27 ; Times: 4
+	Date: 2015-10-26 ; Times: 7
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 6
+	Date: 2015-10-22 ; Times: 7
+	Date: 2015-10-21 ; Times: 8
+	Date: 2015-10-20 ; Times: 13
+	Date: 2015-10-05 ; Times: 6
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-06 ; Times: 8
+	Date: 2015-10-01 ; Times: 8
+	Date: 2015-10-03 ; Times: 7
+	Date: 2015-10-02 ; Times: 7
+	Date: 2015-10-09 ; Times: 3
+	Date: 2015-10-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "Temnospondyli" ; Times: 1
+	Query: "Odocoileus virginianus and texas" ; Times: 1
+	Query: "Echinops telfairi" ; Times: 1
+	Query: "Pondaungia media:1 fossil:1" ; Times: 1
+	Query: "urodela type:specimen (skull) fossil:1" ; Times: 1
+	Query: "ucmp 123181" ; Times: 1
+	Query: "Onychomys torridus tularensis (Kern)" ; Times: 2
+	Query: "wizard" ; Times: 5
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "(amphibia) fossil:1" ; Times: 9
+	Query: "genus:acinonyx" ; Times: 1
+	Query: "type:specimen country:&#34;Canada&#34; fossil:1" ; Times: 1
+	Query: "Odocoileus virginianus and california" ; Times: 1
+	Query: "type:specimen genus:acinonyx" ; Times: 5
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "boidae media:1" ; Times: 3
+	Query: "specificepithet:bauri genus:Kinosternon" ; Times: 2
+	Query: "type:specimen genus:candoia preparations:skeleton" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "specificepithet:dirus genus:Canis" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 3
+	Query: "genus:elephas tissue:1" ; Times: 2
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tachira&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Omo" ; Times: 2
+	Query: "Lagomorph" ; Times: 1
+	Query: "211677" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "Platybelodon" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "Omo Ethiopia" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "Ceratogaulus" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "(Omo Ethiopia)" ; Times: 1
+	Query: "Temnospondyli (vertebrae)" ; Times: 1
+	Query: "canis latrans county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 4
+	Query: "class:Mammalia catalognumber:96258" ; Times: 1
+	Query: "type:specimen genus:acanthophis preparations:skeleton" ; Times: 1
+	Query: "temnospondyli" ; Times: 1
+	Query: "actinemys" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "126521" ; Times: 1
+	Query: "felis concolor" ; Times: 1
+	Query: "dasypus bellus" ; Times: 4
+	Query: "brachychampsa" ; Times: 1
+	Query: "Mammuthus columbi country:&#34;Mexico&#34; fossil:1" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "(amphibia) AND (sp.) fossil:1" ; Times: 2
+	Query: "ploceidae fossil:1" ; Times: 3
+	Query: "Myliobatis longirostris" ; Times: 2
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "class:Amphibia county:&#34;Sacramento&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gopherus polyphemus tissue:1" ; Times: 1
+	Query: "preparations:skull genus:iguana specificepithet:iguana" ; Times: 1
+	Query: "(amphibia) AND (&#34;sp.&#34;) fossil:1" ; Times: 1
+	Query: "bird institutioncode:UCMP" ; Times: 1
+	Query: "Loveina media:1 fossil:1" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "mass mammalia" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; fossil:1" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "Amblyrhynchus hastypestatus:1" ; Times: 7
+	Query: "smilodon" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "211632" ; Times: 1
+	Query: "smilodon gracilis" ; Times: 1
+	Query: "diplodocus" ; Times: 7
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "121056" ; Times: 2
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "Tyrannosaurus" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "giraffidae media:1" ; Times: 4
+	Query: "27542" ; Times: 1
+	Query: "Rhizomys sinensis" ; Times: 1
+	Query: "Pituophis lodingi" ; Times: 2
+	Query: "institutioncode:UCMP" ; Times: 2
+	Query: "Ilingoceros" ; Times: 1
+	Query: "canis latrans county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "Onychomys torridus tularensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 136 (out of 823 download events in this period)
+Total number of records downloaded: 39978
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Unknown ; Times: 6
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Uganda ; Times: 1
+	Country: United States ; Times: 93
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 19
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 4
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 4
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 8
+	Date: 2015-10-29 ; Times: 11
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 6
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-25 ; Times: 5
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-21 ; Times: 4
+	Date: 2015-10-20 ; Times: 3
+	Date: 2015-10-05 ; Times: 6
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 3
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-02 ; Times: 5
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 6
+	Date: 2015-10-30 ; Times: 18
+	Date: 2015-10-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "(amphibia) fossil:1" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "bipes biporus" ; Times: 1
+	Query: "actinemys" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "bison priscus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "dendrochirus brachypterus" ; Times: 1
+	Query: "Omo" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 2
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "steatomys" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "specificepithet:mexicana genus:Lampropeltis" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "Ludlow California" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "kinosternidae tissue:1" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "specificepithet:bonairensis genus:Anolis" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 2
+	Query: "genus:Adinotherium" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; fossil:1" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1 tissue:1" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Anolis equestris" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "Salvadora hexalepis" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "class:Aves country:&#34;Peru&#34;" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+
+
+End of report.
