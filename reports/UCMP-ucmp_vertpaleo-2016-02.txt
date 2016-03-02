@@ -1,0 +1,224 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 640
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 45
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 6
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 4
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-19 ; Times: 12
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 6
+	Date: 2016-02-03 ; Times: 6
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-22 ; Times: 5
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 6
+	Date: 2016-02-05 ; Times: 10
+	Date: 2016-02-04 ; Times: 2
+	Date: 2016-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "30149" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "dusicyon" ; Times: 1
+	Query: "Phanerodon atripes" ; Times: 1
+	Query: "chrysopelea institutioncode:UCMP" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "Strix fossil:1" ; Times: 2
+	Query: "felis (california)" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "Taricha county:&#34;Kern&#34;" ; Times: 2
+	Query: "&#34;Emydoidea&#34; and &#34;Nebraska&#34;" ; Times: 1
+	Query: "california antilocapra" ; Times: 2
+	Query: "pyxidea" ; Times: 1
+	Query: "anosteira" ; Times: 1
+	Query: "Inia geoffrensis media:1" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "cetorhinus maximus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "felis concolor" ; Times: 1
+	Query: "class:reptilia county:&#34;grand&#34; stateprovince:&#34;utah&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus)" ; Times: 2
+	Query: "46719" ; Times: 1
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Kritosaurus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "Hyperprosopon ellipticum" ; Times: 1
+	Query: "Pituophis melanoleucus lodingi" ; Times: 1
+	Query: "80729" ; Times: 2
+	Query: "inia geoffrensis" ; Times: 2
+	Query: "specificepithet:Latrans genus:Canis county:&#34;Park&#34;" ; Times: 1
+	Query: "Felis California" ; Times: 3
+	Query: "dermoptera mappable:1" ; Times: 2
+	Query: "33903" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Lambeosaurus" ; Times: 1
+	Query: "county:&#34;Corson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "dermoptera" ; Times: 2
+	Query: "Panthera uncia" ; Times: 7
+	Query: "101225" ; Times: 1
+	Query: "genus:inia" ; Times: 1
+	Query: "suricata" ; Times: 3
+	Query: "aprionodon" ; Times: 2
+	Query: "95118" ; Times: 1
+	Query: "sceloporus type:specimen fossil:1" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Brachylophosaurus" ; Times: 1
+	Query: "Squatina californica" ; Times: 1
+	Query: "Sebastes serriceps" ; Times: 1
+	Query: "Sebastes carnatus" ; Times: 1
+	Query: "Chlamydosaurus hastypestatus:1" ; Times: 1
+	Query: "Rhacochilus toxotes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 126 (out of 512 download events in this period)
+Total number of records downloaded: 22949
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 71
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 3
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-18 ; Times: 6
+	Date: 2016-02-19 ; Times: 13
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 5
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 4
+	Date: 2016-02-17 ; Times: 6
+	Date: 2016-02-14 ; Times: 6
+	Date: 2016-02-15 ; Times: 5
+	Date: 2016-02-23 ; Times: 5
+	Date: 2016-02-22 ; Times: 4
+	Date: 2016-02-21 ; Times: 1
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-27 ; Times: 2
+	Date: 2016-02-26 ; Times: 15
+	Date: 2016-02-25 ; Times: 7
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 2
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-02 ; Times: 5
+	Date: 2016-02-05 ; Times: 2
+	Date: 2016-02-04 ; Times: 19
+	Date: 2016-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "class:amphibia mappable:1 stateprovince:Wyoming" ; Times: 1
+	Query: "Dicamptodon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "Cnemidophorus tigris" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Idaho" ; Times: 2
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "argyrolagus" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "perognathus inornatus" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "county:&#34;Shannon&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:Gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:sarcopterygii mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 4
+	Query: "class:actinopterygii mappable:1 stateprovince:Wyoming" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "lepidophyma" ; Times: 1
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Cnemidophorus uniparens" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "class:actinopterygii mappable:1 stateprovince:Washington" ; Times: 2
+	Query: "class:reptilia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;alaska&#34; mappable:1" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "serpentes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
