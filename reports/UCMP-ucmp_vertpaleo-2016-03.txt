@@ -1,0 +1,129 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 661
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 35
+	Country: Puerto Rico ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 5
+	Date: 2016-03-11 ; Times: 14
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 2
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 2
+	Date: 2016-03-01 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "carnivore" ; Times: 1
+	Query: "type:specimen specificepithet:arctos stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "triceratops" ; Times: 1
+	Query: "echmatemys" ; Times: 1
+	Query: "specificepithet:californicus genus:smilodon family:felidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "tarbosaurus" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:procyonidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "loxodonta" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "TOXODON" ; Times: 1
+	Query: "locality:Tecolote county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "baenidae" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:spilogale family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "lemniscomys griselda" ; Times: 1
+	Query: "Sebastes umbrosus" ; Times: 1
+	Query: "family:mephitidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Kellogg county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "loxodonta fossil:1" ; Times: 1
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "catalognumber:193823" ; Times: 1
+	Query: "family:canidae order:carnivora class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "pseudanosteira pulchra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 230 download events in this period)
+Total number of records downloaded: 3049
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: United States ; Times: 15
+	Country: Chile ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-11 ; Times: 2
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-01 ; Times: 1
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-09 ; Times: 6
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hesperotestudo" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Sigmodontinae" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "gopherus type:specimen tissue:1" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+
+
+End of report.
