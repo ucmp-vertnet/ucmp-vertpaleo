@@ -1,0 +1,205 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 574
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 81
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-18 ; Times: 5
+	Date: 2016-05-16 ; Times: 4
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-14 ; Times: 2
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-10 ; Times: 2
+	Date: 2016-05-31 ; Times: 31
+	Date: 2016-05-30 ; Times: 3
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 4
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-27 ; Times: 1
+	Date: 2016-05-24 ; Times: 5
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 8
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "country:&#34;Australia&#34; recordedby:Woodburne" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "catalognumber:199499" ; Times: 1
+	Query: "aeretes" ; Times: 1
+	Query: "Helladotherium" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "R-67076" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "family:cetotheriidae tissue:1" ; Times: 1
+	Query: "Tylomys mirae" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 1
+	Query: "Equus capensis" ; Times: 1
+	Query: "Miohippus" ; Times: 3
+	Query: "32603" ; Times: 1
+	Query: "Hippopotamus antiquus" ; Times: 1
+	Query: "206986" ; Times: 1
+	Query: "catalognumber:178426" ; Times: 1
+	Query: "205638" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace" ; Times: 2
+	Query: "specificepithet:glaucus genus:Eschrichtius" ; Times: 4
+	Query: "specificepithet:californica genus:Squatina" ; Times: 3
+	Query: "104182" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "Dimetrodon" ; Times: 3
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "specificepithet:productus genus:Rhinobatos" ; Times: 3
+	Query: "genus:Balaenoptera county:&#34;San Diego&#34;" ; Times: 1
+	Query: "squamates" ; Times: 1
+	Query: "catalognumber:199497" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "Hippopotamus gorgops" ; Times: 1
+	Query: "Samotherium" ; Times: 1
+	Query: "187364" ; Times: 1
+	Query: "manouria emys emys" ; Times: 1
+	Query: "catalognumber:199498" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 2
+	Query: "Anguis" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "Giraffokeryx" ; Times: 1
+	Query: "kern anniella" ; Times: 1
+	Query: "Martes melampus" ; Times: 2
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "rhinobatos productus" ; Times: 1
+	Query: "64234" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "Hyotherium" ; Times: 2
+	Query: "Dinictis" ; Times: 2
+	Query: "Scincidae Australia type:specimen (Woodburne) institutioncode:UCMP" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "catalognumber:199501" ; Times: 1
+	Query: "catalognumber:199502" ; Times: 1
+	Query: "Ictalurus punctatus mappable:1 tissue:1" ; Times: 1
+	Query: "Dipodomys heermani" ; Times: 2
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "catalognumber:199500" ; Times: 1
+	Query: "Synthliboramphus AND Santa Cruz" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "(Amphibia or Reptilia)" ; Times: 1
+	Query: "kern river anniella" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "specificepithet:henlei genus:Mustelus" ; Times: 3
+	Query: "oxybelis aenus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 327 download events in this period)
+Total number of records downloaded: 15885
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 63
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-19 ; Times: 5
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 6
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-31 ; Times: 43
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:caretta genus:Caretta" ; Times: 5
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "uta stansburiana" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "specificepithet:robustus genus:Eschrichtius" ; Times: 10
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 3
+	Query: "python molurus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "heloderma horridum" ; Times: 4
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "Caiman yacare" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Peromyscus" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "Dipodomys heermani" ; Times: 1
+	Query: "class:Amphibia mappable:1 distance(location,geopoint(15.07212354581167,93.5595703125))&lt;937819.0681547445" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "Lacerta agilis" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+
+
+End of report.
