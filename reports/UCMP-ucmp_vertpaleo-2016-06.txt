@@ -1,0 +1,465 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 542
+Number of records retrieved in searches: 4972
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 421
+	Country: Portugal ; Times: 24
+	Country: Mexico ; Times: 66
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 13
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Russia ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 185
+	Date: 2016-06-24 ; Times: 7
+	Date: 2016-06-23 ; Times: 16
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-21 ; Times: 17
+	Date: 2016-06-20 ; Times: 29
+	Date: 2016-06-05 ; Times: 15
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-07 ; Times: 6
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 20
+	Date: 2016-06-03 ; Times: 64
+	Date: 2016-06-02 ; Times: 75
+	Date: 2016-06-09 ; Times: 3
+	Date: 2016-06-08 ; Times: 11
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-16 ; Times: 5
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 24
+	Date: 2016-06-15 ; Times: 6
+	Date: 2016-06-13 ; Times: 37
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:144961" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "Ovis aries" ; Times: 2
+	Query: "46539" ; Times: 1
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:exilis genus:Strongylura" ; Times: 6
+	Query: "bison bison   " ; Times: 3
+	Query: "99393" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "98763" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "Reptilia 171782" ; Times: 1
+	Query: "distance(location,geopoint(37,-122))&lt;1" ; Times: 1
+	Query: "distance(location,geopoint(37,-122))&lt;0" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 48
+	Query: "institutioncode:ucmp oreodon" ; Times: 2
+	Query: "93683" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Thoatherium" ; Times: 1
+	Query: "Lampropeltis triangulum hondurensis" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "Reptilia 150781" ; Times: 1
+	Query: "Podocnemis sextuberculata" ; Times: 1
+	Query: "224153" ; Times: 1
+	Query: "129246" ; Times: 1
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "73277" ; Times: 1
+	Query: "322089" ; Times: 1
+	Query: "Geochelone radiata" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "Reptilia 129256" ; Times: 1
+	Query: "Chamaeleo chamaeleon 1" ; Times: 5
+	Query: "Reptilia 129254" ; Times: 1
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "institutioncode:ucmp arikaree" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "Reptilia 129393" ; Times: 1
+	Query: "Reptilia 72923" ; Times: 2
+	Query: "Lampropeltis alterna 1" ; Times: 3
+	Query: "(unsm)" ; Times: 1
+	Query: "catalognumber:178445" ; Times: 1
+	Query: "Colodon" ; Times: 1
+	Query: "Gobiatherium" ; Times: 1
+	Query: "Protoceras" ; Times: 1
+	Query: "Megatapirus" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "Reptilia 151136" ; Times: 1
+	Query: "catalognumber:178448" ; Times: 1
+	Query: "catalognumber:178449" ; Times: 1
+	Query: "8442 mammalia" ; Times: 1
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "38682" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "Reptilia 109835" ; Times: 1
+	Query: "Reptilia 109836" ; Times: 1
+	Query: "127250" ; Times: 2
+	Query: "Reptilia 37842" ; Times: 1
+	Query: "Moeritherium" ; Times: 1
+	Query: "uintatherium" ; Times: 1
+	Query: "141802" ; Times: 1
+	Query: "Tropiduridae 1" ; Times: 2
+	Query: "Palaeotherium" ; Times: 1
+	Query: "Reptilia 1794" ; Times: 2
+	Query: "Reptilia 84985" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "128775" ; Times: 1
+	Query: "Euceratherium" ; Times: 6
+	Query: "128776" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "Reptilia 109837" ; Times: 2
+	Query: "131078" ; Times: 1
+	Query: "specificepithet:blandingi family:Emydidae" ; Times: 1
+	Query: "Reptilia 136222" ; Times: 1
+	Query: "Reptilia 137059" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "R.161282" ; Times: 1
+	Query: "Titanoides" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "145108" ; Times: 1
+	Query: "162089" ; Times: 1
+	Query: "46494" ; Times: 1
+	Query: "Estrilda melpoda 1" ; Times: 3
+	Query: "11139" ; Times: 4
+	Query: "type:specimen order:aves" ; Times: 1
+	Query: "86655" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "98774" ; Times: 1
+	Query: "225762" ; Times: 2
+	Query: "gobiatherium" ; Times: 1
+	Query: "proteles" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Homo neanderthalensis" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "genus:Mola" ; Times: 1
+	Query: "Reptilia 119782" ; Times: 1
+	Query: "152658" ; Times: 1
+	Query: "120059" ; Times: 1
+	Query: "Indotestudo elongata" ; Times: 1
+	Query: "555693" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 2
+	Query: "88727" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "59041" ; Times: 2
+	Query: "Bathyopsis" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "11899" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "97086" ; Times: 1
+	Query: "Reptilia 130734" ; Times: 1
+	Query: "Varanus niloticus " ; Times: 1
+	Query: "141630" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "118669" ; Times: 1
+	Query: "211792" ; Times: 1
+	Query: "128774" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Cuon alpinus" ; Times: 1
+	Query: "Reptilia 99109" ; Times: 1
+	Query: "Reptilia 119969" ; Times: 1
+	Query: "Diadiaphorus" ; Times: 1
+	Query: "catalognumber:184713" ; Times: 1
+	Query: "103398" ; Times: 1
+	Query: "214726" ; Times: 2
+	Query: "251568" ; Times: 1
+	Query: "Estes Scincidae type:specimen" ; Times: 1
+	Query: "157870" ; Times: 1
+	Query: "Makapania" ; Times: 2
+	Query: "104912" ; Times: 1
+	Query: "125408" ; Times: 3
+	Query: "borophagus (nebraska)" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 3
+	Query: "Nandayus nenday 1" ; Times: 2
+	Query: "Reptilia 40035" ; Times: 1
+	Query: "Reptilia 42699" ; Times: 1
+	Query: "208317" ; Times: 1
+	Query: "Reptilia 156715" ; Times: 1
+	Query: "specificepithet:komodoensis" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "208318" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "98759" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "Reptilia 137058" ; Times: 1
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "160399" ; Times: 3
+	Query: "Woodburne Scincidae type:specimen" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "Reptilia 137056" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 8
+	Query: "Geochelone gigantea" ; Times: 2
+	Query: "genyornis" ; Times: 1
+	Query: "141529" ; Times: 1
+	Query: "distance(location,geopoint(37,-122))&lt;10" ; Times: 1
+	Query: "Diplodocus carnegii" ; Times: 1
+	Query: "Reptilia 119970" ; Times: 1
+	Query: "lichanura county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:161331" ; Times: 1
+	Query: "Stegodon" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Los Angeles&#34;" ; Times: 2
+	Query: "Coryphodon" ; Times: 3
+	Query: "172508" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "Platemys platycephala" ; Times: 2
+	Query: "crocuta" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "Dilophodon" ; Times: 1
+	Query: "248878" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 13
+	Query: "catalognumber:198383" ; Times: 1
+	Query: "Reptilia 118695" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "Barylambda" ; Times: 1
+	Query: "123899" ; Times: 1
+	Query: "Reptilia 119584" ; Times: 1
+	Query: "borophagus" ; Times: 2
+	Query: "108985" ; Times: 1
+	Query: "73821" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "institutioncode:ucmp" ; Times: 2
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 91
+	Query: "77997" ; Times: 1
+	Query: "canis adustus" ; Times: 5
+	Query: "cuon alpinus" ; Times: 7
+	Query: "208320" ; Times: 1
+	Query: "Synthetoceras" ; Times: 1
+	Query: "167471" ; Times: 1
+	Query: "106011" ; Times: 3
+	Query: "Reptilia 27353" ; Times: 1
+	Query: "204047" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Scincidae Egernia type:specimen (Skeleton )" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 7
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "catalognumber:59500" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "164118" ; Times: 1
+	Query: "102893" ; Times: 1
+	Query: "169051" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "Testudo graeca 1" ; Times: 4
+	Query: "Homo erectus" ; Times: 1
+	Query: "specificepithet:californica genus:Squatina" ; Times: 2
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "147216" ; Times: 1
+	Query: "plesiadapis" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "Python molurus " ; Times: 2
+	Query: "Reptilia 137057" ; Times: 1
+	Query: "genus:bison" ; Times: 2
+	Query: "institutioncode:ucmp titanotherium" ; Times: 2
+	Query: "30753" ; Times: 1
+	Query: "Sacalia bealei" ; Times: 1
+	Query: "150223" ; Times: 1
+	Query: "R 175527" ; Times: 1
+	Query: "elephas" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "137030" ; Times: 1
+	Query: "124151" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "alces alces   " ; Times: 6
+	Query: "Reptilia 129392" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "211571" ; Times: 1
+	Query: "Reptilia 116449" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "Mammuthus columbi" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "Reptilia 27579" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: "Reptilia 137060" ; Times: 1
+	Query: "Reptilia 137708" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "77593" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "139591" ; Times: 1
+	Query: "canis lupus   " ; Times: 2
+	Query: "25087" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "Hyracotherium leporinum" ; Times: 1
+	Query: "112237" ; Times: 1
+	Query: "Phiomia" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "Reptilia 109843" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Prodinoceras" ; Times: 1
+	Query: "Reptilia 25158" ; Times: 1
+	Query: "specificepithet:occiduus" ; Times: 1
+	Query: "Rattus norvegicus 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 181 (out of 1052 download events in this period)
+Total number of records downloaded: 7469
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 100
+	Country: Mexico ; Times: 71
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 3
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 8
+	Date: 2016-06-21 ; Times: 2
+	Date: 2016-06-20 ; Times: 9
+	Date: 2016-06-05 ; Times: 4
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-07 ; Times: 10
+	Date: 2016-06-06 ; Times: 4
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-03 ; Times: 10
+	Date: 2016-06-02 ; Times: 11
+	Date: 2016-06-23 ; Times: 7
+	Date: 2016-06-22 ; Times: 3
+	Date: 2016-06-18 ; Times: 10
+	Date: 2016-06-19 ; Times: 5
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-17 ; Times: 8
+	Date: 2016-06-14 ; Times: 17
+	Date: 2016-06-15 ; Times: 18
+	Date: 2016-06-12 ; Times: 5
+	Date: 2016-06-13 ; Times: 23
+	Date: 2016-06-10 ; Times: 3
+	Date: 2016-06-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "iguania" ; Times: 1
+	Query: "specificepithet:insculpta family:emydidae" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "trimorphodon" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "chamaeleo jacksonii" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Chelydra" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "genus:lepidochelys" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 2
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "wallabia bicolor" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "deirochelys" ; Times: 2
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 6
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "specificepithet:orbicularis family:emydidae" ; Times: 2
+	Query: "Gopherus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "Castor (California)" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "genus:kinixys" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 1
+	Query: "type:specimen genus:Anolis" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "bipes" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "specificepithet:marmorata family:Emydidae" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Chinemys" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Cuora" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Emydura" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Eschrichtius ROBUSTUS" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+
+
+End of report.
