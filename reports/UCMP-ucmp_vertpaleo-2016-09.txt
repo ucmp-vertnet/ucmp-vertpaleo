@@ -1,0 +1,212 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 2569
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 82
+	Country: Portugal ; Times: 38
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-02 ; Times: 4
+	Date: 2016-09-07 ; Times: 21
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-01 ; Times: 6
+	Date: 2016-09-13 ; Times: 6
+	Date: 2016-09-12 ; Times: 5
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-08 ; Times: 24
+	Date: 2016-09-09 ; Times: 15
+	Date: 2016-09-23 ; Times: 4
+	Date: 2016-09-04 ; Times: 5
+	Date: 2016-09-30 ; Times: 1
+	Date: 2016-09-05 ; Times: 19
+	Date: 2016-09-21 ; Times: 9
+	Date: 2016-09-26 ; Times: 1
+	Date: 2016-09-06 ; Times: 2
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "21963" ; Times: 2
+	Query: "234374" ; Times: 1
+	Query: "specificepithet:griseus genus:Hexanchus" ; Times: 1
+	Query: "specificepithet:clathratus genus:Paralabrax" ; Times: 1
+	Query: "ucmp tamiasciurus hudsonicus" ; Times: 1
+	Query: "227520" ; Times: 1
+	Query: "genus:Oreonetes" ; Times: 1
+	Query: "5291 corvus" ; Times: 1
+	Query: "Nandayus nenday 1" ; Times: 2
+	Query: "Athene noctua 1" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "Testudo graeca 1" ; Times: 2
+	Query: "specificepithet:californiensis genus:Atherinopsis" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "Procoptodon" ; Times: 4
+	Query: "118309" ; Times: 2
+	Query: "Clemmys marmorata Nevada" ; Times: 1
+	Query: "Cygnus columbianus 1" ; Times: 1
+	Query: "137925" ; Times: 1
+	Query: "Elephas" ; Times: 1
+	Query: "mosasauridae" ; Times: 1
+	Query: "Papio type:specimen fossil:1" ; Times: 1
+	Query: "Dromaius novaehollandiae 1" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Pseudalopex culpaeus" ; Times: 2
+	Query: "Actinemys marmorata" ; Times: 4
+	Query: "Amazona ochrocephala 1" ; Times: 2
+	Query: "77230" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "scientificname:&#34;carpolestes nigridens&#34;" ; Times: 1
+	Query: "Haliaeetus leucocephalus 1" ; Times: 1
+	Query: "scientificname:&#34;mimoperadectes  labrus&#34;" ; Times: 5
+	Query: "Nyctereutes procyonoides" ; Times: 3
+	Query: "72673" ; Times: 1
+	Query: "specificepithet:compressus genus:Scarus" ; Times: 1
+	Query: "Chamaeleo chamaeleon 1" ; Times: 2
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "specificepithet:princeps genus:Caulolatilus" ; Times: 1
+	Query: "140930" ; Times: 1
+	Query: "elephantidae type:specimen tissue:1" ; Times: 1
+	Query: "Kobus zoO" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 8
+	Query: "Carassius auratus" ; Times: 1
+	Query: "70064" ; Times: 1
+	Query: "120126" ; Times: 1
+	Query: "Bonasa umbellus 1" ; Times: 1
+	Query: "Saguinus oedipus 1" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "Cercopithecidae type:specimen fossil:1" ; Times: 1
+	Query: "25239" ; Times: 1
+	Query: "Anas americana 1" ; Times: 3
+	Query: "dermoptera mappable:1" ; Times: 4
+	Query: "Oreonetes anceps" ; Times: 2
+	Query: "Cygnus olor 1" ; Times: 2
+	Query: "Marmota marmota 1" ; Times: 5
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 1
+	Query: "Anser albifrons 1" ; Times: 2
+	Query: "99447" ; Times: 1
+	Query: "&#34;acinonyx&#34; mappable:1" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "R-185165" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "69273" ; Times: 1
+	Query: "specificepithet:albacares genus:Thunnus" ; Times: 1
+	Query: "82991" ; Times: 1
+	Query: "Estrilda melpoda 1" ; Times: 2
+	Query: "Nyctereutes procyonoides 1" ; Times: 9
+	Query: "Melopsittacus undulatus 1" ; Times: 2
+	Query: "Pavo cristatus 1" ; Times: 1
+	Query: "Grus canadensis 1" ; Times: 2
+	Query: "Cathartes aura 1" ; Times: 1
+	Query: "Eudocimus ruber 1" ; Times: 2
+	Query: "locality:darling downs country:&#34;Australia&#34;" ; Times: 1
+	Query: "scientificname:&#34;macrocranion junnei&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 252 (out of 811 download events in this period)
+Total number of records downloaded: 290267
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 99
+	Country: Mexico ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 143
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 10
+	Date: 2016-09-12 ; Times: 8
+	Date: 2016-09-11 ; Times: 6
+	Date: 2016-09-10 ; Times: 5
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 4
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-06 ; Times: 24
+	Date: 2016-09-07 ; Times: 28
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 20
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 27
+	Date: 2016-09-09 ; Times: 6
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-04 ; Times: 4
+	Date: 2016-09-01 ; Times: 16
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 20
+	Date: 2016-09-05 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Lepidophyma flavimaculatum&#34;" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "falco peregrinus continent:america" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "rana pipiens" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "geococcyx californianus" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "Scaphiopus couchi" ; Times: 1
+	Query: "aves and Guinea type:specimen" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "Dermoptera mappable:1" ; Times: 23
+	Query: "Callipepla californica" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 47
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "Dermoptera" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "Cygnus buccinator" ; Times: 1
+	Query: "cygnus" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "dermoptera" ; Times: 2
+
+
+End of report.
