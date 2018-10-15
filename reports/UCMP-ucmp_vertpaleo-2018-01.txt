@@ -1,0 +1,368 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 393
+Number of records retrieved in searches: 4605
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 4
+	Country: United States ; Times: 233
+	Country: Austria ; Times: 2
+	Country: United Kingdom ; Times: 9
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 93
+	Country: South Korea ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 3
+	Date: 2018-01-18 ; Times: 11
+	Date: 2018-01-31 ; Times: 15
+	Date: 2018-01-30 ; Times: 11
+	Date: 2018-01-11 ; Times: 6
+	Date: 2018-01-10 ; Times: 3
+	Date: 2018-01-13 ; Times: 7
+	Date: 2018-01-12 ; Times: 9
+	Date: 2018-01-15 ; Times: 37
+	Date: 2018-01-14 ; Times: 15
+	Date: 2018-01-17 ; Times: 17
+	Date: 2018-01-16 ; Times: 22
+	Date: 2018-01-24 ; Times: 36
+	Date: 2018-01-25 ; Times: 15
+	Date: 2018-01-08 ; Times: 18
+	Date: 2018-01-09 ; Times: 24
+	Date: 2018-01-28 ; Times: 4
+	Date: 2018-01-29 ; Times: 9
+	Date: 2018-01-02 ; Times: 6
+	Date: 2018-01-03 ; Times: 15
+	Date: 2018-01-26 ; Times: 11
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-06 ; Times: 4
+	Date: 2018-01-21 ; Times: 5
+	Date: 2018-01-22 ; Times: 28
+	Date: 2018-01-07 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 7
+	Date: 2018-01-23 ; Times: 43
+	Date: 2018-01-27 ; Times: 3
+	Date: 2018-01-20 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Camelus dromedarius dromedarius" ; Times: 12
+	Query: "Premnas biaculeatus" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 32
+	Query: "genus:Helodermoides institutioncode:UCMP" ; Times: 1
+	Query: "genus:Proxestops" ; Times: 2
+	Query: "dasyatis americana" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "118132" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 2
+	Query: "petrosaurus thalasinus" ; Times: 1
+	Query: "92095" ; Times: 1
+	Query: "Dinictis" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "catalognumber:121671" ; Times: 1
+	Query: "iptrecordid:&#34;urn:catalog:UCMP:V:22843&#34;" ; Times: 4
+	Query: "Anas strepera" ; Times: 1
+	Query: "202688" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "233347" ; Times: 1
+	Query: "genus:Arpadosaurus institutioncode:UCMP" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 39
+	Query: "genus:Paraglyptosaurus" ; Times: 4
+	Query: "51835" ; Times: 1
+	Query: "166146" ; Times: 2
+	Query: "tyrannosaurus dentary institutioncode:UCMP" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "136206" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Pelecanus erythrorhynchos" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Fistularia hastissue:1" ; Times: 1
+	Query: "class:reptilia locality:Camp Cady institutioncode:UCMP" ; Times: 1
+	Query: "95638" ; Times: 1
+	Query: "(225778)" ; Times: 1
+	Query: "holotype family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 14
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "archaeopteryx" ; Times: 2
+	Query: "Hypsypops rubicunda" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "family:Ursidae stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "genus:Eoglyptosaurus institutioncode:UCMP" ; Times: 1
+	Query: "91908" ; Times: 1
+	Query: "locality:camp cady" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 3
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "Amphiprion perideraion" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "29233" ; Times: 3
+	Query: "r-87617" ; Times: 1
+	Query: "Amphiprion ephippium" ; Times: 2
+	Query: "genus:Xestops" ; Times: 2
+	Query: "Aulostomus chinensis" ; Times: 1
+	Query: "76908" ; Times: 1
+	Query: "family:chelidae hasmedia:1" ; Times: 2
+	Query: "Lepidophyma flavimaculatum" ; Times: 2
+	Query: "36607" ; Times: 3
+	Query: "iptrecordid:&#34;urn:catalog:UCMP:V:61154&#34;" ; Times: 4
+	Query: "187896" ; Times: 1
+	Query: "camp cady" ; Times: 1
+	Query: "Diceros bicornis bicornis" ; Times: 3
+	Query: "77136" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;los angeles&#34;" ; Times: 3
+	Query: "genus:Glyptosaurus" ; Times: 4
+	Query: "Amphiprion akindynos" ; Times: 1
+	Query: "class:Osteichthyes preparations:skeleton" ; Times: 3
+	Query: "dinomys" ; Times: 2
+	Query: "24880" ; Times: 1
+	Query: "distance(location,geopoint(37.222568117143,-75.999510251))&lt;1566" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 4
+	Query: "109562" ; Times: 1
+	Query: "Amphiprion ocellaris" ; Times: 1
+	Query: "genus:Lynx county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "198634" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "146799" ; Times: 1
+	Query: "genus:Lestodelphys" ; Times: 3
+	Query: "&#34;Lutreolina crassicaudata&#34; mappable:1" ; Times: 1
+	Query: "Amphiprion melanopus" ; Times: 2
+	Query: "genus:Macaca order:Primates institutioncode:UCMP" ; Times: 1
+	Query: "amnh 30020" ; Times: 1
+	Query: "Camelus bactrianus" ; Times: 2
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "Camelus bactrianus bactrianus" ; Times: 1
+	Query: "138617" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "genus:Paraglyptosaurus institutioncode:UCMP" ; Times: 1
+	Query: "genus:Allosaurus institutioncode:UCMP" ; Times: 6
+	Query: "Ovibos moschatus" ; Times: 3
+	Query: "genus:Xestops institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona stateprovince:&#34;Wyoming&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Alces alces americana" ; Times: 4
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 5
+	Query: "dermoptera hastypestatus:1" ; Times: 5
+	Query: "84111" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "Equus asinus" ; Times: 1
+	Query: "&#34;Dasypus novencinctus&#34;" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 2
+	Query: "genus:Urocyon county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "24291" ; Times: 1
+	Query: "nimravidae" ; Times: 1
+	Query: "Chromis punctipinnis" ; Times: 1
+	Query: "Equus caballus" ; Times: 3
+	Query: "V-1689" ; Times: 1
+	Query: "Hypsypops rubicundus" ; Times: 1
+	Query: "genus:Lutreolina mappable:1" ; Times: 2
+	Query: "Amphiprion frenatus" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Gerres cinereus" ; Times: 2
+	Query: "stateprovince:&#34;Minas Gerais&#34; country:&#34;Brazil&#34; institutioncode:UCMP" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "Equus caballus caballus" ; Times: 2
+	Query: "89962" ; Times: 1
+	Query: "Struthioniformes Rheiformes" ; Times: 1
+	Query: "146800" ; Times: 2
+	Query: "pinniped" ; Times: 1
+	Query: "Ovibos moschatus moschatus" ; Times: 3
+	Query: "Strongylura notata" ; Times: 2
+	Query: "119073" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Proxestops institutioncode:UCMP" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "genus:Glyptosaurus institutioncode:UCMP" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "dermoptera" ; Times: 5
+	Query: "hyaena brunnea mappable:1" ; Times: 1
+	Query: "61419" ; Times: 1
+	Query: "genus:taricha (&#34;el dorado&#34; OR &#34;amador&#34; OR &#34;calaveras&#34;)" ; Times: 1
+	Query: "Presbyornis" ; Times: 2
+	Query: "Ceratotherium simum simum" ; Times: 3
+	Query: "tyrannosaurus institutioncode:UCMP" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "18139" ; Times: 1
+	Query: "123553" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "genus:taricha county:&#34;calaveras&#34;" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 2
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "161314" ; Times: 1
+	Query: "catalognumber:96993" ; Times: 1
+	Query: "genus:Triceratops" ; Times: 3
+	Query: "specificepithet:mohavensis" ; Times: 2
+	Query: "specificepithet:canadensis genus:Branta county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "86159" ; Times: 1
+	Query: "specificepithet:rex genus:Tyrannosaurus institutioncode:UCMP" ; Times: 1
+	Query: "genus:Eoglyptosaurus" ; Times: 2
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 1
+	Query: "genus:Urocyon county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Dasyurus geoffroi" ; Times: 1
+	Query: "genus:Helodermoides" ; Times: 3
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "Dermoptera" ; Times: 5
+	Query: "147190" ; Times: 2
+	Query: "genus:Arpadosaurus" ; Times: 2
+	Query: "class:reptilia locality:camp cady" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "an 612 mammalia" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "catalognumber:205388" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 313 (out of 1398 download events in this period)
+Total number of records downloaded: 11348
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Italy ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 288
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 9
+	Date: 2018-01-18 ; Times: 11
+	Date: 2018-01-31 ; Times: 19
+	Date: 2018-01-30 ; Times: 24
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-16 ; Times: 2
+	Date: 2018-01-24 ; Times: 36
+	Date: 2018-01-25 ; Times: 40
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 4
+	Date: 2018-01-28 ; Times: 3
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 11
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-26 ; Times: 7
+	Date: 2018-01-27 ; Times: 2
+	Date: 2018-01-06 ; Times: 1
+	Date: 2018-01-21 ; Times: 6
+	Date: 2018-01-22 ; Times: 30
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 4
+	Date: 2018-01-23 ; Times: 76
+	Date: 2018-01-20 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "hippopotamus amphibius mappable:1" ; Times: 1
+	Query: "Vombatus ursinus" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Osteoglossum bicirrhosum" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "&#34;pipistrellus pipistrellus&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "Dermoptera vntype:specimen mappable:1" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 1
+	Query: "dermoptera hastypestatus:1" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "county:&#34;San Mateo&#34; stateprovince:&#34;California&#34; (Amphibia OR Reptilia)" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 9
+	Query: "(dermoptera ) mappable:1" ; Times: 3
+	Query: "Dermoptera mappable:1" ; Times: 91
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "camp cady" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "genus:Odocoileus country:&#34;United States&#34;" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "aplodinotus grunniens" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;california&#34; (Sorex) mappable:1" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 4
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Aneides flavipunctatus flavipunctatus" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 9
+	Query: "dermoptera mappable:1" ; Times: 100
+	Query: "Dermoptera" ; Times: 2
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "stateprovince:&#34;santander&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "Epicyon" ; Times: 1
+	Query: "class:aves recordedby:*weber*" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "dermoptera" ; Times: 15
+	Query: "pongo pygmaeus continent:asia" ; Times: 1
+	Query: "Myotis yumanensis mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis mappable:1" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "Neurotrichus gibbsii" ; Times: 1
+	Query: "hyaena brunnea mappable:1" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Thamnophis melanogaster" ; Times: 2
+	Query: "aneides lugubris" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 3
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "vombatus ursinus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+
+
+End of report.
