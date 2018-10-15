@@ -1,0 +1,235 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 1102
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 77
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: Denmark ; Times: 12
+	Country: France ; Times: 20
+	Country: United Kingdom ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 10
+	Country: Belgium ; Times: 1
+	Country: Venezuela ; Times: 16
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 4
+	Date: 2017-12-31 ; Times: 1
+	Date: 2017-12-16 ; Times: 4
+	Date: 2017-12-14 ; Times: 7
+	Date: 2017-12-15 ; Times: 2
+	Date: 2017-12-12 ; Times: 11
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-10 ; Times: 8
+	Date: 2017-12-11 ; Times: 43
+	Date: 2017-12-29 ; Times: 2
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-24 ; Times: 4
+	Date: 2017-12-23 ; Times: 1
+	Date: 2017-12-21 ; Times: 7
+	Date: 2017-12-20 ; Times: 9
+	Date: 2017-12-05 ; Times: 12
+	Date: 2017-12-04 ; Times: 10
+	Date: 2017-12-07 ; Times: 9
+	Date: 2017-12-06 ; Times: 9
+	Date: 2017-12-03 ; Times: 6
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "apataelurus" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "creek family:Testudinidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "wizard" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 8
+	Query: "Heterodontus mexicanus" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "19403" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "Parupeneus cyclostomus" ; Times: 1
+	Query: "holotype family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 3
+	Query: "channel family:Emydidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "wash family:Xantusiidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Parupeneus barberinoides" ; Times: 1
+	Query: "223283" ; Times: 1
+	Query: "Triceratops" ; Times: 1
+	Query: "223285" ; Times: 1
+	Query: "Plethodon cinerus" ; Times: 3
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT MVZ) institutioncode:UCMP" ; Times: 3
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "110080" ; Times: 1
+	Query: "120038" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "Amphiprion perideraion" ; Times: 1
+	Query: "322735" ; Times: 1
+	Query: "Amphiprion ephippium" ; Times: 2
+	Query: "microtus townsendi" ; Times: 1
+	Query: "Remora australis" ; Times: 16
+	Query: "220237" ; Times: 1
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 1
+	Query: "remora australis" ; Times: 3
+	Query: "Amphiprion akindynos" ; Times: 1
+	Query: "Hbb" ; Times: 3
+	Query: "lycaenops" ; Times: 3
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "Gerres cinereus" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "22094" ; Times: 2
+	Query: "Amphiprion melanopus" ; Times: 2
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "channel family:Anniellidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Strongylura notata" ; Times: 1
+	Query: "river specificepithet:pulchra family:Anniellidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "Amphiprion ocellaris" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT MVZ)" ; Times: 2
+	Query: "class:Reptilia locality:Hartman Ranch county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT MVZ) institutioncode:UCMP" ; Times: 1
+	Query: "DRYMARCHON couperi" ; Times: 2
+	Query: "185734" ; Times: 1
+	Query: "119073" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "97811" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "catalognumber:158557" ; Times: 4
+	Query: "Hexanchus griseus mappable:1" ; Times: 1
+	Query: "river family:Testudinidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "institutioncode:UCMP isfossil:1" ; Times: 4
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "river family:Crotaphytidae stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "206666" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "class:Reptilia locality:Nettle Spring county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CCBER NOT CAS NOT LACM NOT MVZ) institutioncode:UCMP" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;Nevada&#34;" ; Times: 4
+	Query: "family:Testudinidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "arroyo family:Testudinidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "plethodon cinerus" ; Times: 7
+	Query: "77075" ; Times: 1
+	Query: "Amphiprion frenatus" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 4
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "77705" ; Times: 1
+	Query: "160535" ; Times: 1
+	Query: "29809" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 674 download events in this period)
+Total number of records downloaded: 5293
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 46
+	Country: China ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-27 ; Times: 4
+	Date: 2017-12-26 ; Times: 5
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 1
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 6
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-01 ; Times: 3
+	Date: 2017-12-13 ; Times: 12
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-12 ; Times: 3
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus montanus" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Callisaurus draconoides" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "holotype family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "serpentes colombia" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 3
+	Query: "Rhinobatos" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "plethodon cinerus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "vulpes macrotis mutica" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "potamotrygonidae" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "sorex merriami" ; Times: 1
+	Query: "eumeces laticeps" ; Times: 1
+	Query: "family:Anniellidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 1
+	Query: "Charina trivirgata" ; Times: 1
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (wash OR creek OR river OR stream OR intermittent OR ephemeral OR channel OR arroyo OR floodplain OR bank OR riparian)" ; Times: 2
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
