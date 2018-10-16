@@ -1,0 +1,258 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 449
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 103
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 12
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-22 ; Times: 4
+	Date: 2018-05-23 ; Times: 15
+	Date: 2018-05-24 ; Times: 8
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-27 ; Times: 4
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 5
+	Date: 2018-05-03 ; Times: 10
+	Date: 2018-05-01 ; Times: 12
+	Date: 2018-05-08 ; Times: 10
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 3
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 2
+	Date: 2018-05-17 ; Times: 5
+	Date: 2018-05-16 ; Times: 6
+	Date: 2018-05-11 ; Times: 9
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "95215" ; Times: 1
+	Query: "distance(location,geopoint(41.5160441908394,-96.0198408340023))&lt;18975" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris institutioncode:UCMP" ; Times: 6
+	Query: "crotaphytus skeleton mvz" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:UCMP" ; Times: 3
+	Query: "155132" ; Times: 1
+	Query: "155131" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "149388" ; Times: 1
+	Query: "family:Sphenodontidae preparations:skeleton" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "morelia amethistinus" ; Times: 4
+	Query: "109699" ; Times: 1
+	Query: "aves charadrius montana" ; Times: 1
+	Query: "genus:naja preparations:skeleton" ; Times: 2
+	Query: "genus:crotalus county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Santander&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:223155" ; Times: 1
+	Query: "Orohippus" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "Diplocaulus" ; Times: 1
+	Query: "distance(location,geopoint(41.4408871659562,-95.9614754317952))&lt;18889" ; Times: 2
+	Query: "apertus" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "family:Xenopeltidae preparations:skeleton" ; Times: 1
+	Query: "minnesota v" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "barisia skeleton" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "vntype:specimen family:Otariidae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "vntype:specimen class:mammalia preparations:skeletal hasmedia:1" ; Times: 1
+	Query: "dicrocerus" ; Times: 1
+	Query: "genus:Diplocaulus basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 1
+	Query: "vntype:specimen family:Phocidae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "vntype:specimen order:Nectridea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:UCMP" ; Times: 3
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotaphytus insularis skeleton" ; Times: 6
+	Query: "aepyornis" ; Times: 4
+	Query: "genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cornuta genus:Ceratophrys institutioncode:UCMP" ; Times: 3
+	Query: "echinorhinus" ; Times: 1
+	Query: "vntype:specimen genus:Diplocaulus basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "vntype:specimen preparations:all" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "vntype:specimen family:eschrichtiidae preparations:skeleton hasmedia:1" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "Adapis" ; Times: 2
+	Query: "Pronolagus" ; Times: 2
+	Query: "Thylacinus cynocephalus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:UCMP" ; Times: 3
+	Query: "genus:crotalus county:&#34;fresno&#34;" ; Times: 1
+	Query: "taricha calaveras" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "genus:arctodus (metacarpal)" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "family:Hydrophiidae preparations:skeleton" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34; AND (NOT UTA NOT MCZ)" ; Times: 1
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "sylvilagus nuttalli (California)" ; Times: 1
+	Query: "catalognumber:203840" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:UCMP" ; Times: 3
+	Query: "Terrapene mexicana" ; Times: 1
+	Query: "genus:Arctodus (metacarpal)" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Tolima&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Diplocaulus order:Nectridea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "Lutra lutra" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1178 download events in this period)
+Total number of records downloaded: 3361
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 22
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Spain ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 3
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 9
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-09 ; Times: 11
+	Date: 2018-05-31 ; Times: 2
+	Date: 2018-05-30 ; Times: 5
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Calotes mystaceus" ; Times: 1
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "lesion" ; Times: 2
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "genus:arctodus" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "sylvilagus nuttalli" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Terrapene mexicana" ; Times: 1
+	Query: "Pseudobranchus axanthus" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "vntype:specimen family:Sciuridae (miocene) isfossil:1" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eurycea rathbuni" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+
+
+End of report.
