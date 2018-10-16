@@ -1,0 +1,336 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 158
+Number of records retrieved in searches: 1011
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 10
+	Country: China ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 120
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 14
+	Date: 2018-04-21 ; Times: 8
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 9
+	Date: 2018-04-25 ; Times: 11
+	Date: 2018-04-24 ; Times: 5
+	Date: 2018-04-01 ; Times: 9
+	Date: 2018-04-03 ; Times: 9
+	Date: 2018-04-02 ; Times: 14
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 8
+	Date: 2018-04-07 ; Times: 4
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 4
+	Date: 2018-04-08 ; Times: 4
+	Date: 2018-04-16 ; Times: 5
+	Date: 2018-04-12 ; Times: 10
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-11 ; Times: 3
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 4
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-15 ; Times: 4
+	Date: 2018-04-18 ; Times: 12
+	Date: 2018-04-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "26781" ; Times: 1
+	Query: "emys blandingii" ; Times: 3
+	Query: "219121" ; Times: 1
+	Query: "oreotragus oreotragus" ; Times: 1
+	Query: "105820" ; Times: 1
+	Query: "Platysaurus relictus" ; Times: 1
+	Query: "75314" ; Times: 1
+	Query: "genus:Chamaeleo preparations:skeleton" ; Times: 4
+	Query: "family:Testudinidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "holbrookia skeleton" ; Times: 1
+	Query: "genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "petrosaurus thalasinus" ; Times: 1
+	Query: "genus:Caenolestes " ; Times: 2
+	Query: "specificepithet:Lateralis genus:Spermophilus" ; Times: 3
+	Query: "wizard" ; Times: 2
+	Query: "crocodylus rhombifer" ; Times: 1
+	Query: "genus:Arborimus specificepithet:albipes mappable:1" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "specificepithet:electrum genus:anolis" ; Times: 2
+	Query: "bobcat mappable:1" ; Times: 2
+	Query: "pallescens hastypestatus:1" ; Times: 1
+	Query: "Felis nigripes mappable:1" ; Times: 1
+	Query: "75309" ; Times: 1
+	Query: "genus:Megalonyx specificepithet:jeffersonii mappable:1" ; Times: 1
+	Query: "genus:anolis institutioncode:UCMP" ; Times: 1
+	Query: "75025" ; Times: 1
+	Query: "specificepithet:haitatsi genus:anolis" ; Times: 1
+	Query: "123043" ; Times: 1
+	Query: "genus:crotalus county:&#34;Shasta&#34;" ; Times: 1
+	Query: "symbos" ; Times: 2
+	Query: "mirounga angustirostris" ; Times: 2
+	Query: "vntype:specimen specificepithet:polyphemus genus:Gopherus hastissue:1" ; Times: 2
+	Query: "91909" ; Times: 1
+	Query: "specificepithet:borealis genus:Lissodelphis" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "speothos" ; Times: 1
+	Query: "Hyaena brunnea" ; Times: 2
+	Query: "specificepithet:concolor genus:Felis" ; Times: 4
+	Query: "vntype:specimen genus:hydrodamalis preparations:skull" ; Times: 1
+	Query: "genus:lagenorhynchus obliquidens" ; Times: 1
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "101256" ; Times: 1
+	Query: "79965" ; Times: 1
+	Query: "143527" ; Times: 1
+	Query: "87143" ; Times: 1
+	Query: "genus:Canis specificepithet:dirus mappable:1" ; Times: 1
+	Query: "catalognumber:203219" ; Times: 1
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 1
+	Query: "catalognumber:106087" ; Times: 1
+	Query: "maryland allegheny" ; Times: 1
+	Query: "family:ciconiidae hasmedia:1" ; Times: 1
+	Query: "rheas" ; Times: 2
+	Query: "134173" ; Times: 1
+	Query: "specificepithet:aries genus:ovis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "113300" ; Times: 1
+	Query: "specificepithet:festiva genus:anolis" ; Times: 2
+	Query: "68904" ; Times: 1
+	Query: "Bassariscus sumichrasti mappable:1" ; Times: 1
+	Query: "specificepithet:redivivum genus:Toxostoma hastypestatus:1" ; Times: 1
+	Query: "genus:Myodes specificepithet:californicus mappable:1" ; Times: 1
+	Query: "genus:Neochoerus specificepithet:pinckneyi mappable:1" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "genus:Mylohyus specificepithet:nasutus mappable:1" ; Times: 1
+	Query: "specificepithet:gamon genus:anolis" ; Times: 1
+	Query: "215680" ; Times: 1
+	Query: "215681" ; Times: 1
+	Query: "genus:Merycochoerus county:&#34;sioux&#34; isfossil:1" ; Times: 2
+	Query: "specificepithet:Lateralis genus:Spermophilus mappable:1" ; Times: 2
+	Query: "genus:Neotoma specificepithet:magister mappable:1" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "109416" ; Times: 1
+	Query: "111267" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "specificepithet:chloroeyuas genus:anolis" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "specificepithet:bequia genus:anolis" ; Times: 2
+	Query: "specificepithet:Lateralis genus:spermophilus mappable:1" ; Times: 1
+	Query: "specificepithet:porosus genus:Crocodylus preparations:skeleton" ; Times: 2
+	Query: "Utah turtle" ; Times: 3
+	Query: "genus:Lutreolina specificepithet:crassicaudata mappable:1" ; Times: 1
+	Query: "catalognumber:203271" ; Times: 1
+	Query: "catalognumber:203273" ; Times: 1
+	Query: "176468" ; Times: 1
+	Query: "scaphiopus hammondi" ; Times: 1
+	Query: "214851" ; Times: 1
+	Query: "291925" ; Times: 1
+	Query: "specificepithet:etruscus genus:suncus continent:africa" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:sumichrasti mappable:1" ; Times: 1
+	Query: "genus:Charina county:&#34;shasta&#34;" ; Times: 1
+	Query: "stegomastodon" ; Times: 2
+	Query: "family:Boidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "specificepithet:superciliaris preparations:skeleton order:anura" ; Times: 1
+	Query: "California oncorynchus" ; Times: 1
+	Query: "89909" ; Times: 1
+	Query: "chrysocyon" ; Times: 1
+	Query: "catalognumber:89907" ; Times: 1
+	Query: "genus:Xyrauchen" ; Times: 2
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:ingens mappable:1" ; Times: 1
+	Query: "58831" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:nelsoni mappable:1" ; Times: 1
+	Query: "132507" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "catalognumber:98212" ; Times: 2
+	Query: "vulpes vulpes stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus preparations:skeleton" ; Times: 2
+	Query: "120009" ; Times: 1
+	Query: "Lutra canadensis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "104565" ; Times: 1
+	Query: "133784" ; Times: 1
+	Query: "genus:Speothos" ; Times: 1
+	Query: "enaliarctos" ; Times: 2
+	Query: "scientificname:(Catostomus occidentalis) country:United States mappable:1" ; Times: 1
+	Query: "genus:Platygonus specificepithet:compressus mappable:1" ; Times: 1
+	Query: "72648" ; Times: 1
+	Query: "233298" ; Times: 1
+	Query: "catalognumber:42339" ; Times: 1
+	Query: "genus:aepyornis" ; Times: 2
+	Query: "specificepithet:californicus genus:myodes" ; Times: 1
+	Query: "V. fulva" ; Times: 1
+	Query: "genus:Nothrotheriops specificepithet:shastensis mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 108 (out of 1359 download events in this period)
+Total number of records downloaded: 6400
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Israel ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 74
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 4
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 6
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 11
+	Date: 2018-04-03 ; Times: 9
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-09 ; Times: 5
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-16 ; Times: 6
+	Date: 2018-04-12 ; Times: 15
+	Date: 2018-04-13 ; Times: 6
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-15 ; Times: 11
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "emys blandingii" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "order:Rodentia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "class:Aves county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "order:Rodentia county:&#34;kings&#34;" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "order:Rodentia county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "Rhineura floridana mappable:1" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Caqueta" ; Times: 3
+	Query: "Rana areolata" ; Times: 1
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "genus:anolis institutioncode:UCMP" ; Times: 1
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "family:Testudinidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "caracara cheriway" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (canyon)" ; Times: 2
+	Query: "Heptapteridae" ; Times: 1
+	Query: "bufo debilis" ; Times: 1
+	Query: "genus:Speothos" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "specificepithet:aries genus:ovis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "family:Xantusiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+	Query: "&#34;island&#34; class:Aves county:&#34;Ventura&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "petrosaurus thalassinus" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "distance(location,geopoint(33.37859,-97.78226))&lt;50000" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Ameiurus nebulosus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "specificepithet:etruscus genus:suncus continent:africa" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "stegomastodon" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "genus:gopherus sex:male OR female" ; Times: 1
+	Query: "chrysocyon" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.293564192170095,-117.861328125))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(40.4619,-103.0293))&lt;50000" ; Times: 1
+	Query: "Enhydra lutris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Xyrauchen texanus" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus preparations:skeleton" ; Times: 2
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (spring)" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Rana grylio" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+
+
+End of report.
