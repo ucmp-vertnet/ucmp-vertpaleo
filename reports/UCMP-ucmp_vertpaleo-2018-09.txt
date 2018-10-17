@@ -1,0 +1,253 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 744
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: United States ; Times: 88
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: China ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 24
+	Date: 2018-09-26 ; Times: 8
+	Date: 2018-09-01 ; Times: 6
+	Date: 2018-09-20 ; Times: 6
+	Date: 2018-09-21 ; Times: 13
+	Date: 2018-09-22 ; Times: 4
+	Date: 2018-09-05 ; Times: 15
+	Date: 2018-09-08 ; Times: 5
+	Date: 2018-09-09 ; Times: 2
+	Date: 2018-09-28 ; Times: 5
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-13 ; Times: 5
+	Date: 2018-09-12 ; Times: 4
+	Date: 2018-09-14 ; Times: 5
+	Date: 2018-09-17 ; Times: 10
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "specificepithet:fiber genus:Castor" ; Times: 4
+	Query: "247643" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "specificepithet:sinensis genus:Rhizomys" ; Times: 2
+	Query: "249095" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "cryptoprocta" ; Times: 1
+	Query: "genus: rhamphorhynchus" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 16
+	Query: "249088" ; Times: 1
+	Query: "genus:Pterosphenus" ; Times: 2
+	Query: "49597" ; Times: 1
+	Query: "gbifdatasetid:58d0f326-2e85-4d0a-a744-571461220f00" ; Times: 2
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:citellus genus:Spermophilus" ; Times: 2
+	Query: "genus:Omomyidae" ; Times: 1
+	Query: "genus:Lophiodon specificepithet:lautricense" ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "159797" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "genus:Titanotheriomys specificepithet:wyomingensis" ; Times: 1
+	Query: "genus:Titanotheriomys specificepithet:veterior" ; Times: 1
+	Query: "genus:Propalaeotherium specificepithet:isselanum" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "wizard" ; Times: 4
+	Query: "99925" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "gerrhonotus skeleton" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 2
+	Query: "212301" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "catalognumber:5967 institutioncode:UCMP" ; Times: 1
+	Query: "148623" ; Times: 1
+	Query: "117615" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "Stygimoloch" ; Times: 1
+	Query: "117617" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "specificepithet:albipes genus:Arborimus" ; Times: 4
+	Query: "desmatophoca oregonensis" ; Times: 5
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 1
+	Query: "117645" ; Times: 2
+	Query: "117622" ; Times: 1
+	Query: "117643" ; Times: 2
+	Query: "93278" ; Times: 1
+	Query: "genus:caenolestes " ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 2
+	Query: "catalognumber:176513" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 1
+	Query: "enaliarctos" ; Times: 1
+	Query: "117648" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "specificepithet:mirae genus:Tylomys" ; Times: 2
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "49597 mammalia" ; Times: 2
+	Query: "116396" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "33106" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "116390" ; Times: 2
+	Query: "genus:Dinofelis specificepithet:barlowi" ; Times: 1
+	Query: "249059" ; Times: 2
+	Query: "genus:Phacochoerus specificepithet:antiquus" ; Times: 1
+	Query: "hylonomus lyelli" ; Times: 2
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "catalognumber:149669" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 2
+	Query: "genus:gerrhonotus preparations:skeleton" ; Times: 2
+	Query: "anemone" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "genus:Palaechthon specificepithet:problematicus" ; Times: 1
+	Query: "anniella contra costa" ; Times: 2
+	Query: "216441" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 846 download events in this period)
+Total number of records downloaded: 3552
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 27
+	Country: Indonesia ; Times: 2
+	Country: United States ; Times: 49
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-17 ; Times: 6
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-27 ; Times: 6
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-13 ; Times: 6
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 9
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-21 ; Times: 3
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 6
+	Date: 2018-09-18 ; Times: 20
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "class:Mammalia (os penis)" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "class:Mammalia (bacula)" ; Times: 1
+	Query: "specificepithet:gnou genus:Connochaetes mappable:1" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "siren intermedia" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "rana boylii" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "notiosorex" ; Times: 3
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Phrynosoma douglassi" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "microscaphus" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "specificepithet:axis genus:Axis mappable:1" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis mappable:1" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "eschrichtius robustus" ; Times: 2
+	Query: "Coragyps atratus preparations:skeleton" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "macroclemys" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "family:Rhinocerotidae continent:North America isfossil:1" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "specificepithet:oryx genus:Taurotragus mappable:1" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "class:mammalia county:&#34;Lincoln&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:dunni genus:plethodon" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+
+
+End of report.
