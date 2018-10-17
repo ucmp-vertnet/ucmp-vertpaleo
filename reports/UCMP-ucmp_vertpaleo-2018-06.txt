@@ -1,0 +1,271 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 172
+Number of records retrieved in searches: 1150
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 8
+	Country: Netherlands ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 7
+	Country: Finland ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 129
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 5
+	Date: 2018-06-06 ; Times: 12
+	Date: 2018-06-05 ; Times: 10
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-02 ; Times: 4
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 8
+	Date: 2018-06-24 ; Times: 3
+	Date: 2018-06-27 ; Times: 11
+	Date: 2018-06-26 ; Times: 6
+	Date: 2018-06-21 ; Times: 16
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-12 ; Times: 5
+	Date: 2018-06-13 ; Times: 8
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-15 ; Times: 5
+	Date: 2018-06-16 ; Times: 7
+	Date: 2018-06-17 ; Times: 13
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-19 ; Times: 6
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-29 ; Times: 7
+	Date: 2018-06-28 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "Solenodontidae" ; Times: 1
+	Query: "95500" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "genus:Zalophus stateprovince:&#34;oregon&#34;" ; Times: 5
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "family:Chamaeleonidae institutioncode:UCMP" ; Times: 2
+	Query: "107927" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "133939" ; Times: 3
+	Query: "wizard" ; Times: 1
+	Query: "auduboni hastypestatus:1" ; Times: 3
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; AND (NOT SCELOPORUS NOT UTA NOT XANTUSIA NOT ELGARIA)" ; Times: 1
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "49503" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "class:reptilia locality:Ballinger county:&#34;Ventura&#34;" ; Times: 1
+	Query: "giraffa" ; Times: 2
+	Query: "99460" ; Times: 2
+	Query: "blacktail deer" ; Times: 1
+	Query: "175101" ; Times: 3
+	Query: "smilodectes" ; Times: 2
+	Query: "hesperornis" ; Times: 4
+	Query: "barbourofelis fricki" ; Times: 9
+	Query: "98464" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 7
+	Query: "Hippocamelus" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "family:Crocodylidae county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 1
+	Query: "172670" ; Times: 1
+	Query: "eurycea rathbuni" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "T. scripta elegans" ; Times: 1
+	Query: "James Hartman" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "229846" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Struthio camelus" ; Times: 2
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "family:Crocodylidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "196696" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 2
+	Query: "class:Reptilia county:&#34;Donley&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "horned toad" ; Times: 2
+	Query: "95780" ; Times: 5
+	Query: "family:Lemuridae institutioncode:UCMP" ; Times: 3
+	Query: "Paleoniscoid" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "thermophilus" ; Times: 1
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "specificepithet:crenatidens genus:homotherium" ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ NOT CCBER NOT SBMNH)" ; Times: 4
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "rattus rattus hasmedia:1" ; Times: 1
+	Query: "hesperornithiformes" ; Times: 2
+	Query: "tropidurus skeleton" ; Times: 1
+	Query: "class:Reptilia locality:Hartman Ranch county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; catalognumber:50355" ; Times: 1
+	Query: "LACM hasmedia:1" ; Times: 2
+	Query: "137077" ; Times: 1
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Adapis" ; Times: 3
+	Query: "191915" ; Times: 2
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "class:Reptilia locality:Quatal county:&#34;Ventura&#34;" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "56785" ; Times: 1
+	Query: "Prionurus punctatus" ; Times: 2
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "Acanthurus sohal" ; Times: 2
+	Query: "Andrias" ; Times: 2
+	Query: "Gila bicolor" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "156142" ; Times: 1
+	Query: "187212" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "88765" ; Times: 1
+	Query: "catalognumber:155300" ; Times: 1
+	Query: "family:Crocodylidae county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "class:Reptilia locality:Ballinger county:&#34;Ventura&#34;" ; Times: 1
+	Query: "94944" ; Times: 2
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 3
+	Query: "157240" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1169 download events in this period)
+Total number of records downloaded: 1392
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Unknown ; Times: 3
+	Country: Cayman Islands ; Times: 1
+	Country: United States ; Times: 46
+	Country: Spain ; Times: 7
+	Country: Puerto Rico ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-01 ; Times: 3
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-07 ; Times: 12
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-05 ; Times: 12
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-15 ; Times: 2
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-17 ; Times: 4
+	Date: 2018-06-18 ; Times: 11
+	Date: 2018-06-03 ; Times: 9
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "tayassu pecari pecari" ; Times: 3
+	Query: "Cougar" ; Times: 1
+	Query: "vntype:specimen specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "vntype:specimen specificepithet:conspersus genus:anolis" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "bobcat" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "class:reptilia locality:baker" ; Times: 2
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "Varanus salvator vntype:specimen" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Crotalus viridis; CO" ; Times: 1
+	Query: "eurycea rathbuni" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "python reticulatus" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Steatomys" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "varanus prasinus" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Lynx rufus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Amblyrhynchus cristatus" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "cougar" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Wallabia bicolor" ; Times: 1
+	Query: "Crotalus viridis in CO" ; Times: 2
+	Query: "class:Reptilia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "hodomys alleni" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
