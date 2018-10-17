@@ -1,0 +1,317 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 203
+Number of records retrieved in searches: 1943
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 158
+	Country: Australia ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 17
+	Country: Denmark ; Times: 7
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 4
+	Date: 2018-08-31 ; Times: 6
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-16 ; Times: 7
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-14 ; Times: 5
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 3
+	Date: 2018-08-10 ; Times: 6
+	Date: 2018-08-08 ; Times: 10
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-03 ; Times: 7
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-27 ; Times: 7
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-25 ; Times: 7
+	Date: 2018-08-24 ; Times: 8
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-22 ; Times: 37
+	Date: 2018-08-21 ; Times: 8
+	Date: 2018-08-20 ; Times: 22
+	Date: 2018-08-04 ; Times: 5
+	Date: 2018-08-07 ; Times: 5
+	Date: 2018-08-06 ; Times: 10
+	Date: 2018-08-01 ; Times: 16
+	Date: 2018-08-29 ; Times: 4
+	Date: 2018-08-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "172021" ; Times: 2
+	Query: "49831" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "genus:Mammuthus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:102593" ; Times: 3
+	Query: "wizard" ; Times: 1
+	Query: "104041" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "162279" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "morelia amethistinus" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 4
+	Query: "genus:Protosciurus " ; Times: 4
+	Query: "34645" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 3
+	Query: "genus:Inia" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "195267" ; Times: 1
+	Query: "holotype family:Teiidae hastypestatus:1 hasmedia:1" ; Times: 2
+	Query: "61905" ; Times: 2
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "catalognumber:292979" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 4
+	Query: "V 1128" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis county:&#34;Los Angeles&#34; preparations:Skull" ; Times: 1
+	Query: "96782" ; Times: 1
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "allosaurus" ; Times: 1
+	Query: "128101" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "185763" ; Times: 1
+	Query: "185761" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "143809" ; Times: 1
+	Query: "60030" ; Times: 1
+	Query: "genus:Omomyidae" ; Times: 4
+	Query: "69084" ; Times: 1
+	Query: "173164" ; Times: 3
+	Query: "genus:Propalaeotherium specificepithet:isselanum" ; Times: 4
+	Query: "acciptridae" ; Times: 2
+	Query: "genus:Ailuropoda" ; Times: 2
+	Query: "69162" ; Times: 1
+	Query: "genus:EMYDOIDEA county:&#34;Cherry&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "180379" ; Times: 1
+	Query: "88945" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "70707" ; Times: 1
+	Query: "genus:Bison stateprovince:&#34;california&#34;" ; Times: 5
+	Query: "catalognumber:211269" ; Times: 1
+	Query: "genus:Dinofelis specificepithet:barlowi" ; Times: 4
+	Query: "Baena arenosa" ; Times: 2
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "genus:Titanotheriomys specificepithet:veterior" ; Times: 3
+	Query: "teeth oklahoma" ; Times: 1
+	Query: "genus:Crotalus county:&#34;El dorado&#34;" ; Times: 1
+	Query: "216116" ; Times: 1
+	Query: "adocus (jaw) isfossil:1" ; Times: 1
+	Query: "order:Rodentia preparations:vertebrae" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "151985" ; Times: 1
+	Query: "AMNH 10395" ; Times: 1
+	Query: "Huila class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "249468" ; Times: 1
+	Query: "158365" ; Times: 1
+	Query: "genus:Lophiodon specificepithet:lautricense" ; Times: 4
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "214277" ; Times: 1
+	Query: "catalognumber:117386" ; Times: 1
+	Query: "T 1484" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "Euspondylus" ; Times: 2
+	Query: "24949" ; Times: 1
+	Query: "V-1128" ; Times: 1
+	Query: "238142" ; Times: 1
+	Query: "morejohn" ; Times: 3
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "Panthera leo mappable:1" ; Times: 5
+	Query: "60257" ; Times: 2
+	Query: "82383" ; Times: 1
+	Query: "319276" ; Times: 1
+	Query: "10395 AMNh" ; Times: 1
+	Query: "59754" ; Times: 1
+	Query: "76835" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "genus:Phacochoerus specificepithet:antiquus" ; Times: 4
+	Query: "76624" ; Times: 1
+	Query: "homotherium" ; Times: 1
+	Query: "vntype:specimen specificepithet:cooperii genus:Accipiter family:Accipitridae order:Accipitriformes class:Aves hasmedia:1" ; Times: 1
+	Query: "Oxybelis aenus" ; Times: 1
+	Query: "147781" ; Times: 1
+	Query: "genus:Palaechthon specificepithet:problematicus" ; Times: 3
+	Query: "10395 AMNH" ; Times: 1
+	Query: "82879" ; Times: 1
+	Query: "adocus vntype:specimen institutioncode:UCMP isfossil:1" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "228603" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "89692" ; Times: 1
+	Query: "institutioncode:UCMP isfossil:1" ; Times: 1
+	Query: "93971" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "111755" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "210887" ; Times: 1
+	Query: "169850" ; Times: 1
+	Query: "257040" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 2
+	Query: "218257" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "133884" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "98047" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "167625" ; Times: 1
+	Query: "catalognumber:153230" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "family:Procyonidae institutioncode:UCMP" ; Times: 2
+	Query: "genus:chamaeleo hasmedia:1" ; Times: 2
+	Query: "92542" ; Times: 1
+	Query: "genus:Titanotheriomys specificepithet:wyomingensis" ; Times: 3
+	Query: "Lutreolina" ; Times: 2
+	Query: "178185" ; Times: 1
+	Query: "county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; recordedby:white" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "33004" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 1416 download events in this period)
+Total number of records downloaded: 1479
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 18
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 36
+	Country: Denmark ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: Spain ; Times: 15
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-28 ; Times: 3
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-19 ; Times: 5
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-09 ; Times: 13
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 7
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-10 ; Times: 6
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-25 ; Times: 5
+	Date: 2018-08-24 ; Times: 5
+	Date: 2018-08-23 ; Times: 8
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-07 ; Times: 3
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 3
+	Date: 2018-08-29 ; Times: 2
+	Date: 2018-08-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "oreotragus" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Glaucomys sabrinus vntype:specimen stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "catesbeiana" ; Times: 1
+	Query: "genus:Gopherus sex:male OR female" ; Times: 1
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 2
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Hemidactylus turcicus turcicus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "podocnemis expansa" ; Times: 2
+	Query: "gambelia" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "specificepithet:rathbuni genus:Eurycea" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "hELODERMA" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Raw" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "crotalus enyo" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "psammophylax" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Dromiciops gliroides" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+
+
+End of report.
