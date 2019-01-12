@@ -1,0 +1,307 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 195
+Number of records retrieved in searches: 4353
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 3
+	Country: Mexico ; Times: 46
+	Country: India ; Times: 2
+	Country: France ; Times: 18
+	Country: United Kingdom ; Times: 1
+	Country: French Guiana ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 108
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-27 ; Times: 2
+	Date: 2018-12-06 ; Times: 10
+	Date: 2018-12-19 ; Times: 3
+	Date: 2018-12-18 ; Times: 9
+	Date: 2018-12-31 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-15 ; Times: 7
+	Date: 2018-12-14 ; Times: 12
+	Date: 2018-12-17 ; Times: 10
+	Date: 2018-12-11 ; Times: 14
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 9
+	Date: 2018-12-12 ; Times: 2
+	Date: 2018-12-20 ; Times: 3
+	Date: 2018-12-21 ; Times: 6
+	Date: 2018-12-22 ; Times: 9
+	Date: 2018-12-23 ; Times: 5
+	Date: 2018-12-25 ; Times: 1
+	Date: 2018-12-08 ; Times: 5
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 3
+	Date: 2018-12-29 ; Times: 3
+	Date: 2018-12-04 ; Times: 15
+	Date: 2018-12-05 ; Times: 16
+	Date: 2018-12-02 ; Times: 20
+	Date: 2018-12-03 ; Times: 8
+	Date: 2018-12-07 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypertragulidae north america" ; Times: 9
+	Query: "class:mammalia country:&#34;kenya&#34; institutioncode:UCMP" ; Times: 1
+	Query: "family:Emydidae county:&#34;San Bernardino&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "161625" ; Times: 1
+	Query: "Hippocampus erectus" ; Times: 1
+	Query: "UCB Museum of. Vertebrate Zoology" ; Times: 8
+	Query: "family:Camelidae hasmedia:1" ; Times: 5
+	Query: "Merluccius productus mappable:1" ; Times: 1
+	Query: "233959" ; Times: 1
+	Query: "102476" ; Times: 1
+	Query: "177899" ; Times: 1
+	Query: "97312" ; Times: 1
+	Query: "34884" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;idaho&#34;" ; Times: 1
+	Query: "felis lybica" ; Times: 1
+	Query: "family:Tayassuidae basisofrecord:FossilSpecimen hasmedia:1" ; Times: 1
+	Query: "150267" ; Times: 1
+	Query: "Raja binoculata mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes family:Canidae stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Sebastes alutus mappable:1" ; Times: 1
+	Query: "180044" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis" ; Times: 2
+	Query: "248759" ; Times: 1
+	Query: "234277" ; Times: 1
+	Query: "Poebrotherium" ; Times: 1
+	Query: "Notharctus" ; Times: 1
+	Query: "Paratylopus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "46722" ; Times: 1
+	Query: "genus:Oxydactylus hasmedia:1" ; Times: 4
+	Query: "locality:danville county:&#34;contra costa&#34; stateprovince:&#34;california&#34; recordedby:williams" ; Times: 1
+	Query: "Gavia arctica mappable:1" ; Times: 1
+	Query: "hypertragulus" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "Hippocampus ingens" ; Times: 1
+	Query: "248743" ; Times: 1
+	Query: "specificepithet:californica genus:squatina mappable:1" ; Times: 1
+	Query: "bison bison mexico genus:bison family:bovidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 10
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis mappable:1" ; Times: 1
+	Query: "164676" ; Times: 1
+	Query: "189395" ; Times: 1
+	Query: "122197" ; Times: 1
+	Query: "specificepithet:baracuda genus:sphyraena mappable:1" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 2
+	Query: "146146" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Icelinus tenuis mappable:1" ; Times: 1
+	Query: "163033" ; Times: 1
+	Query: "Sebastes goodei mappable:1" ; Times: 1
+	Query: "Miolabis" ; Times: 1
+	Query: "Microgadus proximus mappable:1" ; Times: 1
+	Query: "catalognumber:34901" ; Times: 1
+	Query: "genus:Cnemiornis" ; Times: 3
+	Query: "33307" ; Times: 2
+	Query: "specificepithet:productus genus:merluccius mappable:1" ; Times: 1
+	Query: "Myliobatis californica mappable:1" ; Times: 1
+	Query: "family:hypertragulidae hasmedia:1" ; Times: 10
+	Query: "specificepithet:marmorata genus:Clemmys county:&#34;San Bernardino&#34; isfossil:1" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:melanoleuca genus:Ailuropoda" ; Times: 1
+	Query: "family:Tayassuidae hasmedia:1" ; Times: 4
+	Query: "vntype:specimen specificepithet:lemur hastypestatus:1" ; Times: 1
+	Query: "98592" ; Times: 1
+	Query: "class:Reptilia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "105868" ; Times: 1
+	Query: "specificepithet:spatula genus:lepisosteus mappable:1" ; Times: 1
+	Query: "adapis" ; Times: 1
+	Query: "viridus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "genus:neotoma county:&#34;El dorado&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "177189" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis family:Canidae stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "order:CARNIVORA county:&#34;SAN BERNARDINO&#34; stateprovince:&#34;CALIFORNIA&#34; institutioncode:UCMP" ; Times: 1
+	Query: "recordedby:Baird preparations:skull" ; Times: 1
+	Query: "137081" ; Times: 2
+	Query: "specificepithet:oxyrhynchus genus:isurus mappable:1" ; Times: 1
+	Query: "233983" ; Times: 1
+	Query: "Sebastes jordani mappable:1" ; Times: 1
+	Query: "Clemmys florida" ; Times: 2
+	Query: "192345" ; Times: 1
+	Query: "116272" ; Times: 1
+	Query: "specificepithet:marmorata genus:Clemmys county:&#34;San Bernardino&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:novemfasciatus genus:lutjanus mappable:1" ; Times: 1
+	Query: "Reptilia Texas trinity" ; Times: 1
+	Query: "90486" ; Times: 1
+	Query: "specificepithet:marmorata genus:Clemmys county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "Hypertragulidae" ; Times: 1
+	Query: "specificepithet:brunnea genus:Hyaena" ; Times: 1
+	Query: "family:camelidae hasmedia:1" ; Times: 5
+	Query: "Hexanchus griseus mappable:1" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 3
+	Query: "136516" ; Times: 1
+	Query: "Squatina californica mappable:1" ; Times: 1
+	Query: "136514" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "95015" ; Times: 1
+	Query: "Mammalia 166477" ; Times: 1
+	Query: "Nanotragulus north america" ; Times: 2
+	Query: "Steatomys" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 3
+	Query: "19926" ; Times: 1
+	Query: "133039" ; Times: 2
+	Query: "specificepithet:platypterus genus:istiophorus mappable:1" ; Times: 1
+	Query: "79993" ; Times: 1
+	Query: "specificepithet:marmorata genus:Clemmys stateprovince:&#34;California&#34; isfossil:1" ; Times: 2
+	Query: "109753" ; Times: 1
+	Query: "class:Mammalia Ammospermophilus nelsoni" ; Times: 1
+	Query: "191927" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "117576" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "45407" ; Times: 1
+	Query: "136038" ; Times: 1
+	Query: "catalognumber:44983" ; Times: 1
+	Query: "squatina californica" ; Times: 2
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "specificepithet:olivaris genus:pylodictis mappable:1" ; Times: 1
+	Query: "168105" ; Times: 2
+	Query: "specificepithet:carcharias genus:carcharodon mappable:1" ; Times: 1
+	Query: "specificepithet:nobilis genus:cynoscion mappable:1" ; Times: 1
+	Query: "292450" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 809 download events in this period)
+Total number of records downloaded: 23328
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 41
+	Country: Mexico ; Times: 25
+	Country: Indonesia ; Times: 2
+	Country: India ; Times: 9
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 5
+	Country: France ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-09 ; Times: 11
+	Date: 2018-12-22 ; Times: 9
+	Date: 2018-12-03 ; Times: 6
+	Date: 2018-12-20 ; Times: 6
+	Date: 2018-12-21 ; Times: 5
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-19 ; Times: 2
+	Date: 2018-12-18 ; Times: 9
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-04 ; Times: 4
+	Date: 2018-12-10 ; Times: 9
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "Ethiopia" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanoleuca genus:Ailuropoda" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "vntype:specimen specificepithet:maritimus genus:Ursus" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "ramphastos" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "class:Mammalia county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "(&#34;black-throated sparrow&#34; OR &#34;Amphispiza bilineata&#34;)" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "order:Testudines" ; Times: 1
+	Query: "Vulpes vulpes colorado" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "specificepithet:asio genus:otus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "felis nigripes" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Syncerus caffer vntype:specimen" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Agapornis" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Canis" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:marmorata genus:Clemmys county:&#34;San Bernardino&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 2
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "felis lybica" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Anolis aeneus" ; Times: 1
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+
+
+End of report.
