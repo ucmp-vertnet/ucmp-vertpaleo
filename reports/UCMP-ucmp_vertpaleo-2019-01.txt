@@ -1,0 +1,332 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 341
+Number of records retrieved in searches: 4384
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 46
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Czechia ; Times: 5
+	Country: France ; Times: 6
+	Country: United States ; Times: 215
+	Country: Sweden ; Times: 4
+	Country: Netherlands ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 17
+	Country: Argentina ; Times: 8
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 28
+	Date: 2019-01-23 ; Times: 5
+	Date: 2019-01-26 ; Times: 4
+	Date: 2019-01-18 ; Times: 13
+	Date: 2019-01-19 ; Times: 6
+	Date: 2019-01-14 ; Times: 13
+	Date: 2019-01-15 ; Times: 16
+	Date: 2019-01-30 ; Times: 12
+	Date: 2019-01-17 ; Times: 12
+	Date: 2019-01-10 ; Times: 7
+	Date: 2019-01-11 ; Times: 8
+	Date: 2019-01-12 ; Times: 3
+	Date: 2019-01-13 ; Times: 8
+	Date: 2019-01-03 ; Times: 8
+	Date: 2019-01-02 ; Times: 8
+	Date: 2019-01-29 ; Times: 20
+	Date: 2019-01-28 ; Times: 36
+	Date: 2019-01-07 ; Times: 5
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 4
+	Date: 2019-01-04 ; Times: 12
+	Date: 2019-01-21 ; Times: 4
+	Date: 2019-01-20 ; Times: 23
+	Date: 2019-01-09 ; Times: 12
+	Date: 2019-01-22 ; Times: 12
+	Date: 2019-01-25 ; Times: 15
+	Date: 2019-01-24 ; Times: 9
+	Date: 2019-01-27 ; Times: 17
+	Date: 2019-01-08 ; Times: 7
+	Date: 2019-01-16 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Hystrix&#34; &#34;Hystrix africaeaustralis&#34;" ; Times: 1
+	Query: "Euceratherium" ; Times: 5
+	Query: "84998" ; Times: 1
+	Query: "family:herpestidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "order:crocodylomorpha" ; Times: 1
+	Query: "UCMP 148875" ; Times: 1
+	Query: "196788" ; Times: 1
+	Query: "family:canidae order:Carnivora preparations:skull hasmedia:1" ; Times: 5
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 4
+	Query: "167624" ; Times: 3
+	Query: "wizard" ; Times: 3
+	Query: "genus:Coelophysis" ; Times: 1
+	Query: "160294" ; Times: 1
+	Query: "166656" ; Times: 1
+	Query: "Eoraptor isfossil:1" ; Times: 3
+	Query: "specificepithet:porcellus genus:cavia hasmedia:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "specificepithet:retiformis genus:bufo" ; Times: 1
+	Query: "(dermoptera)" ; Times: 6
+	Query: "58523" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:UCMP" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "hypsypops rubicundus" ; Times: 1
+	Query: "233102" ; Times: 1
+	Query: "specificepithet:lithographica genus:Archaeopteryx isfossil:1" ; Times: 1
+	Query: "order:Carnivora preparations:Mandible hasmedia:1" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 5
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "catalognumber:144878" ; Times: 1
+	Query: "Gymnogyps" ; Times: 1
+	Query: "zalophus order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "specificepithet:lagopus class:Mammalia isfossil:1" ; Times: 4
+	Query: "197483" ; Times: 1
+	Query: "70516" ; Times: 1
+	Query: "137270" ; Times: 1
+	Query: "vntype:specimen order:Saurischia hasmedia:1" ; Times: 1
+	Query: "ornithomimidae" ; Times: 1
+	Query: "actinemys" ; Times: 1
+	Query: "198472" ; Times: 1
+	Query: "order:Carnivora hasmedia:1 isfossil:1" ; Times: 2
+	Query: "occiduus" ; Times: 1
+	Query: "185763" ; Times: 1
+	Query: "Typhlomolge rathbuni" ; Times: 1
+	Query: "175560" ; Times: 1
+	Query: "diplocaulus" ; Times: 1
+	Query: "Emydoidea nebraska" ; Times: 1
+	Query: "catalognumber:98140" ; Times: 1
+	Query: "77105" ; Times: 2
+	Query: "48586" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "batoidea" ; Times: 4
+	Query: "137586" ; Times: 1
+	Query: "class:reptilia basisofrecord:FossilSpecimen hasmedia:1 isfossil:1" ; Times: 2
+	Query: "175828" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 1
+	Query: "catalognumber:74991" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:144863" ; Times: 2
+	Query: "211316" ; Times: 1
+	Query: "Herrerasaurus isfossil:1" ; Times: 2
+	Query: "ucla 3054" ; Times: 1
+	Query: "197501" ; Times: 1
+	Query: "family:felidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "92210" ; Times: 3
+	Query: "warreni" ; Times: 1
+	Query: "35292" ; Times: 1
+	Query: "196697" ; Times: 2
+	Query: "196696" ; Times: 2
+	Query: "207528" ; Times: 1
+	Query: "Smilodon hasmedia:1" ; Times: 10
+	Query: "arctocephalus order:Carnivora hasmedia:1" ; Times: 1
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "Smilodon hasmedia:1 isfossil:1" ; Times: 1
+	Query: "specificepithet:elegans genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "specificepithet:merriami genus:tamias institutioncode:UCMP" ; Times: 1
+	Query: "genus:Cnemiornis" ; Times: 1
+	Query: "family:viverridae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "catalognumber:79993" ; Times: 2
+	Query: "locality:La Mision stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:hypertragulidae hasmedia:1" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "T. proximus" ; Times: 1
+	Query: "specificepithet:elegans genus:Spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 7
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;California&#34; country:&#34;United States&#34; continent:North America basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "order:Carnivora preparations:mandible hasmedia:1 isfossil:1" ; Times: 1
+	Query: "family:Phocidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "156242" ; Times: 2
+	Query: "family:Otariidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "Hippopotamus UCLA" ; Times: 1
+	Query: "226437" ; Times: 1
+	Query: "order:Carnivora preparations:Cranium hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Cnemiornis" ; Times: 1
+	Query: "specificepithet:auduboni genus:Sylvilagus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Felis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:mustelidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "specificepithet:onca genus:panthera country:&#34;united&#34;" ; Times: 1
+	Query: "215064" ; Times: 1
+	Query: "215065" ; Times: 1
+	Query: "116293" ; Times: 1
+	Query: "66527" ; Times: 1
+	Query: "emys" ; Times: 1
+	Query: "catalognumber:136503" ; Times: 1
+	Query: "108252" ; Times: 2
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "protapirus" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "vntype:specimen (dermoptera)" ; Times: 1
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "249385" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UCMP" ; Times: 1
+	Query: "catalognumber:130813" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UCMP" ; Times: 1
+	Query: "family:Cercopithecidae institutioncode:UCMP" ; Times: 2
+	Query: "89347" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "family:Herpestidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "dermoptera" ; Times: 22
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "isurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:UCMP" ; Times: 2
+	Query: "genus:Ambystoma preparations:skeleton" ; Times: 1
+	Query: "rhineura" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "family:tapiridae hasmedia:1" ; Times: 3
+	Query: "order:Rodentia class:Mammalia stateprovince:&#34;Caquetá&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "family:mephitidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "order:anura preparations:skeleton OR dry hasmedia:1" ; Times: 2
+	Query: "94787" ; Times: 1
+	Query: "specificepithet:longipes genus:Compsognathus" ; Times: 9
+	Query: "109133" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "JAM 2183" ; Times: 1
+	Query: "order:Carnivora preparations:Cranium hasmedia:1" ; Times: 1
+	Query: "158053" ; Times: 1
+	Query: "family:Otariidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Smilodon order:Carnivora preparations:Skull hasmedia:1 isfossil:1" ; Times: 1
+	Query: "family:procyonidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "order:Carnivora preparations:Mandible hasmedia:1 isfossil:1" ; Times: 2
+	Query: "93403" ; Times: 1
+	Query: "207598" ; Times: 1
+	Query: "103325" ; Times: 1
+	Query: "156708" ; Times: 1
+	Query: "catalognumber:159018" ; Times: 1
+	Query: "125668" ; Times: 1
+	Query: "genus:Tyrannosaurus hasmedia:1" ; Times: 3
+	Query: "&#34;Burramys parvus&#34;" ; Times: 1
+	Query: "family:Odobenidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "catalognumber:106128" ; Times: 1
+	Query: "family:Ursidae order:Carnivora hasmedia:1 isfossil:1" ; Times: 1
+	Query: "194170" ; Times: 1
+	Query: "Dermoptera" ; Times: 11
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:UCMP" ; Times: 5
+	Query: "specificepithet:speciosus genus:tamias institutioncode:UCMP" ; Times: 1
+	Query: "207698" ; Times: 1
+	Query: "family:Phocidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "81094" ; Times: 1
+	Query: "218406" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "108399" ; Times: 1
+	Query: "order:Carnivora preparations:skull hasmedia:1 isfossil:1" ; Times: 3
+	Query: "133045" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 143 (out of 962 download events in this period)
+Total number of records downloaded: 4660
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 108
+	Country: Iran ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 2
+	Country: Ecuador ; Times: 6
+	Country: Colombia ; Times: 3
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 22
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-18 ; Times: 3
+	Date: 2019-01-19 ; Times: 8
+	Date: 2019-01-16 ; Times: 4
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 4
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 3
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-29 ; Times: 23
+	Date: 2019-01-28 ; Times: 11
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 3
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 4
+	Date: 2019-01-25 ; Times: 7
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-30 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Chiroptera stateprovince:&#34;Huila&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "Gymnophiona" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "class:Mammalia county:&#34;san jacinto&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "siren intermedia" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Santander&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 1
+	Query: "Monodelphis domestica" ; Times: 1
+	Query: "class:Mammalia county:&#34;sabine&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "dromiciops gliroides" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "eurycea rathbuni" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "vntype:specimen family:Carettochelyidae" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;los angeles&#34;" ; Times: 1
+	Query: "specificepithet:lateralis genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "specificepithet:bachmani genus:Sylvilagus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bipes biporus" ; Times: 5
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "genus:Alces continent:North America isfossil:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "class:Mammalia county:&#34;Hardin&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "family:Cercopithecidae institutioncode:UCMP" ; Times: 1
+	Query: "class:amphibia county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "bipes biporus" ; Times: 2
+	Query: "tayassu pecari" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "specificepithet:elegans genus:spermophilus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+
+
+End of report.
