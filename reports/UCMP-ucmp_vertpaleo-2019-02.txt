@@ -1,0 +1,262 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 818
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 81
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: Unknown ; Times: 1
+	Country: Serbia ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Belgium ; Times: 8
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Hong Kong ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 3
+	Date: 2019-02-11 ; Times: 7
+	Date: 2019-02-13 ; Times: 13
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-15 ; Times: 4
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-19 ; Times: 4
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-24 ; Times: 2
+	Date: 2019-02-25 ; Times: 7
+	Date: 2019-02-26 ; Times: 6
+	Date: 2019-02-01 ; Times: 5
+	Date: 2019-02-20 ; Times: 4
+	Date: 2019-02-07 ; Times: 28
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-08 ; Times: 8
+	Date: 2019-02-09 ; Times: 4
+	Date: 2019-02-28 ; Times: 15
+	Date: 2019-02-02 ; Times: 2
+	Date: 2019-02-27 ; Times: 5
+	Date: 2019-02-06 ; Times: 6
+	Date: 2019-02-21 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Hadrianus" ; Times: 1
+	Query: "catalognumber:17528 institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "85469" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 1
+	Query: "specificepithet:chrysopygus genus:Rhynchocyon" ; Times: 1
+	Query: "genus:Smilodon institutioncode:UCMP" ; Times: 2
+	Query: "Jabiru mycteria mappable:1" ; Times: 2
+	Query: "Dilophosaurus" ; Times: 1
+	Query: "90935" ; Times: 1
+	Query: "25217" ; Times: 1
+	Query: "catalognumber:158255 institutioncode:UCMP" ; Times: 1
+	Query: "94324" ; Times: 1
+	Query: "22840" ; Times: 1
+	Query: "catalognumber:153132 institutioncode:UCMP" ; Times: 1
+	Query: "scincopus" ; Times: 3
+	Query: "monodon" ; Times: 1
+	Query: "58978" ; Times: 1
+	Query: "Herrerasaurus" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:mydas genus:chelonia family:cheloniidae hasmedia:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:uncia genus:Panthera preparations:skeleton" ; Times: 1
+	Query: "specificepithet:taeniura family:Colubridae" ; Times: 1
+	Query: "manta birostris" ; Times: 2
+	Query: "Puma concolor in California" ; Times: 1
+	Query: "144775" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 13
+	Query: "specificepithet:uncia genus:Panthera" ; Times: 3
+	Query: "216696" ; Times: 1
+	Query: "216697" ; Times: 1
+	Query: "142548" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 1
+	Query: "1688 sylvilagus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus hasmedia:1" ; Times: 9
+	Query: "131554" ; Times: 1
+	Query: "191322" ; Times: 1
+	Query: "32777" ; Times: 2
+	Query: "catalognumber:103328" ; Times: 1
+	Query: "Puma concolor in Nevada" ; Times: 2
+	Query: "catalognumber:73448" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UCMP" ; Times: 1
+	Query: "genus:Aneides county:&#34;Stanislaus&#34;" ; Times: 3
+	Query: "AMNH 6601" ; Times: 1
+	Query: "196693" ; Times: 1
+	Query: "27799" ; Times: 1
+	Query: "specificepithet:merriami genus:tamias institutioncode:UCMP" ; Times: 1
+	Query: "Dendrobates tinctorius" ; Times: 1
+	Query: "79677" ; Times: 1
+	Query: "specificepithet:Scutulatus genus:crotalus hasmedia:1" ; Times: 1
+	Query: "vntype:specimen class:Mammalia locality:Thompson* isfossil:1" ; Times: 1
+	Query: "hasmedia:1 crotalus scutulatus" ; Times: 2
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "specificepithet:komodoensis genus:Varanus hasmedia:1" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "Chelonoidis carbonaria" ; Times: 1
+	Query: "catalognumber:205720" ; Times: 1
+	Query: "order:Aves" ; Times: 1
+	Query: "Cnemiornis" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 2
+	Query: "catalognumber:222650" ; Times: 1
+	Query: "Elephantidae hastissue:1" ; Times: 1
+	Query: "32402" ; Times: 1
+	Query: "catalognumber:116885" ; Times: 2
+	Query: "142407" ; Times: 1
+	Query: "107820" ; Times: 1
+	Query: "192971" ; Times: 1
+	Query: "73020" ; Times: 1
+	Query: "family:Nimravidae basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "specificepithet:fatalis genus:Smilodon institutioncode:UCMP" ; Times: 1
+	Query: "diplocynodon" ; Times: 2
+	Query: "canis adustus" ; Times: 1
+	Query: "cuon alpinus" ; Times: 1
+	Query: "Manta birostris" ; Times: 1
+	Query: "catalognumber:116891" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "specificepithet:caretta genus:caretta family:cheloniidae hasmedia:1" ; Times: 1
+	Query: "143809" ; Times: 1
+	Query: "catalognumber:229366" ; Times: 1
+	Query: "pseudalopex gymnocercus mappable:1" ; Times: 1
+	Query: "Yoder Formation" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "Megalosaurus" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "32115" ; Times: 1
+	Query: "Pseudalopex gymnocercus mappable:1" ; Times: 4
+	Query: "94076" ; Times: 1
+	Query: "140993" ; Times: 1
+	Query: "catalognumber:189665 institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:taeniura genus:Elaphe hasmedia:1" ; Times: 1
+	Query: "catalognumber:189669 institutioncode:UCMP" ; Times: 1
+	Query: "Lampropeltis triangulum hondurensis" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "specificepithet:scutulatus genus:crotalus hasmedia:1" ; Times: 10
+	Query: "Aldabrachelys gigantea" ; Times: 1
+	Query: "specificepithet:zebrata genus:Corucia" ; Times: 2
+	Query: "Ambystoma flavipiperatum" ; Times: 1
+	Query: "103886" ; Times: 1
+	Query: "catalognumber:141861 institutioncode:UCMP" ; Times: 1
+	Query: "catalognumber:155000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1227 download events in this period)
+Total number of records downloaded: 8190
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 20
+	Country: United States ; Times: 39
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-11 ; Times: 11
+	Date: 2019-02-13 ; Times: 5
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-14 ; Times: 11
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-19 ; Times: 5
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-26 ; Times: 3
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 4
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-04 ; Times: 3
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-08 ; Times: 7
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 7
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:UCMP" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "Heteromys" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "class:Mammalia county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sylvilagus bachmani" ; Times: 1
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma concolor" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "phelsuma" ; Times: 1
+	Query: "canis mesomelas" ; Times: 1
+	Query: "Dusicyon australis" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "Dasypus" ; Times: 1
+	Query: "neotoma stephensi" ; Times: 4
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "Physeter macrocephalus" ; Times: 4
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "vntype:specimen genus:Odocoileus basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Camelops isfossil:1" ; Times: 1
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "skeleton vntype:specimen specificepithet:migratorius genus:turdus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Vulpes zerda" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "canis adustus" ; Times: 1
+	Query: "cuon alpinus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Manta birostris" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "genus:Inia class:Mammalia" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
