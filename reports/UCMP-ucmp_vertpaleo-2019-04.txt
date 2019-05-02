@@ -1,0 +1,310 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 207
+Number of records retrieved in searches: 740
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 60
+	Country: United States ; Times: 104
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Switzerland ; Times: 6
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 5
+	Date: 2019-04-19 ; Times: 13
+	Date: 2019-04-18 ; Times: 5
+	Date: 2019-04-05 ; Times: 11
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 11
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 21
+	Date: 2019-04-15 ; Times: 2
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-07 ; Times: 3
+	Date: 2019-04-01 ; Times: 3
+	Date: 2019-04-02 ; Times: 24
+	Date: 2019-04-25 ; Times: 7
+	Date: 2019-04-06 ; Times: 5
+	Date: 2019-04-22 ; Times: 3
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-20 ; Times: 6
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 21
+	Date: 2019-04-27 ; Times: 6
+	Date: 2019-04-24 ; Times: 24
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-29 ; Times: 9
+	Date: 2019-04-08 ; Times: 9
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "specificepithet:arctos family:ursidae hasmedia:1" ; Times: 2
+	Query: "75419" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "tomistoma" ; Times: 2
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "100969" ; Times: 1
+	Query: "115761" ; Times: 1
+	Query: "115767" ; Times: 1
+	Query: "Emys marmorata" ; Times: 2
+	Query: "wizard" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Jabiru mycteria  mappable:1" ; Times: 1
+	Query: "Rhineura floridana mappable:1" ; Times: 1
+	Query: "119949" ; Times: 1
+	Query: "80729" ; Times: 3
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "PLethodon cinerus" ; Times: 1
+	Query: "139554" ; Times: 1
+	Query: "107950" ; Times: 1
+	Query: "specificepithet:americanus family:ursidae hasmedia:1 isfossil:1" ; Times: 1
+	Query: "R-192222" ; Times: 1
+	Query: "catalognumber:131327" ; Times: 1
+	Query: "vntype:specimen specificepithet:californianus genus:Gymnogyps" ; Times: 1
+	Query: "Struthio camelus egg" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 3
+	Query: "catalognumber:90043" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "109475" ; Times: 1
+	Query: "SCARUS COMPRESSUS" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "scaphiopus hammondi" ; Times: 2
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "137536" ; Times: 1
+	Query: "catalognumber:131321" ; Times: 1
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "tomistoma schlegelii" ; Times: 2
+	Query: "catalognumber:160879" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "155796" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "137236" ; Times: 1
+	Query: "210378" ; Times: 1
+	Query: "116789" ; Times: 1
+	Query: "Plethodon cinerus" ; Times: 3
+	Query: "Gavialis" ; Times: 1
+	Query: "genus:aonyx specificepithet:capensis" ; Times: 5
+	Query: "64422" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "137546" ; Times: 2
+	Query: "145278" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis hasmedia:1" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "115758" ; Times: 1
+	Query: "115753" ; Times: 1
+	Query: "196693" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "115755" ; Times: 1
+	Query: "catalognumber:132320" ; Times: 1
+	Query: "Bassariscus sumichrasti" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 2
+	Query: "Aeretes melanopterus" ; Times: 1
+	Query: "75298" ; Times: 1
+	Query: "137246" ; Times: 1
+	Query: "catalognumber:170470" ; Times: 2
+	Query: "genus:smilodon stateprovince:&#34;pennsylvania&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Neoclinus uninotatus" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "catalognumber:142330" ; Times: 1
+	Query: "86174" ; Times: 2
+	Query: "30150 class:Mammalia" ; Times: 1
+	Query: "Lutreolina crassicaudata mappable:1" ; Times: 3
+	Query: "genus:Gavialis" ; Times: 2
+	Query: "173062" ; Times: 1
+	Query: "komodoensis" ; Times: 1
+	Query: "30033 class:Mammalia" ; Times: 1
+	Query: "catalognumber:132317" ; Times: 2
+	Query: "Cnemiornis" ; Times: 2
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 3
+	Query: "145378" ; Times: 3
+	Query: "57103" ; Times: 1
+	Query: "catalognumber:227425" ; Times: 1
+	Query: "145372" ; Times: 1
+	Query: "30274 mammalia" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "25148" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "208083" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Kern&#34;" ; Times: 2
+	Query: "skeleton genus:Hydrophasianus order:Charadriiformes class:Aves" ; Times: 1
+	Query: "genus:Spilogale institutioncode:UCMP" ; Times: 1
+	Query: "192345" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "156150" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "209157" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "mimus polyglottus" ; Times: 1
+	Query: "Arretotherium" ; Times: 2
+	Query: "141864" ; Times: 1
+	Query: "anemone" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "145380" ; Times: 1
+	Query: "190310" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "182650" ; Times: 1
+	Query: "137989" ; Times: 2
+	Query: "choeropsis" ; Times: 1
+	Query: "175723" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 2
+	Query: "161314" ; Times: 1
+	Query: "93566" ; Times: 1
+	Query: "211044" ; Times: 1
+	Query: "obdurodon" ; Times: 1
+	Query: "174335" ; Times: 1
+	Query: "174336" ; Times: 1
+	Query: "174337" ; Times: 1
+	Query: "specificepithet:marmorata genus:Actinemys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "145540" ; Times: 2
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "plethodon cinerus" ; Times: 13
+	Query: "49924" ; Times: 3
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "specificepithet:americanus family:ursidae hasmedia:1" ; Times: 5
+	Query: "30030 class:Mammalia" ; Times: 1
+	Query: "genus:amphiuma basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Ambystoma flavipiperatum" ; Times: 1
+	Query: "Neoclinus stephensae" ; Times: 1
+	Query: "genus:Mephitis institutioncode:UCMP" ; Times: 1
+	Query: "140271" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "119950" ; Times: 1
+	Query: "119953" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1263 download events in this period)
+Total number of records downloaded: 1245
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: United States ; Times: 52
+	Country: Malaysia ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-19 ; Times: 3
+	Date: 2019-04-18 ; Times: 11
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-16 ; Times: 5
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-02 ; Times: 12
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-20 ; Times: 5
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 3
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "genus:smilodon stateprovince:&#34;pennsylvania&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Sebastolobus alascanus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Lasiurus seminolus" ; Times: 2
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Casuarius" ; Times: 2
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "Otospermophilus beecheyi" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "specificepithet:novencinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Ovis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:hirundo" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Loreto&#34; country:&#34;Perú&#34;" ; Times: 1
+	Query: "mimus polyglottus" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Myodes californicus" ; Times: 1
+
+
+End of report.
