@@ -1,0 +1,302 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 197
+Number of records retrieved in searches: 1091
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 6
+	Country: Netherlands ; Times: 18
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 24
+	Country: Belgium ; Times: 9
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 14
+	Country: Peru ; Times: 5
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: United States ; Times: 97
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 9
+	Date: 2019-03-25 ; Times: 10
+	Date: 2019-03-24 ; Times: 3
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 4
+	Date: 2019-03-21 ; Times: 10
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-05 ; Times: 10
+	Date: 2019-03-04 ; Times: 9
+	Date: 2019-03-07 ; Times: 10
+	Date: 2019-03-06 ; Times: 12
+	Date: 2019-03-01 ; Times: 12
+	Date: 2019-03-29 ; Times: 9
+	Date: 2019-03-22 ; Times: 5
+	Date: 2019-03-15 ; Times: 25
+	Date: 2019-03-30 ; Times: 4
+	Date: 2019-03-31 ; Times: 13
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-18 ; Times: 7
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-02 ; Times: 3
+	Date: 2019-03-14 ; Times: 11
+	Date: 2019-03-28 ; Times: 4
+	Date: 2019-03-12 ; Times: 7
+	Date: 2019-03-13 ; Times: 5
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:emys stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; (Antilocapra americana)" ; Times: 1
+	Query: "Pituophis vertebralis" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma preparations:skeleton" ; Times: 1
+	Query: "217679" ; Times: 2
+	Query: "specificepithet:ordinarium genus:ambystoma preparations:skeleton" ; Times: 1
+	Query: "genus:Taxidea country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "velociraptor" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "catalognumber:90894" ; Times: 1
+	Query: "eusthenopteron" ; Times: 1
+	Query: "218165" ; Times: 1
+	Query: "vntype:specimen order:Charadriiformes class:Aves (Skeleton) institutioncode:UCMP" ; Times: 1
+	Query: "90727" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "eoraptor" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "137524" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "Scarus compressus" ; Times: 1
+	Query: "dilophosaurus" ; Times: 1
+	Query: "Gonyosoma oxycephalum" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "209110" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "103378" ; Times: 1
+	Query: "70265" ; Times: 2
+	Query: "SCARUS COMPRESSUS" ; Times: 3
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "Skeleton genus:Hydrophasianus order:Charadriiformes class:Aves AND (NOT juvenile )" ; Times: 2
+	Query: "order:aves" ; Times: 1
+	Query: "Boiga dendrophila" ; Times: 1
+	Query: "poebrotherium" ; Times: 1
+	Query: "herrerasaurus" ; Times: 1
+	Query: "125594" ; Times: 1
+	Query: "Anolis mestrei" ; Times: 1
+	Query: "quetzalcoatlus" ; Times: 1
+	Query: "216696" ; Times: 1
+	Query: "216697" ; Times: 1
+	Query: "Sanzinia madagascariensis" ; Times: 1
+	Query: "jabiru mycteria" ; Times: 2
+	Query: "catalognumber:90893" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "217429" ; Times: 1
+	Query: "25127" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Xenopeltis unicolor" ; Times: 1
+	Query: "208083" ; Times: 1
+	Query: "94387" ; Times: 1
+	Query: "class:Mammalia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eryx colubrinus" ; Times: 1
+	Query: "order:Dinornithiformes" ; Times: 2
+	Query: "catalognumber:120291" ; Times: 1
+	Query: "196694" ; Times: 1
+	Query: "196693" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "borealosuchus" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Teton&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 3
+	Query: "54495" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "70247" ; Times: 1
+	Query: "genus:Batrachoseps county:&#34;Tuolumne&#34;" ; Times: 3
+	Query: "specificepithet:marmorata genus:actinemys family:emydidae" ; Times: 1
+	Query: "catalognumber:137993" ; Times: 1
+	Query: "specificepithet:boylei genus:rana" ; Times: 2
+	Query: "bassariscus sumichrasti" ; Times: 2
+	Query: "62264" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "class:Mammalia county:&#34;Young&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cnemiornis" ; Times: 4
+	Query: "Calabaria reinhardtii" ; Times: 1
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "catalognumber:75387" ; Times: 1
+	Query: "lestodelphys" ; Times: 1
+	Query: "Boiga cyanea" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "108252" ; Times: 3
+	Query: "dipodomys ingens" ; Times: 1
+	Query: "class:Actinopterygii hasmedia:1 isfossil:1" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "90085" ; Times: 1
+	Query: "Panthera uncia" ; Times: 2
+	Query: "249385" ; Times: 1
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "84104" ; Times: 1
+	Query: "catalognumber:78125" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "Manta birostris" ; Times: 1
+	Query: "Enhydris jagorii" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "92210" ; Times: 2
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "Brazil vntype:specimen genus:Speothos family:Canidae" ; Times: 1
+	Query: "manta birostris" ; Times: 1
+	Query: "73139" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "54471" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 1
+	Query: "25563" ; Times: 1
+	Query: "Erpeton tentaculatum" ; Times: 1
+	Query: "PHOENICOPTERUS RUBER" ; Times: 1
+	Query: "121677" ; Times: 1
+	Query: "institutioncode:UCMP isfossil:1" ; Times: 2
+	Query: "121679" ; Times: 1
+	Query: "Pizza" ; Times: 1
+	Query: "order:Salmoniformes county:&#34;san diego&#34;" ; Times: 1
+	Query: "Pseudalopex gymnocercus mappable:1" ; Times: 1
+	Query: "140994" ; Times: 1
+	Query: "vntype:specimen genus:Otocyon family:Canidae country:&#34;South Africa&#34;" ; Times: 1
+	Query: "diadectes" ; Times: 2
+	Query: "Psammophylax tritaeniatus" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "91415" ; Times: 1
+	Query: "order:Lepidosireniformes hastissue:1" ; Times: 3
+	Query: "pteranodon" ; Times: 1
+	Query: "order:Dinornithiformes country:&#34;new zealand&#34;" ; Times: 1
+	Query: "125668" ; Times: 2
+	Query: "class:Mammalia county:&#34;Foard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lampropeltis mexicana" ; Times: 1
+	Query: "113188" ; Times: 1
+	Query: "Chelus" ; Times: 2
+	Query: "oreotragus" ; Times: 1
+	Query: "catalognumber:93838" ; Times: 1
+	Query: ".mp3" ; Times: 1
+	Query: "Scincopus fasciatus" ; Times: 3
+	Query: "genus:Mobula" ; Times: 1
+	Query: "megacamelus" ; Times: 1
+	Query: "specificepithet:texanum genus:ambystoma preparations:skeleton" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "Phocoena spinipinnis" ; Times: 1
+	Query: "147828" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "catalognumber:194780" ; Times: 1
+	Query: "253025" ; Times: 1
+	Query: "253023" ; Times: 1
+	Query: "Kayentachelys" ; Times: 2
+	Query: "order:Dinornithiformes country:&#34;new zealand&#34; AND (skeleton)" ; Times: 1
+	Query: "181986" ; Times: 1
+	Query: "228547" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 1281 download events in this period)
+Total number of records downloaded: 1616
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: United Kingdom ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 2
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-08 ; Times: 9
+	Date: 2019-03-13 ; Times: 6
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-12 ; Times: 3
+	Date: 2019-03-07 ; Times: 8
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiorhinus" ; Times: 1
+	Query: "Petrosaurus thalassinus" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:marmorata family:emydidae" ; Times: 1
+	Query: "specificepithet:flavipunctatus genus:aneides" ; Times: 1
+	Query: "(charadricola OR robertsorum OR thorectes OR hazelae OR sabrina)" ; Times: 1
+	Query: "specificepithet:boylei genus:rana" ; Times: 1
+	Query: "genus:Ictonyx" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides" ; Times: 1
+	Query: "Tupaia glis" ; Times: 1
+	Query: "class:Mammalia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "class:Mammalia county:&#34;Young&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "specificepithet:marmorata genus:emys" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:microtus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "genus:Mellivora" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "Bipes biporus" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "bettongia" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "Conolophus subcristatus" ; Times: 1
+	Query: "Scarus compressus" ; Times: 1
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "class:reptilia county:&#34;wayne&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Foard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "anolis conspersus" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
