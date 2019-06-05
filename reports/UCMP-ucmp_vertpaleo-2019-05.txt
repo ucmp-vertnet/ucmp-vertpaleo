@@ -1,0 +1,276 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 704
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Bangladesh ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 8
+	Country: Dominican Republic ; Times: 3
+	Country: United States ; Times: 80
+	Country: New Zealand ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 1
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-09 ; Times: 7
+	Date: 2019-05-08 ; Times: 6
+	Date: 2019-05-07 ; Times: 8
+	Date: 2019-05-06 ; Times: 34
+	Date: 2019-05-05 ; Times: 3
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 10
+	Date: 2019-05-02 ; Times: 5
+	Date: 2019-05-01 ; Times: 7
+	Date: 2019-05-25 ; Times: 5
+	Date: 2019-05-24 ; Times: 6
+	Date: 2019-05-27 ; Times: 3
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 6
+	Date: 2019-05-20 ; Times: 8
+	Date: 2019-05-23 ; Times: 6
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-28 ; Times: 4
+	Date: 2019-05-19 ; Times: 3
+	Date: 2019-05-10 ; Times: 6
+	Date: 2019-05-11 ; Times: 4
+	Date: 2019-05-13 ; Times: 2
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 3
+	Date: 2019-05-17 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "scarus compressus" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 1
+	Query: "84999" ; Times: 1
+	Query: "217679" ; Times: 1
+	Query: "Phrynosoma alameda county" ; Times: 1
+	Query: "103068" ; Times: 2
+	Query: "genus:Canis hasmedia:1 isfossil:1" ; Times: 1
+	Query: "168930" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 1
+	Query: "155228" ; Times: 1
+	Query: "151419" ; Times: 1
+	Query: "Heterodontus mexicanus" ; Times: 1
+	Query: "225710" ; Times: 1
+	Query: "31934" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "genus:canis mandible" ; Times: 1
+	Query: "217680" ; Times: 2
+	Query: "127198" ; Times: 1
+	Query: "88258" ; Times: 1
+	Query: "genus:pronolagus country:&#34;South Africa&#34;" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "31985" ; Times: 1
+	Query: "SCARUS COMPRESSUS" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "genus:canis hasmedia:1" ; Times: 1
+	Query: "Pseudoginglymostoma brevicaudatum" ; Times: 1
+	Query: "vntype:specimen genus:Canis hasmedia:1" ; Times: 1
+	Query: "order:aves" ; Times: 2
+	Query: "Heterodontus francisci" ; Times: 1
+	Query: "Raja rhina" ; Times: 1
+	Query: "manta birostris" ; Times: 1
+	Query: "catalognumber:182006" ; Times: 1
+	Query: "caloprymnus" ; Times: 1
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "California moray" ; Times: 1
+	Query: "catalognumber:88258" ; Times: 1
+	Query: "genus:antilocapra stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "genus:Arius preparations:skull" ; Times: 1
+	Query: "24880" ; Times: 1
+	Query: "Hapalomys" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "genus: canis mandible" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis hasmedia:1" ; Times: 1
+	Query: "Scaphiopus intermontanus" ; Times: 2
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "genus:Tamias county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; distance(location,geopoint(35.15584570226544,-115.4498291015625))&lt;100000" ; Times: 1
+	Query: "specificepithet:rudicollis genus:Varanus" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:diadophis hastypestatus:1" ; Times: 3
+	Query: "Cetorhinus maximus" ; Times: 3
+	Query: "Dasyatis brevis" ; Times: 1
+	Query: "Lutreolina crassicaudata mappable:1" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "Dalatias licha" ; Times: 1
+	Query: "genus:Canis basisofrecord:FossilSpecimen hasmedia:1" ; Times: 1
+	Query: "172610" ; Times: 1
+	Query: "class:Reptilia county:&#34;New Castle&#34; stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "V 1653" ; Times: 1
+	Query: "specificepithet:flavipiperatum genus:Ambystoma" ; Times: 2
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "13329 AMNH" ; Times: 3
+	Query: "Notorynchus cepedianus" ; Times: 1
+	Query: "cetorhinus" ; Times: 3
+	Query: "46899" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 1
+	Query: "genus:Procoptodon" ; Times: 1
+	Query: "215065" ; Times: 1
+	Query: "catalognumber:860 institutioncode:UCMP" ; Times: 1
+	Query: "mandible genus:Canis basisofrecord:FossilSpecimen hasmedia:1" ; Times: 1
+	Query: "genus:crotalus county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Myliobatis longirostris" ; Times: 1
+	Query: "mandible genus:Canis hasmedia:1" ; Times: 1
+	Query: "genus:Bettongia preparations:skeleton" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "Syncerus caffer mappable:1" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "genus:nycticebus preparations:skeleton" ; Times: 2
+	Query: "class:Aves catalognumber:53962" ; Times: 1
+	Query: "genus:Manta" ; Times: 2
+	Query: "catalognumber:108402" ; Times: 1
+	Query: "312554" ; Times: 3
+	Query: "181338" ; Times: 1
+	Query: "225763" ; Times: 1
+	Query: "196696" ; Times: 1
+	Query: "genus:canis mandible hasmedia:1" ; Times: 2
+	Query: "specificepithet:canis latrans" ; Times: 2
+	Query: "208078" ; Times: 1
+	Query: "ailuropoda" ; Times: 1
+	Query: "291287" ; Times: 1
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "175723" ; Times: 3
+	Query: "catalognumber:147730" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 2
+	Query: "91493" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "176358" ; Times: 1
+	Query: "catalognumber:885 institutioncode:UCMP" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "genus:Mobula" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "specificepithet:dumerilii genus:Varanus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 3
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "genus:loris preparations:skeleton" ; Times: 1
+	Query: "Lamna nasus" ; Times: 1
+	Query: "76486" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 2
+	Query: "Squatina californica" ; Times: 1
+	Query: "family:emydidae county:&#34;San Diego&#34;" ; Times: 1
+	Query: "83059" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 940 download events in this period)
+Total number of records downloaded: 1719
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Bangladesh ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 9
+	Country: Poland ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 24
+	Country: Switzerland ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 4
+	Date: 2019-05-07 ; Times: 5
+	Date: 2019-05-06 ; Times: 5
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-01 ; Times: 3
+	Date: 2019-05-25 ; Times: 3
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 4
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 2
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 3
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "IF 396" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "scarus compressus" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Crocodylus rhombifer" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "specificepithet:leucocephalus genus:haliaeetus preparations:skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 4
+	Query: "vntype:specimen specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "genus:Ambystoma hastypestatus:1" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:merriami genus:Tamias" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "barisia" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "family:emydidae county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 1
+
+
+End of report.
