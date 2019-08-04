@@ -1,0 +1,444 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 418
+Number of records retrieved in searches: 10712
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 16
+	Country: Madagascar ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Mexico ; Times: 16
+	Country: Hong Kong ; Times: 1
+	Country: Unknown ; Times: 15
+	Country: Nepal ; Times: 11
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 12
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 2
+	Country: China ; Times: 2
+	Country: United States ; Times: 322
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 33
+	Date: 2019-07-18 ; Times: 4
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-08 ; Times: 92
+	Date: 2019-07-12 ; Times: 30
+	Date: 2019-07-13 ; Times: 1
+	Date: 2019-07-10 ; Times: 22
+	Date: 2019-07-11 ; Times: 21
+	Date: 2019-07-16 ; Times: 22
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-14 ; Times: 15
+	Date: 2019-07-15 ; Times: 6
+	Date: 2019-07-02 ; Times: 5
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-23 ; Times: 14
+	Date: 2019-07-22 ; Times: 3
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-20 ; Times: 68
+	Date: 2019-07-27 ; Times: 17
+	Date: 2019-07-24 ; Times: 2
+	Date: 2019-07-01 ; Times: 5
+	Date: 2019-07-30 ; Times: 6
+	Date: 2019-07-29 ; Times: 9
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 14
+	Date: 2019-07-07 ; Times: 8
+	Date: 2019-07-06 ; Times: 7
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Wyonycteris" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "MNHN 4881 vntype:specimen" ; Times: 1
+	Query: "genus:Heloderma specificepithet:horridum" ; Times: 1
+	Query: "137095" ; Times: 1
+	Query: "genus:Cercopithecoides specificepithet:williamsi" ; Times: 1
+	Query: "genus:Acritohippus specificepithet:isonesus" ; Times: 1
+	Query: "genus:Pronothodectes specificepithet:matthewi" ; Times: 1
+	Query: "order:perissodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 5
+	Query: "107251" ; Times: 1
+	Query: "specificepithet:superciliaris family:Bufonidae" ; Times: 1
+	Query: "genus:Cantius specificepithet:mckennai" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "115894" ; Times: 1
+	Query: "catalognumber:149386" ; Times: 1
+	Query: "catalognumber:63611" ; Times: 1
+	Query: "catalognumber:63610" ; Times: 3
+	Query: "catalognumber:64954" ; Times: 1
+	Query: "genus:Titanotheriomys specificepithet:veterior" ; Times: 1
+	Query: "genus:Adocus" ; Times: 1
+	Query: "genus:Equus specificepithet:capensis" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "genus:Allognathosuchus" ; Times: 1
+	Query: "genus:Tetonius specificepithet:mckennai" ; Times: 1
+	Query: "genus:Sphaerotholus" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:bison order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 3
+	Query: "specificepithet:atrox genus:felis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 2
+	Query: "genus:Arapahovius specificepithet:gazini" ; Times: 1
+	Query: "family:Emydidae county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 2
+	Query: "family:mustelidae order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Homo specificepithet:erectus" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla preparations:skeleton" ; Times: 2
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "genus:Rapamys" ; Times: 1
+	Query: "genus:Rhizomys specificepithet:sinensis" ; Times: 1
+	Query: "genus:Rhamphorhynchus" ; Times: 1
+	Query: "Elaphe moellendorffi" ; Times: 2
+	Query: "217680" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:savagei" ; Times: 1
+	Query: "genus:Trogolemur" ; Times: 1
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "genus:Parailurus specificepithet:hungaricus" ; Times: 1
+	Query: "AMNH 13329" ; Times: 3
+	Query: "genus:Homo specificepithet:neanderthalensis" ; Times: 1
+	Query: "genus:Redunca" ; Times: 1
+	Query: "249821" ; Times: 2
+	Query: "caiman;skull" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "genus:Titanotheriomys specificepithet:wyomingensis" ; Times: 1
+	Query: "genus:Papio specificepithet:ursinus" ; Times: 1
+	Query: "Actinemys" ; Times: 8
+	Query: "genus:Emys specificepithet:marmorata" ; Times: 1
+	Query: "specificepithet:aurora genus:rana preparations:Skeleton" ; Times: 1
+	Query: "genus:Nandayus specificepithet:nenday" ; Times: 1
+	Query: "genus:Proconsul specificepithet:africanus" ; Times: 1
+	Query: "117916" ; Times: 1
+	Query: "genus:Synthliboramphus specificepithet:antiquus" ; Times: 1
+	Query: "genus:smilodon order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Miospermophilus" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 1
+	Query: "107388" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kings&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "family:phocidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:concolor genus:felis family:felidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "253952" ; Times: 1
+	Query: "genus:Machairodus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Chlororhysis specificepithet:knightensis" ; Times: 1
+	Query: "genus:Tetonius specificepithet:matthewi" ; Times: 1
+	Query: "genus:Eublepharis" ; Times: 1
+	Query: "family:ursidae order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:arizonensis genus:mustela family:mustelidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:taxidea family:mustelidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Raja rhina" ; Times: 1
+	Query: "genus:Brachychampsa specificepithet:montana" ; Times: 1
+	Query: "Flavipiperatum" ; Times: 3
+	Query: "genus:arctodus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Emys county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "genus:urocyon family:canidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Omomyidae" ; Times: 2
+	Query: "genus:Titanohyrax" ; Times: 1
+	Query: "genus:Bettongia specificepithet:penicillata" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Crocodylus mappable:1" ; Times: 1
+	Query: "genus:Dicynodon" ; Times: 1
+	Query: "77592" ; Times: 1
+	Query: "genus:Propalaeotherium specificepithet:isselanum" ; Times: 1
+	Query: "genus:Epicyon" ; Times: 1
+	Query: "genus:Steinius specificepithet:vespertinus" ; Times: 1
+	Query: "genus:Cantius specificepithet:abditus" ; Times: 1
+	Query: "class:amphibia locality:Monument Valley stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Cantius specificepithet:ralstoni" ; Times: 1
+	Query: "genus:Ptychozoon" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:hesternus genus:camelops order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Acer" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 4
+	Query: "genus:Tetonius specificepithet:homunculus" ; Times: 1
+	Query: "genus:Neosaimiri specificepithet:fieldsi" ; Times: 1
+	Query: "genus:mephitis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:vison genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Cantius specificepithet:frugivorus" ; Times: 1
+	Query: "catalognumber:145415" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:brevis" ; Times: 1
+	Query: "genus:Lophiodon specificepithet:lautricense" ; Times: 1
+	Query: "M-208650" ; Times: 1
+	Query: "genus:Alagomys specificepithet:russelli" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 2
+	Query: "genus:Absarokius specificepithet:noctivagus" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "class:mammalia county:&#34;riverside&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 11
+	Query: "family:emydidae county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "genus:Accipiter specificepithet:cooperi" ; Times: 1
+	Query: "genus:ottoceros order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:notiosorex class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:hippolestes genus:felis family:felidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:canis family:canidae order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Metridiochoerus specificepithet:andrewsi" ; Times: 1
+	Query: "genus:Dinofelis specificepithet:barlowi" ; Times: 1
+	Query: "175065" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:pearcei" ; Times: 1
+	Query: "specificepithet:latrans genus:canis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Pteraspis" ; Times: 2
+	Query: "Centrocercus urophasianus" ; Times: 15
+	Query: "genus:Plastomenus" ; Times: 1
+	Query: "genus:capromeryx order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "mammuthus hastissue:1" ; Times: 6
+	Query: "genus:Antechinomys specificepithet:spenceri" ; Times: 1
+	Query: "genus:Proconsul specificepithet:major" ; Times: 1
+	Query: "specificepithet:lupus genus:canis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 5
+	Query: "genus:Mammut specificepithet:americanum" ; Times: 1
+	Query: "86476" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "specificepithet:xanthogenys genus:mustela family:mustelidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Thylacinus vntype:specimen" ; Times: 5
+	Query: "specificepithet:dirus genus:canis family:canidae order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:latifrons genus:bison order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 2
+	Query: "90369" ; Times: 1
+	Query: "anteater skeleton" ; Times: 2
+	Query: "genus:Compsemys specificepithet:victa" ; Times: 1
+	Query: "specificepithet:boylii genus:rana preparations:Skeleton" ; Times: 1
+	Query: "genus:Papio specificepithet:izodi" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "specificepithet:cinerea genus:hyla preparations:Skeleton" ; Times: 3
+	Query: "specificepithet:lupus genus:canis family:canidae order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "AMNH 16478" ; Times: 1
+	Query: "132114" ; Times: 1
+	Query: "genus:Limnoecus" ; Times: 1
+	Query: "family:Emydidae county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "59041" ; Times: 1
+	Query: "(crocodylus porosus OR crocodylus acutus)" ; Times: 1
+	Query: "family:emydidae county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:dirus genus:canis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "Thylacinus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 12
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "161908" ; Times: 1
+	Query: "J. T. Peterson" ; Times: 1
+	Query: "class:reptilia locality:wupatki county:&#34;coconino&#34;" ; Times: 1
+	Query: "specificepithet:crepitans genus:acris preparations:skeleton" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "genus:Stirtonia specificepithet:tatacoensis" ; Times: 1
+	Query: "catalognumber:75901" ; Times: 1
+	Query: "genus:Pondaungia" ; Times: 1
+	Query: "family:canidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 2
+	Query: "Boiga cyanea" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana preparations:Skeleton institutioncode:UCMP" ; Times: 1
+	Query: "family:ursidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Equus specificepithet:complicatus" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:felis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 2
+	Query: "specificepithet:caurina genus:Martes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "order:perissodactyla class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:canidae order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "class:reptilia county:&#34;hot springs&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "specificepithet:holbrooki genus:scaphiopus preparations:Skeleton" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota hasmedia:1" ; Times: 1
+	Query: "specificepithet:bison genus:bison order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "62264" ; Times: 2
+	Query: "genus:Phacochoerus specificepithet:antiquus" ; Times: 1
+	Query: "genus:Alcelaphus " ; Times: 1
+	Query: "genus:Pinus" ; Times: 1
+	Query: "genus:ursus class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 2
+	Query: "specificepithet:cinerea genus:Hyla preparations:skeleton" ; Times: 1
+	Query: "specificepithet:latifrons order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Felis lynx" ; Times: 2
+	Query: "genus:Cantius specificepithet:trigonodus" ; Times: 1
+	Query: "scincopus fasciatus" ; Times: 2
+	Query: "specificepithet:superciliaris family:Bufonidae AND (NOT Cameroon NOT Ghana)" ; Times: 1
+	Query: "genus:Carpolestes specificepithet:nigridens" ; Times: 1
+	Query: "genus:Nyctereutes" ; Times: 1
+	Query: "miocene family:Emydidae county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "specificepithet:floridanus genus:smilodon order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "family:mustelidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 3
+	Query: "order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "171555" ; Times: 1
+	Query: "class:amphibia locality:Monument Valley" ; Times: 1
+	Query: "229711" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana preparations:skeleton" ; Times: 1
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:antiquus genus:bison order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "MNHN-4881 vntype:specimen" ; Times: 1
+	Query: "254563" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana preparations:skeleton" ; Times: 2
+	Query: "class:amphibia locality:Monument Valley stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:familiaris genus:canis family:canidae order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "class:amphibia locality:Monument Valley county:&#34;Navajo&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis family:canidae order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Raja binoculata" ; Times: 4
+	Query: "genus:Carpolestes specificepithet:dubius" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "catalognumber:78979" ; Times: 1
+	Query: "genus:camelops order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "family:mephitidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "class:reptilia locality:Monument Valley county:&#34;Navajo&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Hydrosaurus amboinensis" ; Times: 1
+	Query: "225672" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 7
+	Query: "catalognumber:215729" ; Times: 1
+	Query: "genus:lepus class:MAMMALIA locality:beaver" ; Times: 1
+	Query: "genus:Gomphotherium" ; Times: 1
+	Query: "Ambystoma tigrinum californiense" ; Times: 3
+	Query: "class:amphibia county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Panthera onca" ; Times: 5
+	Query: "Rana aurora" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 4
+	Query: "genus:Subhyracodon" ; Times: 1
+	Query: "99109" ; Times: 1
+	Query: "genus:Papio specificepithet:cynocephalus" ; Times: 1
+	Query: "23148" ; Times: 2
+	Query: "genus:Estesia specificepithet:mongoliensis" ; Times: 1
+	Query: "genus:Shoshonius specificepithet:cooperi" ; Times: 1
+	Query: "genus:Adapis specificepithet:parisiensis" ; Times: 1
+	Query: "genus:Absarokius specificepithet:abbotti" ; Times: 1
+	Query: "vntype:specimen genus:vulpes hasmedia:1" ; Times: 1
+	Query: "Osteostraci" ; Times: 1
+	Query: "Gypsonictops" ; Times: 2
+	Query: "6601 AMNH" ; Times: 1
+	Query: "genus:Necrolemur specificepithet:antiquus" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 6
+	Query: "genus:Morus " ; Times: 1
+	Query: "161267" ; Times: 1
+	Query: "genus:Tyrannosaurus isfossil:1" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 10
+	Query: "genus:vulpes stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "216405" ; Times: 1
+	Query: "69829" ; Times: 1
+	Query: "specificepithet:californicus genus:felis family:felidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 2
+	Query: "specificepithet:minor genus:capromeryx order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 1
+	Query: "genus:Chelus" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela family:mustelidae order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:boylii genus:rana preparations:skeleton" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 2
+	Query: "specificepithet:boylii genus:Rana preparations:Skeleton institutioncode:UCMP" ; Times: 1
+	Query: "genus:sorex class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Tullochelys" ; Times: 1
+	Query: "class:mammalia county:&#34;ventura&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:squirella genus:Hyla preparations:skeleton" ; Times: 2
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 985 download events in this period)
+Total number of records downloaded: 2511
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 48
+	Country: Peru ; Times: 6
+	Country: Bhutan ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Uganda ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 4
+	Date: 2019-07-08 ; Times: 2
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 1
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-11 ; Times: 4
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-05 ; Times: 4
+	Date: 2019-07-29 ; Times: 2
+	Date: 2019-07-28 ; Times: 1
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-12 ; Times: 5
+	Date: 2019-07-31 ; Times: 12
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-23 ; Times: 24
+	Date: 2019-07-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:clarki genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:erethizon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:vulpes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "dingo genus:Canis AND (NOT ANWC)" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "specificepithet:vison genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:mephitis genus:mephitis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "specificepithet:americana genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:Reptilia country:&#34;Namibia&#34;" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 2
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "elanus caeruleus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Macroclemys" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "specificepithet:concolor genus:puma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:caurina genus:Martes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Clemmys marmorata" ; Times: 1
+	Query: "Macrochelys" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "specificepithet:wislizenii genus:Gambelia" ; Times: 3
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "specificepithet:poinsetti genus:Sceloporus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:urocyon stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
