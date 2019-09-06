@@ -1,0 +1,364 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 401
+Number of records retrieved in searches: 6978
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 322
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 7
+	Country: Finland ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: United Kingdom ; Times: 23
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Peru ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: Argentina ; Times: 4
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 9
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 9
+	Date: 2019-08-28 ; Times: 8
+	Date: 2019-08-29 ; Times: 13
+	Date: 2019-08-01 ; Times: 8
+	Date: 2019-08-02 ; Times: 6
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-04 ; Times: 15
+	Date: 2019-08-05 ; Times: 39
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-07 ; Times: 18
+	Date: 2019-08-08 ; Times: 44
+	Date: 2019-08-09 ; Times: 19
+	Date: 2019-08-24 ; Times: 9
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 4
+	Date: 2019-08-23 ; Times: 12
+	Date: 2019-08-20 ; Times: 14
+	Date: 2019-08-21 ; Times: 20
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-16 ; Times: 7
+	Date: 2019-08-15 ; Times: 57
+	Date: 2019-08-14 ; Times: 11
+	Date: 2019-08-13 ; Times: 8
+	Date: 2019-08-12 ; Times: 8
+	Date: 2019-08-11 ; Times: 2
+	Date: 2019-08-30 ; Times: 24
+	Date: 2019-08-19 ; Times: 28
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-26 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "159969" ; Times: 1
+	Query: "specificepithet:browni class:mammalia (browni)" ; Times: 2
+	Query: "115366" ; Times: 3
+	Query: "115365" ; Times: 1
+	Query: "Hipparion primigenium" ; Times: 1
+	Query: "(seymouria)" ; Times: 1
+	Query: "javelina" ; Times: 2
+	Query: "Gnathonemus" ; Times: 1
+	Query: "249832" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 3
+	Query: "genus:Titanotheriomys specificepithet:veterior" ; Times: 1
+	Query: "167624" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "142824" ; Times: 3
+	Query: "142826" ; Times: 3
+	Query: "genus:Palenochtha specificepithet:minor" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "Felis pardalis" ; Times: 5
+	Query: "145084" ; Times: 1
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 1
+	Query: "genus:Vulpes county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "106348" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "genus:Cathartes basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "(213555)" ; Times: 1
+	Query: "vntype:specimen genus:homo preparations:skeleton AND (NOT juvenile)" ; Times: 1
+	Query: "genus:Jemezius specificepithet:szalayi" ; Times: 1
+	Query: "Oxydoras niger" ; Times: 1
+	Query: "genus:Parapavo stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "71277" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 13
+	Query: "genus:Meleagris stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 17
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "Javelina" ; Times: 1
+	Query: "Hapalemur griseus" ; Times: 1
+	Query: "genus:Caracara stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Vulpes macrotis mutica" ; Times: 5
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Arndt hastypestatus:1" ; Times: 1
+	Query: "genus:taxidea stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:caracara stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Apus melba" ; Times: 1
+	Query: "Tracheophyta" ; Times: 1
+	Query: "142736" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "catalognumber:66815" ; Times: 1
+	Query: "genus:Acritohippus specificepithet:isonesus" ; Times: 1
+	Query: "129974" ; Times: 2
+	Query: "Thylacinus cynocephalus" ; Times: 2
+	Query: "223331" ; Times: 1
+	Query: "genus:Omomyidae" ; Times: 1
+	Query: "genus:marmota stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "genus:Coragyps stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "eurycea rathbuni" ; Times: 1
+	Query: "Larosterna inca" ; Times: 2
+	Query: "24771" ; Times: 3
+	Query: "56339" ; Times: 1
+	Query: "genus:Buteo stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 2
+	Query: "genus:Trachydosaurus specificepithet:rugosus" ; Times: 1
+	Query: "Rana aurora" ; Times: 3
+	Query: "222823" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 8
+	Query: "order:perissodactyla class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Sthenurus continent:North America" ; Times: 1
+	Query: "genus:Dasymys country:&#34;South Africa&#34;" ; Times: 1
+	Query: "catalognumber:48611" ; Times: 1
+	Query: "specificepithet:laniarius genus:Sarcophilus" ; Times: 1
+	Query: "227423" ; Times: 1
+	Query: "genus:Dinofelis specificepithet:barlowi" ; Times: 1
+	Query: "Bos taurus L." ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "291666" ; Times: 1
+	Query: "genus:Cathartes stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "MANTA birostris" ; Times: 1
+	Query: "Ambystoma californiense" ; Times: 29
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "catalognumber:46100" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana preparations:skeleton institutioncode:UCMP" ; Times: 3
+	Query: "30879" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Tympanuchus family:Phasianidae order:Galliformes isfossil:1" ; Times: 2
+	Query: "class:Reptilia or Amphibia" ; Times: 1
+	Query: "genus:Protosciurus " ; Times: 1
+	Query: "100361" ; Times: 1
+	Query: "genus:Meleagris stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "catalognumber:145540" ; Times: 1
+	Query: "SMM" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "Carrizo Creek arizona" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "genus:Lophiodon specificepithet:lautricense" ; Times: 1
+	Query: "genus:Actinemys specificepithet:marmorata" ; Times: 1
+	Query: "genus:Procoptodon continent:North America" ; Times: 3
+	Query: "locality:castle county:&#34;san joaquin&#34;" ; Times: 1
+	Query: "specificepithet:browni class:amphibia (browni)" ; Times: 1
+	Query: "genus:Dusicyon" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 1
+	Query: "specificepithet:flavipiperatum genus:Ambystoma" ; Times: 1
+	Query: "67129" ; Times: 1
+	Query: "dusicyon culpaeus (ecuador)" ; Times: 2
+	Query: "24292" ; Times: 1
+	Query: "Sperata seenghala" ; Times: 1
+	Query: "69462" ; Times: 1
+	Query: "genus:Teratornis stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Aepyornis maximus" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 11
+	Query: "strenuus" ; Times: 1
+	Query: "pseudalopex culpaeus (ecuador)" ; Times: 4
+	Query: "Pachyptila vittata" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "seymouria" ; Times: 4
+	Query: "108252" ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "arapaima" ; Times: 2
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "142853" ; Times: 2
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "genus:procoptodon" ; Times: 2
+	Query: "genus:Phacochoerus specificepithet:antiquus" ; Times: 1
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "28575" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "Felis lynx" ; Times: 22
+	Query: "vntype:specimen specificepithet:marmorata genus:actinemys" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "genus:Gymnogyps stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "thylacinus cynocephalus" ; Times: 1
+	Query: "Arndt class:Reptilia" ; Times: 4
+	Query: "panthera uncia" ; Times: 1
+	Query: "129791" ; Times: 1
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "egg nebraska" ; Times: 1
+	Query: "genus:Cathartes stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "specificepithet:swainsoni genus:Buteo stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "teratornis" ; Times: 1
+	Query: "specificepithet:australis genus:Dusicyon" ; Times: 3
+	Query: "Phractocephalus hemioliopterus" ; Times: 1
+	Query: "Sorubim lima" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Titanotheriomys specificepithet:wyomingensis" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "Drymarchon corais couperi" ; Times: 13
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "163374" ; Times: 1
+	Query: "genus:procoptodon country:&#34;united states&#34;" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "Ambystoma tigrinum californiense" ; Times: 17
+	Query: "Neotoma fuscipes" ; Times: 3
+	Query: "82270" ; Times: 1
+	Query: "genus:sthenurus country:&#34;united states&#34;" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "117046" ; Times: 1
+	Query: "Sthenurus" ; Times: 1
+	Query: "21879" ; Times: 2
+	Query: "ticholeptus" ; Times: 1
+	Query: "39641" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma" ; Times: 1
+	Query: "genus:Nothocyon specificepithet:lemur" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 1
+	Query: "69631" ; Times: 1
+	Query: "genus:Sorex county:&#34;Riverside&#34;" ; Times: 2
+	Query: "sthenurus" ; Times: 3
+	Query: "specificepithet:californianus genus:Gymnogyps" ; Times: 2
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UCMP" ; Times: 1
+	Query: "156810" ; Times: 2
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "genus:Propalaeotherium specificepithet:isselanum" ; Times: 1
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "Lutreolina crassicaudata mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 77 (out of 1034 download events in this period)
+Total number of records downloaded: 1971
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 42
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Bolivia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-02 ; Times: 7
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 11
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-26 ; Times: 6
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 9
+	Date: 2019-08-16 ; Times: 3
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-10 ; Times: 2
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 1
+	Query: "genus:caracara stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Santander" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "anolis evermanni" ; Times: 1
+	Query: "pseudalopex culpaeus (ecuador)" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "genus:Cathartes stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "bassaricyon" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Spermophilus washingtoni" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "genus:Coragyps stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "genus:Teratornis stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "ticholeptus" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "dusicyon culpaeus (ecuador)" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Lampropeltis mexicana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "seymouria" ; Times: 1
+	Query: "genus:Dasymys country:&#34;South Africa&#34;" ; Times: 1
+	Query: "stateprovince:&#34;carchi&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "eumeces schneideri" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "genus:Parapavo stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "Boyacá" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "genus:Meleagris stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:swainsoni genus:Buteo stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "Arequipa" ; Times: 2
+	Query: "pipistrellus hesperus" ; Times: 1
+	Query: "crotalus enyo" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "genus:Gymnogyps stateprovince:&#34;California&#34; country:&#34;united states&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "merychyus" ; Times: 1
+	Query: "Chrysemys picta marginata" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
