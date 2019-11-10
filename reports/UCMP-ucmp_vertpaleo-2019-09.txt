@@ -1,0 +1,315 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 263
+Number of records retrieved in searches: 7909
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 6
+	Country: Philippines ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 222
+	Country: Ecuador ; Times: 3
+	Country: Netherlands ; Times: 2
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 12
+	Date: 2019-09-16 ; Times: 5
+	Date: 2019-09-17 ; Times: 17
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 9
+	Date: 2019-09-12 ; Times: 16
+	Date: 2019-09-13 ; Times: 3
+	Date: 2019-09-18 ; Times: 7
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 14
+	Date: 2019-09-02 ; Times: 5
+	Date: 2019-09-07 ; Times: 4
+	Date: 2019-09-06 ; Times: 32
+	Date: 2019-09-05 ; Times: 8
+	Date: 2019-09-04 ; Times: 11
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-23 ; Times: 23
+	Date: 2019-09-22 ; Times: 6
+	Date: 2019-09-25 ; Times: 38
+	Date: 2019-09-24 ; Times: 10
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-26 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:88985" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS) institutioncode:UCMP" ; Times: 3
+	Query: "27957" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Megaptera county:&#34;San Diego&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Ventura county:&#34;Ventura&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "114704" ; Times: 1
+	Query: "vntype:specimen genus:siren (skull)" ; Times: 1
+	Query: "genus:Charina class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "Spermophilus citellus" ; Times: 1
+	Query: "124678" ; Times: 1
+	Query: "Querquedula integra" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "Cryptoprocta ferox" ; Times: 4
+	Query: "Gopher Snake" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "43180" ; Times: 1
+	Query: "specimen 187142" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 10
+	Query: "stateprovince:&#34;Texas&#34; distance(location,geopoint(35.40058605939291,-101.37433816395258))&lt;34620.46525113693" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 6
+	Query: "genus:Diadophis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "143747" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys preparations:skeleton" ; Times: 1
+	Query: "genus:Salvadora class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "archaeopteryx" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 7
+	Query: "115807" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GERRHONOTUS NOT GOPHERUS) institutioncode:UCMP" ; Times: 1
+	Query: "&#34;bliss ranch&#34;" ; Times: 1
+	Query: "217271" ; Times: 1
+	Query: "162261" ; Times: 2
+	Query: "141412" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT EUMECES NOT HYPSIGLENA NOT ELGARIA NOT UTA NOT SCELOPORUS NOT PLESTIODON NOT ANNIELLA NOT GAMBELIA NOT THAMNOPHIS NOT CROTALUS NOT THAMNOPHIS NOT MASTICOPHIS NOT COLUBER NOT LAMPROPELTIS NOT DIADOPHIS NOT XANTUSIA NOT PHRYNOSOMA NOT ASPIDOSCELIS NOT PITUOPHIS)" ; Times: 3
+	Query: "Presbyornis isoni" ; Times: 1
+	Query: "genus:Charina county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "145589" ; Times: 1
+	Query: "class:Mammalia locality:Sternberg Pit county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS NOT GERRHONOTUS) institutioncode:UCMP" ; Times: 1
+	Query: "136325" ; Times: 1
+	Query: "72764" ; Times: 1
+	Query: "187142" ; Times: 3
+	Query: "indotestudo elongata" ; Times: 1
+	Query: "genus:Arizona class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Sternberg Pit county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS NOT GERRHONOTUS) institutioncode:UCMP" ; Times: 2
+	Query: "class:Reptilia locality:Boron county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Bowman&#34; stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 2
+	Query: "genus:Salvadora class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "84733" ; Times: 1
+	Query: "genus:Smilodon class:Mammalia locality:Sternberg Pit county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS NOT GERRHONOTUS) institutioncode:UCMP" ; Times: 1
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "AMNH 35885" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT CAS NOT LACM NOT MVZ)" ; Times: 1
+	Query: "vntype:specimen specificepithet:crawfordi genus:Notiosorex isfossil:1" ; Times: 3
+	Query: "Suncus etruscus" ; Times: 2
+	Query: "Paranyroca magna" ; Times: 1
+	Query: "136319" ; Times: 1
+	Query: "Presbyornis pervetus" ; Times: 2
+	Query: "class:Reptilia locality:McKittrick county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ASPIDOSCELIS)" ; Times: 2
+	Query: "specificepithet:Megalodon genus:Carcharocles stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "family:dugongidae stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; preparations:eggs" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "genus:Triceratops isfossil:1" ; Times: 2
+	Query: "47798" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "class:Amphibia locality:Sternberg Pit county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS NOT GERRHONOTUS) institutioncode:UCMP" ; Times: 1
+	Query: "genus:Diadophis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 2
+	Query: "dendrolagus goodfellowi" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 2007" ; Times: 1
+	Query: "145583" ; Times: 1
+	Query: "class:Mammalia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "genus:Salvadora class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "genus:Salvadora county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 7
+	Query: "genus:Arizona class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS)" ; Times: 1
+	Query: "catalognumber:84886" ; Times: 1
+	Query: "143742" ; Times: 1
+	Query: "genus:Cnemidophorus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;1700&#34; &#34;humboldt&#34;" ; Times: 1
+	Query: "Cyclura cornuta" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "megalonyx jeffersonii" ; Times: 1
+	Query: "107488" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana preparations:skeleton institutioncode:UCMP" ; Times: 1
+	Query: "class:Reptilia locality:McKittrick county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 4
+	Query: "genus:Lampropeltis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "dryomys" ; Times: 1
+	Query: "catalognumber:105366" ; Times: 1
+	Query: "captorhinidae" ; Times: 1
+	Query: "county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GERRHONOTUS NOT GOPHERUS) institutioncode:UCMP" ; Times: 1
+	Query: "specificepithet:dumerili genus:ambystoma" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 12
+	Query: "genus:Charina class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Gambelia county:&#34;kern&#34;" ; Times: 2
+	Query: "Presbychen abavus" ; Times: 3
+	Query: "Dendrochen robusta" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Microtus pennsylvanicus 2007" ; Times: 1
+	Query: "191385" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "145256" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "hydrodamalis" ; Times: 2
+	Query: "class:Reptilia county:&#34;Ventura&#34; stateprovince:&#34;California&#34; AND (NOT UTA NOT SCELOPORUS NOT ANNIELLA NOT XANTUSIA NOT THAMNOPHIS NOT PLESTIODON NOT ELGARIA NOT CROTALUS NOT PITUOPHIS NOT PHRYNOSOMA NOT ASPIDOCELIS)" ; Times: 1
+	Query: "138118" ; Times: 1
+	Query: "138119" ; Times: 1
+	Query: "218147" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "class:Reptilia locality:Hartman Ranch county:&#34;Ventura&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 1
+	Query: "catalognumber:90926" ; Times: 1
+	Query: "vntype:specimen genus:siren preparations:skull" ; Times: 1
+	Query: "genus:CHARINA county:&#34;shasta&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT PHRYNOSOMA NOT UTA NOT CALLISAURUS NOT GOPHERUS NOT ASPIDOSCELIS)" ; Times: 2
+	Query: "class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GOPHERUS NOT GERRHONOTUS) institutioncode:UCMP" ; Times: 1
+	Query: "locality:Balboa Park isfossil:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2014" ; Times: 1
+	Query: "class:mammalia distance(location,geopoint(32.0949395200859,-116.87532225119861))&lt;11621.49200506746" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "genus:Ovibos preparations:Skeleton" ; Times: 2
+	Query: "vntype:specimen specificepithet:crawfordi genus:Notiosorex basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "class:Reptilia county:&#34;Lemhi&#34;" ; Times: 1
+	Query: "class:Reptilia locality:McKittrick county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 4
+	Query: "diplodocus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Slope&#34; stateprovince:&#34;North Dakota&#34; AND (NOT PBDB)" ; Times: 1
+	Query: "genus:Arizona county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "75277" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "170432" ; Times: 1
+	Query: "specificepithet:getulus genus:Lampropeltis county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:Megalodon country:&#34;mexico&#34;" ; Times: 3
+	Query: "52606" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "67424" ; Times: 1
+	Query: "Allosaurus" ; Times: 1
+	Query: "specificepithet:Megalodon stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "212029" ; Times: 1
+	Query: "Aldabrachelys gigantea" ; Times: 1
+	Query: "187549" ; Times: 1
+	Query: "145585" ; Times: 1
+	Query: "251445" ; Times: 1
+	Query: "class:Reptilia locality:Mole Quarry county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT GERRHONOTUS NOT GOPHERUS) institutioncode:UCMP" ; Times: 2
+	Query: "67501" ; Times: 1
+	Query: "37768" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1073 download events in this period)
+Total number of records downloaded: 1675
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Brunei ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 30
+	Country: Rwanda ; Times: 1
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 5
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 2
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-26 ; Times: 7
+	Date: 2019-09-29 ; Times: 4
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mirounga angustirostris" ; Times: 1
+	Query: "specificepithet:turcicus genus:Hemidactylus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:torridus genus:Onychomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Notiosorex" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "ants" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "eumops perotis" ; Times: 1
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:crawfordi genus:Notiosorex basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "pachyptila" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+	Query: "family:cracidae" ; Times: 1
+	Query: "dendrolagus goodfellowi" ; Times: 2
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
