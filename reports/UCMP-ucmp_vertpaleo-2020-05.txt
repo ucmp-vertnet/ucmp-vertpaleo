@@ -1,0 +1,450 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 302
+Number of records retrieved in searches: 3195
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 14
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 265
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Ireland ; Times: 7
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 8
+	Date: 2020-05-27 ; Times: 6
+	Date: 2020-05-26 ; Times: 8
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-22 ; Times: 5
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 16
+	Date: 2020-05-11 ; Times: 13
+	Date: 2020-05-12 ; Times: 6
+	Date: 2020-05-15 ; Times: 31
+	Date: 2020-05-16 ; Times: 15
+	Date: 2020-05-17 ; Times: 53
+	Date: 2020-05-30 ; Times: 10
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-09 ; Times: 5
+	Date: 2020-05-08 ; Times: 18
+	Date: 2020-05-07 ; Times: 50
+	Date: 2020-05-06 ; Times: 18
+	Date: 2020-05-04 ; Times: 19
+	Date: 2020-05-03 ; Times: 8
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "229081" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "153564" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "134721" ; Times: 1
+	Query: "158008" ; Times: 1
+	Query: "210113" ; Times: 1
+	Query: "Therizinosaurus" ; Times: 1
+	Query: "catalognumber:125618" ; Times: 1
+	Query: "109455" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "158005" ; Times: 1
+	Query: "158007" ; Times: 1
+	Query: "223118" ; Times: 1
+	Query: "genus:Borealosuchus isfossil:1" ; Times: 2
+	Query: "genus:Borealosuchus (Paleogene OR Paleocene)" ; Times: 4
+	Query: "149300" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "196541" ; Times: 1
+	Query: "233345" ; Times: 2
+	Query: "34415" ; Times: 1
+	Query: "139179" ; Times: 1
+	Query: "Sphenodon" ; Times: 3
+	Query: "147968" ; Times: 1
+	Query: "233349" ; Times: 1
+	Query: "234588" ; Times: 1
+	Query: "228369" ; Times: 1
+	Query: "158013" ; Times: 1
+	Query: "190199" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 2
+	Query: "34410" ; Times: 1
+	Query: "113485" ; Times: 1
+	Query: "97386" ; Times: 1
+	Query: "187155" ; Times: 1
+	Query: "190207" ; Times: 1
+	Query: "160325" ; Times: 1
+	Query: "109465" ; Times: 1
+	Query: "223574" ; Times: 1
+	Query: "205957" ; Times: 1
+	Query: "156117" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "64968" ; Times: 1
+	Query: "158094" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "Acrocanthosaurus" ; Times: 1
+	Query: "129486" ; Times: 1
+	Query: "225006" ; Times: 1
+	Query: "129098" ; Times: 1
+	Query: "323376" ; Times: 1
+	Query: "138782" ; Times: 1
+	Query: "141385" ; Times: 1
+	Query: "104174" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "45761" ; Times: 1
+	Query: "179064" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "175281" ; Times: 1
+	Query: "genus:Turgidodon (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Ptilodus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "genus:Carcinodon (Paleocene)" ; Times: 1
+	Query: "genus:Stygiochelys (Paleogene OR Paleocene)" ; Times: 1
+	Query: "205960" ; Times: 1
+	Query: "171353" ; Times: 1
+	Query: "205962" ; Times: 1
+	Query: "218510" ; Times: 1
+	Query: "genus:Bison specificepithet:Bison" ; Times: 1
+	Query: "205966" ; Times: 1
+	Query: "79125" ; Times: 1
+	Query: "157504" ; Times: 1
+	Query: "165755" ; Times: 1
+	Query: "165757" ; Times: 1
+	Query: "Dimetrodon" ; Times: 1
+	Query: "174980" ; Times: 2
+	Query: "184657" ; Times: 1
+	Query: "229057" ; Times: 1
+	Query: "167134" ; Times: 1
+	Query: "167135" ; Times: 1
+	Query: "316456" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "179400" ; Times: 1
+	Query: "79663" ; Times: 2
+	Query: "119648" ; Times: 1
+	Query: "156711" ; Times: 1
+	Query: "180098" ; Times: 1
+	Query: "180099" ; Times: 1
+	Query: "175967" ; Times: 1
+	Query: "103059" ; Times: 1
+	Query: "157288" ; Times: 1
+	Query: "175963" ; Times: 1
+	Query: "210714" ; Times: 1
+	Query: "318107" ; Times: 1
+	Query: "genus:gasterosteus county:&#34;los angeles&#34; stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "190222" ; Times: 1
+	Query: "190224" ; Times: 1
+	Query: "genus:Neoplagiaulax (Cretaceous)" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "116137" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "147948" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "120938" ; Times: 1
+	Query: "159562" ; Times: 1
+	Query: "223152" ; Times: 1
+	Query: "231033" ; Times: 1
+	Query: "205970" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "genus:Prodesmodon (Paleocene)" ; Times: 1
+	Query: "211153" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 1
+	Query: "genus:Dimetrodon" ; Times: 1
+	Query: "genus:Stygiochelys (Paleocene)" ; Times: 1
+	Query: "226539" ; Times: 1
+	Query: "211646" ; Times: 1
+	Query: "230073" ; Times: 1
+	Query: "V-1132" ; Times: 3
+	Query: "223291" ; Times: 1
+	Query: "190233" ; Times: 1
+	Query: "156057" ; Times: 1
+	Query: "136482" ; Times: 1
+	Query: "184152" ; Times: 1
+	Query: "157973" ; Times: 2
+	Query: "Lichanura trivirgata gracia" ; Times: 2
+	Query: "255567" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "191514" ; Times: 1
+	Query: "190698" ; Times: 1
+	Query: "(128044)" ; Times: 1
+	Query: "93857" ; Times: 1
+	Query: "159578" ; Times: 1
+	Query: "223154" ; Times: 1
+	Query: "165634" ; Times: 1
+	Query: "genus:Desmostylus county:&#34;Orange&#34;" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 2
+	Query: "genus:Lisserpeton (Paleogene OR Paleocene)" ; Times: 1
+	Query: "175278" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "106979" ; Times: 1
+	Query: "254764" ; Times: 1
+	Query: "102701" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 2
+	Query: "102703" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "157285" ; Times: 1
+	Query: "genus:Hutchemys (Paleocene)" ; Times: 2
+	Query: "225227" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "79405" ; Times: 1
+	Query: "162687" ; Times: 1
+	Query: "genus:Parectypodus (Maastrichtian)" ; Times: 1
+	Query: "79403" ; Times: 1
+	Query: "catalognumber:140077" ; Times: 1
+	Query: "180130" ; Times: 1
+	Query: "genus:Saurornithoides (Maastrichtian)" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "genus:Cimolopteryx (Cretaceous)" ; Times: 1
+	Query: "164075" ; Times: 1
+	Query: "96194" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "156311" ; Times: 1
+	Query: "196725" ; Times: 1
+	Query: "159638" ; Times: 2
+	Query: "147969" ; Times: 1
+	Query: "genus:Orcinus specificepithet:orca" ; Times: 10
+	Query: "75267" ; Times: 2
+	Query: "158356" ; Times: 2
+	Query: "323096" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "187110" ; Times: 1
+	Query: "161669" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "229466" ; Times: 1
+	Query: "229465" ; Times: 1
+	Query: "genus:Desmostylus" ; Times: 2
+	Query: "genus:Hutchemys (Paleogene OR Paleocene)" ; Times: 1
+	Query: "159583" ; Times: 1
+	Query: "225043" ; Times: 1
+	Query: "64748" ; Times: 1
+	Query: "225044" ; Times: 1
+	Query: "132136" ; Times: 1
+	Query: "158102" ; Times: 1
+	Query: "Hystrix africaeaustralis" ; Times: 1
+	Query: "125792" ; Times: 1
+	Query: "120462" ; Times: 1
+	Query: "147365" ; Times: 1
+	Query: "181119" ; Times: 1
+	Query: "143680" ; Times: 1
+	Query: "229082" ; Times: 1
+	Query: "234156" ; Times: 2
+	Query: "Megaladapis" ; Times: 1
+	Query: "223153" ; Times: 1
+	Query: "157016" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "157015" ; Times: 1
+	Query: "231029" ; Times: 1
+	Query: "151630" ; Times: 1
+	Query: "genus:Pica county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "96451" ; Times: 1
+	Query: "IF 10041" ; Times: 1
+	Query: "120772" ; Times: 1
+	Query: "Ornithomimus" ; Times: 1
+	Query: "genus:Borealosuchus (Paleocene)" ; Times: 2
+	Query: "158103" ; Times: 1
+	Query: "64705" ; Times: 1
+	Query: "255227" ; Times: 1
+	Query: "64733" ; Times: 1
+	Query: "genus:Alphadon (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Prodiacodon (Paleocene)" ; Times: 1
+	Query: "162690" ; Times: 2
+	Query: "141074" ; Times: 1
+	Query: "162694" ; Times: 1
+	Query: "124265" ; Times: 1
+	Query: "genus:Lisserpeton (Paleocene)" ; Times: 1
+	Query: "196565" ; Times: 1
+	Query: "149391" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "141379" ; Times: 1
+	Query: "226537" ; Times: 1
+	Query: "(Cuon alpinus)" ; Times: 1
+	Query: "203003" ; Times: 1
+	Query: "203002" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "169592" ; Times: 1
+	Query: "234260" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+	Query: "229483" ; Times: 1
+	Query: "catalognumber:123999" ; Times: 1
+	Query: "class:mammalia county:&#34;frontier&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "121605" ; Times: 1
+	Query: "314059" ; Times: 1
+	Query: "179061" ; Times: 1
+	Query: "cryptoprocta ferox" ; Times: 1
+	Query: "63237" ; Times: 1
+	Query: "genus:Protungulatum (Maastrichtian)" ; Times: 1
+	Query: "157122" ; Times: 1
+	Query: "162688" ; Times: 1
+	Query: "79557" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "255709" ; Times: 1
+	Query: "genus:Sylvilagus county:&#34;Sacramento&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "251327" ; Times: 1
+	Query: "genus:Leidyosuchus (Paleocene)" ; Times: 1
+	Query: "catalognumber:125551" ; Times: 1
+	Query: "Martes melampus" ; Times: 1
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+	Query: "Dimetrodon limbatus" ; Times: 2
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 101 (out of 1106 download events in this period)
+Total number of records downloaded: 5310
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 5
+	Country: Nepal ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: United States ; Times: 70
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-23 ; Times: 5
+	Date: 2020-05-22 ; Times: 3
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 4
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-12 ; Times: 3
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-15 ; Times: 2
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-17 ; Times: 14
+	Date: 2020-05-30 ; Times: 10
+	Date: 2020-05-31 ; Times: 6
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 16
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-06 ; Times: 8
+	Date: 2020-05-05 ; Times: 4
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "genus:Borealosuchus (Paleocene)" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "genus:Leidyosuchus (Paleocene)" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Mirounga angustirostris" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "genus:Turgidodon (Paleogene OR Paleocene)" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "genus:Ptilodus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Carcinodon (Paleocene)" ; Times: 1
+	Query: "contia" ; Times: 1
+	Query: "Martes melampus" ; Times: 1
+	Query: "Anolis cristatellus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "genus:Lisserpeton (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Neoplagiaulax (Cretaceous)" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "genus:Prodesmodon (Paleocene)" ; Times: 1
+	Query: "genus:Stygiochelys (Paleocene)" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "genus:Hutchemys (Paleocene)" ; Times: 1
+	Query: "genus:Parectypodus (Maastrichtian)" ; Times: 1
+	Query: "genus:Saurornithoides (Maastrichtian)" ; Times: 1
+	Query: "genus:Cimolopteryx (Cretaceous)" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Martes caurina" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "genus:Hutchemys (Paleogene OR Paleocene)" ; Times: 1
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "genus:Borealosuchus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Charina bottae" ; Times: 4
+	Query: "gymnophiona" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "genus:Alphadon (Paleogene OR Paleocene)" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Lisserpeton (Paleocene)" ; Times: 1
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+	Query: "genus:Protungulatum (Maastrichtian)" ; Times: 1
+	Query: "taricha rivularis" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+
+
+End of report.
