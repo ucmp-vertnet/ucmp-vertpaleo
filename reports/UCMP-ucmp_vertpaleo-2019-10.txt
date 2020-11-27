@@ -1,0 +1,383 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 316
+Number of records retrieved in searches: 6805
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 201
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 21
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: New Zealand ; Times: 59
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 15
+	Date: 2019-10-08 ; Times: 5
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 5
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 8
+	Date: 2019-10-24 ; Times: 53
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-03 ; Times: 10
+	Date: 2019-10-02 ; Times: 11
+	Date: 2019-10-05 ; Times: 13
+	Date: 2019-10-04 ; Times: 42
+	Date: 2019-10-07 ; Times: 5
+	Date: 2019-10-23 ; Times: 44
+	Date: 2019-10-22 ; Times: 20
+	Date: 2019-10-29 ; Times: 10
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 4
+	Date: 2019-10-12 ; Times: 6
+	Date: 2019-10-13 ; Times: 2
+	Date: 2019-10-10 ; Times: 15
+	Date: 2019-10-11 ; Times: 9
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-31 ; Times: 4
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-15 ; Times: 7
+	Date: 2019-10-28 ; Times: 6
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus ochrogaster 2007" ; Times: 1
+	Query: "Stegostoma fasciatum" ; Times: 2
+	Query: "locality:La Silla stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "Dipodomys ordii 2015" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "143822" ; Times: 1
+	Query: "Ambystoma californiense 2011" ; Times: 3
+	Query: "93814" ; Times: 2
+	Query: "specificepithet:crawfordi genus:notiosorex basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Zapus princeps 2016" ; Times: 1
+	Query: "catalognumber:98520" ; Times: 1
+	Query: "210746" ; Times: 1
+	Query: "citellus Spermophilus" ; Times: 1
+	Query: "Myliobatis californica" ; Times: 2
+	Query: "wizard" ; Times: 1
+	Query: "Triakis semifasciata" ; Times: 2
+	Query: "Microtus montanus 2007" ; Times: 1
+	Query: "128314" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "Rattus norvegicus 2007" ; Times: 1
+	Query: "Ambystoma californiense 2016" ; Times: 3
+	Query: "Ambystoma californiense 2015" ; Times: 3
+	Query: "Reithrodontomys megalotis 2013" ; Times: 1
+	Query: "Reithrodontomys megalotis 2016" ; Times: 3
+	Query: "43878" ; Times: 1
+	Query: "128373" ; Times: 1
+	Query: "62920" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 3
+	Query: "125203" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "Thomomys talpoides 2007" ; Times: 1
+	Query: "Neotoma mexicana 2016" ; Times: 1
+	Query: "Drymarchon couperi 2007" ; Times: 1
+	Query: "96152" ; Times: 2
+	Query: "Thomomys talpoides 2014" ; Times: 1
+	Query: "176633" ; Times: 1
+	Query: "143742" ; Times: 1
+	Query: "50567" ; Times: 1
+	Query: "Lestodelphys halli" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Crocodylus acutus 2007" ; Times: 1
+	Query: "Ambystoma californiense 2007" ; Times: 3
+	Query: "Ursus spelaeus preparations:skeleton" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "thylacinus potens" ; Times: 1
+	Query: "catalognumber:132431" ; Times: 1
+	Query: "Gopherus agassizii 2013" ; Times: 1
+	Query: "Gopherus agassizii 2016" ; Times: 1
+	Query: "Reithrodontomys megalotis 2007" ; Times: 1
+	Query: "Pseudoginglymostoma brevicaudatum" ; Times: 2
+	Query: "catalognumber:91476" ; Times: 1
+	Query: "Heterodontus francisci" ; Times: 2
+	Query: "69978" ; Times: 1
+	Query: "192928" ; Times: 2
+	Query: "Raja rhina" ; Times: 2
+	Query: "71480" ; Times: 1
+	Query: "Loxodonta" ; Times: 1
+	Query: "Vulpes macrotis mutica 2015" ; Times: 1
+	Query: "genus:Vulpes vulpes stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Drymarchon couperi 2015" ; Times: 1
+	Query: "Drymarchon couperi 2016" ; Times: 1
+	Query: "Neotoma cinerea 1976" ; Times: 1
+	Query: "Norris AND Nicolas Island" ; Times: 1
+	Query: "Linton AND Nicolas Island" ; Times: 1
+	Query: "diplocynodon" ; Times: 1
+	Query: "specificepithet:komodoensis genus:Varanus" ; Times: 1
+	Query: "195456" ; Times: 1
+	Query: "catalognumber:206892" ; Times: 3
+	Query: "Crocodylus acutus 2015" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 1
+	Query: "68252" ; Times: 1
+	Query: "genus:Thylacinus" ; Times: 1
+	Query: "prestosuchus chiniquensis" ; Times: 2
+	Query: "187306" ; Times: 1
+	Query: "Hydrodamalis gigas" ; Times: 3
+	Query: "Mus musculus 2007" ; Times: 2
+	Query: "Hydrodamalis" ; Times: 4
+	Query: "Gopherus agassizii 2007" ; Times: 1
+	Query: "catalognumber:175828" ; Times: 1
+	Query: "103914" ; Times: 1
+	Query: "Neotoma cinerea 2012" ; Times: 2
+	Query: "Neotoma cinerea 2011" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 2
+	Query: "preparations:skeleton (Martes melampus)" ; Times: 1
+	Query: "141323" ; Times: 1
+	Query: "64055" ; Times: 1
+	Query: "New Mexico vntype:specimen (Reptilia Amphibia)" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Neotoma cinerea 1979" ; Times: 1
+	Query: "143722" ; Times: 1
+	Query: "178304" ; Times: 2
+	Query: "213213" ; Times: 2
+	Query: "Odontaspis ferox" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "hylonomus lyelli" ; Times: 6
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "63905" ; Times: 1
+	Query: "63902" ; Times: 1
+	Query: "catalognumber:160983" ; Times: 1
+	Query: "Martes melampus preparations:skeleton" ; Times: 1
+	Query: "120011" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 2
+	Query: "Aphelocoma coerulescens 2007" ; Times: 1
+	Query: "Geomys bursarius 2007" ; Times: 1
+	Query: "smilosuchus" ; Times: 1
+	Query: "Aphelocoma coerulescens 2016" ; Times: 1
+	Query: "Aphelocoma coerulescens 2015" ; Times: 2
+	Query: "Dasyatis brevis" ; Times: 2
+	Query: "catalognumber:206893" ; Times: 1
+	Query: "250541" ; Times: 1
+	Query: "Gopherus agassizii 2015" ; Times: 1
+	Query: "228084" ; Times: 1
+	Query: "Zapus princeps 2014" ; Times: 1
+	Query: "143710" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 3
+	Query: "specificepithet:arctos genus:ursus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Neotoma cinerea 1977" ; Times: 1
+	Query: "Notorynchus cepedianus" ; Times: 2
+	Query: "trilophosaurus" ; Times: 1
+	Query: "Heterodontus mexicanus" ; Times: 2
+	Query: "66686" ; Times: 1
+	Query: "Neotoma cinerea 1986" ; Times: 1
+	Query: "lutreolina" ; Times: 1
+	Query: "Neotoma cinerea 1981" ; Times: 1
+	Query: "109732" ; Times: 1
+	Query: "Neotoma cinerea 1983" ; Times: 1
+	Query: "180131" ; Times: 1
+	Query: "178836" ; Times: 2
+	Query: "32998" ; Times: 1
+	Query: "jacobi" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "recordedby:NMNH" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34; institutioncode:UCMP" ; Times: 3
+	Query: "139695" ; Times: 2
+	Query: "110218" ; Times: 1
+	Query: "Microtus longicaudus 2007" ; Times: 1
+	Query: "Neotoma cinerea 1978" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "Hydrodamalis cuestae" ; Times: 2
+	Query: "Zapus princeps 2007" ; Times: 1
+	Query: "Vulpes macrotis mutica 2016" ; Times: 1
+	Query: "Vulpes macrotis mutica 2014" ; Times: 1
+	Query: "Thylacinus cynocephalus" ; Times: 3
+	Query: "28676" ; Times: 1
+	Query: "141513" ; Times: 1
+	Query: "141514" ; Times: 1
+	Query: "162261" ; Times: 2
+	Query: "33502" ; Times: 1
+	Query: "173976" ; Times: 1
+	Query: "Squatina squatina" ; Times: 2
+	Query: "Neotoma cinerea 2007" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "249015" ; Times: 1
+	Query: "249016" ; Times: 1
+	Query: "249013" ; Times: 1
+	Query: "catalognumber:82531" ; Times: 1
+	Query: "asper Cottus" ; Times: 2
+	Query: "Dipodomys ordii 2007" ; Times: 1
+	Query: "Rhizoprionodon longurio" ; Times: 1
+	Query: "vntype:specimen genus:didelphis hasmedia:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "186599" ; Times: 1
+	Query: "Linton AND UCMP" ; Times: 1
+	Query: "141501" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "44016" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "67214" ; Times: 3
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "Thomomys talpoides 2016" ; Times: 3
+	Query: "176443" ; Times: 2
+	Query: "Thomomys talpoides 2012" ; Times: 1
+	Query: "Microtus longicaudus 2016" ; Times: 2
+	Query: "Squatina californica" ; Times: 2
+	Query: "Chaeropus ecaudatus" ; Times: 1
+	Query: "Microtus ochrogaster 2014" ; Times: 1
+	Query: "Microtus ochrogaster 2016" ; Times: 1
+	Query: "104766" ; Times: 1
+	Query: "Neotoma cinerea 2019" ; Times: 1
+	Query: "Neotoma cinerea 2016" ; Times: 4
+	Query: "Neotoma cinerea 2014" ; Times: 2
+	Query: "Neotoma cinerea 2013" ; Times: 1
+	Query: "humerus family:Spheniscidae" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 2
+	Query: "Myliobatis longirostris" ; Times: 2
+	Query: "Tyrannosaurus" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "Dalatias licha" ; Times: 2
+	Query: "specificepithet:crawfordi genus:notiosorex isfossil:1" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; catalognumber:91476" ; Times: 1
+	Query: "order:polypteriformes hasmedia:1" ; Times: 2
+	Query: "erythrorhynchos Pelecanus" ; Times: 12
+	Query: "63118" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Mustelus henlei" ; Times: 2
+	Query: "199088" ; Times: 1
+	Query: "Lamna nasus" ; Times: 2
+	Query: "Geomys bursarius 2016" ; Times: 1
+	Query: "128383" ; Times: 1
+	Query: "Microtus montanus 2016" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "70531" ; Times: 1
+	Query: "Thomomys talpoides 2008" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 76 (out of 1308 download events in this period)
+Total number of records downloaded: 2058
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Saudi Arabia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Uruguay ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 21
+	Country: United Kingdom ; Times: 2
+	Country: Rwanda ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: United States ; Times: 37
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-08 ; Times: 3
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 4
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 3
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 5
+	Date: 2019-10-23 ; Times: 19
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-10 ; Times: 5
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-30 ; Times: 5
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-14 ; Times: 2
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "stercorariidae" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "macrotus" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Puma concolor" ; Times: 3
+	Query: "specificepithet:canadensis genus:Castor stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "sorex ornatus" ; Times: 1
+	Query: "genus:Vulpes vulpes stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Peromyscus polionotus vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "bassaricyon" ; Times: 2
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "specificepithet:inornatus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "reptilia stateprovince:&#34;nevada&#34; distance(location,geopoint(36.232556717823115,-120.1208661486329))&lt;338269.069619651" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Huila&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "Hydrodamalis gigas" ; Times: 1
+	Query: "Hydrodamalis" ; Times: 3
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Chelonoidis" ; Times: 1
+	Query: "specificepithet:sabrinus genus:glaucomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "chuckwalla" ; Times: 2
+	Query: "cavia vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "testudo graeca" ; Times: 1
+	Query: "Odocoileus virginianus preparations:skeleton" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Varanus salvator" ; Times: 2
+	Query: "hylonomus lyelli" ; Times: 2
+	Query: "specificepithet:nitratoides genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lestodelphys halli" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 2
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "genus:Cryptotis country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Galeorhinus stateprovince:California" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
