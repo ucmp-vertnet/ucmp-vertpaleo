@@ -1,0 +1,370 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 303
+Number of records retrieved in searches: 3508
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Denmark ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 269
+	Country: Netherlands ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 21
+	Date: 2020-02-05 ; Times: 21
+	Date: 2020-02-02 ; Times: 15
+	Date: 2020-02-03 ; Times: 36
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-01 ; Times: 22
+	Date: 2020-02-20 ; Times: 13
+	Date: 2020-02-21 ; Times: 14
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-23 ; Times: 3
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 10
+	Date: 2020-02-28 ; Times: 19
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 19
+	Date: 2020-02-10 ; Times: 11
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-12 ; Times: 7
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 6
+	Date: 2020-02-17 ; Times: 5
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 6
+	Date: 2020-02-24 ; Times: 10
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-27 ; Times: 22
+	Date: 2020-02-06 ; Times: 20
+	Date: 2020-02-07 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen continent:North America (Skulls) basisofrecord:FossilSpecimen hasmedia:1" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "Caretta vntype:specimen hasmedia:1" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "genus:Dicynodon institutioncode:UCMP" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "87329" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "226046" ; Times: 1
+	Query: "184640" ; Times: 1
+	Query: "order:Cetacea institutioncode:UCMP isfossil:1" ; Times: 1
+	Query: "151306" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "190692" ; Times: 1
+	Query: "PHYTOSAUR" ; Times: 1
+	Query: "122925" ; Times: 1
+	Query: "255730" ; Times: 2
+	Query: "255733" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "Dermoptera" ; Times: 31
+	Query: "149887" ; Times: 1
+	Query: "Crocodylus acutus vntype:specimen hasmedia:1" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "220092" ; Times: 1
+	Query: "98369" ; Times: 3
+	Query: "98368" ; Times: 1
+	Query: "110015" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:UCMP" ; Times: 1
+	Query: "vntype:specimen (Skulls) hasmedia:1" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "54329" ; Times: 1
+	Query: "124774" ; Times: 1
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "82104" ; Times: 2
+	Query: "226052" ; Times: 1
+	Query: "209785" ; Times: 1
+	Query: "87330" ; Times: 1
+	Query: "128087" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "230175" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "catalognumber:211687" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Caiman yacare vntype:specimen hasmedia:1" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "137110" ; Times: 1
+	Query: "144987" ; Times: 1
+	Query: "scincopus" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "DERMOPTERA" ; Times: 3
+	Query: "catalognumber:33431 institutioncode:UCMP" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "Lichanura trivirgata gracia" ; Times: 1
+	Query: "128589" ; Times: 1
+	Query: "253952" ; Times: 1
+	Query: "lasiorhinus krefftii" ; Times: 2
+	Query: "72167" ; Times: 1
+	Query: "247605" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "catalognumber:36102 institutioncode:UCMP" ; Times: 1
+	Query: "247571" ; Times: 2
+	Query: "Lichanura gracia" ; Times: 1
+	Query: "118964" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen hasmedia:1" ; Times: 1
+	Query: "226047" ; Times: 1
+	Query: "191582" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "81138" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "Dimetrodon" ; Times: 1
+	Query: "184986" ; Times: 1
+	Query: "168030" ; Times: 1
+	Query: "214833" ; Times: 1
+	Query: "80282" ; Times: 1
+	Query: "176095" ; Times: 1
+	Query: "255198" ; Times: 1
+	Query: "170267" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer institutioncode:UCMP" ; Times: 1
+	Query: "98211" ; Times: 1
+	Query: "247770" ; Times: 1
+	Query: "73559" ; Times: 1
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "172160" ; Times: 1
+	Query: "Harebell" ; Times: 1
+	Query: "order:dermoptera" ; Times: 4
+	Query: "clemmys florida" ; Times: 4
+	Query: "184512" ; Times: 1
+	Query: "247462" ; Times: 1
+	Query: "184265" ; Times: 1
+	Query: "160145" ; Times: 1
+	Query: "204122" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "189994" ; Times: 1
+	Query: "229994" ; Times: 2
+	Query: "105222" ; Times: 1
+	Query: "Crocodylus rhombifer vntype:specimen hasmedia:1" ; Times: 1
+	Query: "207437" ; Times: 1
+	Query: "JM 1119" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:UCMP" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "255642" ; Times: 1
+	Query: "255643" ; Times: 1
+	Query: "213330" ; Times: 1
+	Query: "aldabrachelys" ; Times: 1
+	Query: "145084" ; Times: 1
+	Query: "188093" ; Times: 1
+	Query: "85104" ; Times: 1
+	Query: "Caiman crocodilus vntype:specimen hasmedia:1" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "catalognumber:124091" ; Times: 1
+	Query: "bassariscus sumichrasti" ; Times: 1
+	Query: "162188" ; Times: 1
+	Query: "154450" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 2
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "39229" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 4
+	Query: "cetorhinus" ; Times: 1
+	Query: "catalognumber:147193" ; Times: 1
+	Query: "class:Aves catalognumber:12020" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 2
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "238141" ; Times: 1
+	Query: "Tomistoma vntype:specimen hasmedia:1" ; Times: 1
+	Query: "specificepithet:caurina genus:martes" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "168967" ; Times: 1
+	Query: "161777" ; Times: 1
+	Query: "91643" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "221428" ; Times: 1
+	Query: "dermoptera" ; Times: 45
+	Query: "207191" ; Times: 1
+	Query: "210712" ; Times: 1
+	Query: "Nimravides" ; Times: 1
+	Query: "221957" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "19835" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "order:Cetacea institutioncode:UCMP" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "113004" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "Aldabrachelys vntype:specimen hasmedia:1" ; Times: 1
+	Query: "181285" ; Times: 1
+	Query: "genus:Cynognathus" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "87107" ; Times: 1
+	Query: "order:Cetacea (skull OR cranium) institutioncode:UCMP" ; Times: 1
+	Query: "sarcoramphus papa" ; Times: 1
+	Query: "228723" ; Times: 1
+	Query: "225994" ; Times: 2
+	Query: "71925" ; Times: 1
+	Query: "genus:Dimetrodon" ; Times: 1
+	Query: "Psammobates tentorius" ; Times: 1
+	Query: "genus:Odobenus preparations:skull" ; Times: 1
+	Query: "varanus komodoensis" ; Times: 1
+	Query: "225548" ; Times: 1
+	Query: "217680" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "89688" ; Times: 1
+	Query: "126112" ; Times: 1
+	Query: "catalognumber:141793" ; Times: 1
+	Query: "164850" ; Times: 1
+	Query: "(Ailuropoda melanoleuca)" ; Times: 1
+	Query: "93535" ; Times: 1
+	Query: "193888" ; Times: 1
+	Query: "neogyps" ; Times: 1
+	Query: "181212" ; Times: 1
+	Query: "Crocodylus porosus vntype:specimen hasmedia:1" ; Times: 2
+	Query: "251327" ; Times: 1
+	Query: "Crocodylus niloticus vntype:specimen hasmedia:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 151 (out of 1023 download events in this period)
+Total number of records downloaded: 14935
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 13
+	Country: El Salvador ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 113
+	Country: United Kingdom ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 2
+	Country: Argentina ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 23
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-03 ; Times: 18
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-01 ; Times: 4
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 3
+	Date: 2020-02-04 ; Times: 12
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 5
+	Date: 2020-02-10 ; Times: 3
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 3
+	Date: 2020-02-15 ; Times: 2
+	Date: 2020-02-14 ; Times: 1
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 5
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-27 ; Times: 9
+	Date: 2020-02-06 ; Times: 18
+	Date: 2020-02-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "dermoptera" ; Times: 29
+	Query: "Casuarius vntype:specimen" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "genus:eubalaena" ; Times: 1
+	Query: "Nimravides" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Xantusia riversiana" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "class:Mammalia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "genus:cuniculus" ; Times: 2
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Agkistrodon basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "chaeropus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:dasyprocta" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Uta palmeri" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "Emys marmorata" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "genus:Scalopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:cavia" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Varanus exanthematicus" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "Antechinus flavipes" ; Times: 1
+	Query: "order:Rodentia country:&#34;Trinidad&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "genus:Odobenus preparations:skull" ; Times: 3
+	Query: "Nasua narica" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Sminthopsis murina" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "canis latrans" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "Anolis aeneus" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
