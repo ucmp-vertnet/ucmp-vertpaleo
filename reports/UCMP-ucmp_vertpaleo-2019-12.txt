@@ -1,0 +1,239 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 324
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 8
+	Country: United States ; Times: 102
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 1
+	Date: 2019-12-27 ; Times: 3
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-21 ; Times: 3
+	Date: 2019-12-20 ; Times: 4
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 16
+	Date: 2019-12-19 ; Times: 6
+	Date: 2019-12-10 ; Times: 6
+	Date: 2019-12-11 ; Times: 10
+	Date: 2019-12-12 ; Times: 6
+	Date: 2019-12-13 ; Times: 8
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 15
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-31 ; Times: 2
+	Date: 2019-12-09 ; Times: 7
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-06 ; Times: 5
+	Date: 2019-12-05 ; Times: 14
+	Date: 2019-12-04 ; Times: 7
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "224701" ; Times: 1
+	Query: "231176" ; Times: 1
+	Query: "109195" ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "wizard" ; Times: 1
+	Query: "205068" ; Times: 1
+	Query: "55764" ; Times: 1
+	Query: "dasyatis brevis" ; Times: 1
+	Query: "110738" ; Times: 1
+	Query: "224542" ; Times: 1
+	Query: "78659" ; Times: 1
+	Query: "124577" ; Times: 1
+	Query: "139834" ; Times: 1
+	Query: "203515" ; Times: 1
+	Query: "204230" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "204409" ; Times: 1
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "167134" ; Times: 1
+	Query: "224539" ; Times: 1
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "255898" ; Times: 1
+	Query: "155405" ; Times: 1
+	Query: "124580" ; Times: 1
+	Query: "genus:Dilophosaurus" ; Times: 2
+	Query: "catalognumber:163690" ; Times: 1
+	Query: "116149" ; Times: 1
+	Query: "23783" ; Times: 1
+	Query: "genus:geomys county:&#34;randall&#34;" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "227820" ; Times: 1
+	Query: "147931" ; Times: 1
+	Query: "224529" ; Times: 1
+	Query: "catalognumber:164755" ; Times: 1
+	Query: "genus:Allosaurus" ; Times: 2
+	Query: "catalognumber:71812" ; Times: 1
+	Query: "167135" ; Times: 1
+	Query: "catalognumber:71814" ; Times: 1
+	Query: "Plethodon cinerus" ; Times: 2
+	Query: "227015" ; Times: 1
+	Query: "233094" ; Times: 1
+	Query: "233097" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "208083" ; Times: 1
+	Query: "141431" ; Times: 1
+	Query: "hylonomus lyelli" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "207438" ; Times: 1
+	Query: "207439" ; Times: 1
+	Query: "204414" ; Times: 1
+	Query: "204412" ; Times: 1
+	Query: "204411" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 2
+	Query: "59361" ; Times: 1
+	Query: "154973" ; Times: 1
+	Query: "255565" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "specificepithet:putorius genus:spilogale institutioncode:UCMP" ; Times: 1
+	Query: "207539" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "321200" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 2
+	Query: "56609" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "78651" ; Times: 2
+	Query: "catalognumber:143804" ; Times: 1
+	Query: "224868" ; Times: 1
+	Query: "miracinonyx trumani" ; Times: 2
+	Query: "159630" ; Times: 1
+	Query: "vicuña" ; Times: 1
+	Query: "91317" ; Times: 1
+	Query: "91315" ; Times: 1
+	Query: "91314" ; Times: 1
+	Query: "227082" ; Times: 1
+	Query: "(plethodon cinerus )" ; Times: 2
+	Query: "88850" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "specificepithet:trumani family:felidae" ; Times: 1
+	Query: "76706" ; Times: 1
+	Query: "52713" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "208078" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "echidna zebra" ; Times: 3
+	Query: "163509" ; Times: 1
+	Query: "156384" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "125787" ; Times: 1
+	Query: "specificepithet:gilberti class:reptilia county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "215898" ; Times: 1
+	Query: "Diadophis regalis; California" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "213997" ; Times: 1
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "plethodon cinerus" ; Times: 6
+	Query: "160714" ; Times: 1
+	Query: "catalognumber:139025" ; Times: 1
+	Query: "99728" ; Times: 1
+	Query: "207569" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "specificepithet:curtus genus:Python" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 596 download events in this period)
+Total number of records downloaded: 2627
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 24
+	Country: Paraguay ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 11
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 7
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:Sula stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "Varanus komodoensis" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Plethodon cinerus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:areolata genus:Rana class:Amphibia" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Timm" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Eubalaena" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Varanus acanthurus" ; Times: 1
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Varanus exanthematicus" ; Times: 1
+
+
+End of report.
