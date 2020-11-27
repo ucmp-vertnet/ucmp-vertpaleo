@@ -1,0 +1,399 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 506
+Number of records retrieved in searches: 4142
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 31
+	Country: United States ; Times: 71
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Denmark ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: India ; Times: 10
+	Country: United Kingdom ; Times: 366
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Eswatini ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 105
+	Date: 2020-04-05 ; Times: 7
+	Date: 2020-04-06 ; Times: 33
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 3
+	Date: 2020-04-20 ; Times: 19
+	Date: 2020-04-07 ; Times: 152
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 7
+	Date: 2020-04-02 ; Times: 5
+	Date: 2020-04-25 ; Times: 2
+	Date: 2020-04-28 ; Times: 6
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 53
+	Date: 2020-04-24 ; Times: 7
+	Date: 2020-04-03 ; Times: 49
+	Date: 2020-04-19 ; Times: 4
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-13 ; Times: 2
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 3
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 6
+	Date: 2020-04-14 ; Times: 23
+	Date: 2020-04-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 4
+	Query: "Vulpes zerda" ; Times: 5
+	Query: "171739" ; Times: 2
+	Query: "Ovis aries" ; Times: 10
+	Query: "Mus minutoides" ; Times: 6
+	Query: "38543" ; Times: 1
+	Query: "26823" ; Times: 3
+	Query: "26821" ; Times: 2
+	Query: "183610" ; Times: 1
+	Query: "Cygnus olor" ; Times: 10
+	Query: "183613" ; Times: 1
+	Query: "specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "100852" ; Times: 2
+	Query: "Nyctereutes procyonoides" ; Times: 5
+	Query: "233348" ; Times: 1
+	Query: "family:chamaeleonidae hasmedia:1" ; Times: 4
+	Query: "genus:desmodus hasmedia:1" ; Times: 5
+	Query: "Macaca mulatta" ; Times: 12
+	Query: "23472" ; Times: 1
+	Query: "169550" ; Times: 1
+	Query: "Manis tricuspis" ; Times: 4
+	Query: "180276" ; Times: 2
+	Query: "102423" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 9
+	Query: "173961" ; Times: 1
+	Query: "Oxydoras niger" ; Times: 8
+	Query: "Otocyon megalotis" ; Times: 5
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "Thylacinus" ; Times: 1
+	Query: "Ptychocheilus oregonensis" ; Times: 2
+	Query: "vntype:specimen genus:Carcharodon hasmedia:1" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 21
+	Query: "catalognumber:226032" ; Times: 1
+	Query: "class:Aves (30985)" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Apus melba" ; Times: 7
+	Query: "36220" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "family:Mammutidae stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 3
+	Query: "173737" ; Times: 1
+	Query: "173736" ; Times: 1
+	Query: "gbifdatasetid:58d0f326-2e85-4d0a-a744-571461220f00" ; Times: 2
+	Query: "22916" ; Times: 2
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "Sylvicapra grimmia" ; Times: 4
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "168093" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Lavinia exilicauda" ; Times: 14
+	Query: "175761" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 9
+	Query: "Axis axis" ; Times: 2
+	Query: "Merluccius productus" ; Times: 6
+	Query: "Enophrys bison" ; Times: 5
+	Query: "160588" ; Times: 1
+	Query: "Ovis dalli" ; Times: 4
+	Query: "Metynnis hypsauchen" ; Times: 7
+	Query: "python reticulatus" ; Times: 2
+	Query: "183608" ; Times: 1
+	Query: "217429" ; Times: 1
+	Query: "class:mammalia recordedby:stephenson" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "Equus asinus" ; Times: 2
+	Query: "(chamaeleonidae) hasmedia:1" ; Times: 2
+	Query: "Felis nigripes" ; Times: 4
+	Query: "Pelecanus conspicillatus" ; Times: 4
+	Query: "Symphysodon aequifasciata" ; Times: 2
+	Query: "Anser albifrons" ; Times: 10
+	Query: "camelid" ; Times: 1
+	Query: "111653" ; Times: 1
+	Query: "201024" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 5
+	Query: "Rhea americana" ; Times: 3
+	Query: "catalognumber:85549" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "183611" ; Times: 1
+	Query: "order:cetacea institutioncode:UCMP basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "catalognumber:163323" ; Times: 1
+	Query: "specificepithet:latimanus genus:Scapanus county:&#34;contra costa&#34;" ; Times: 1
+	Query: "Chelus fimbriata" ; Times: 2
+	Query: "153538" ; Times: 1
+	Query: "232908" ; Times: 1
+	Query: "Electrophorus electricus" ; Times: 8
+	Query: "lutra lutra" ; Times: 3
+	Query: "144863" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "164255" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "122876" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 3
+	Query: "Papio cynocephalus" ; Times: 4
+	Query: "84344" ; Times: 1
+	Query: "Sperata seenghala" ; Times: 8
+	Query: "140425" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "catalognumber:182740" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Polypterus palmas" ; Times: 9
+	Query: "Taurotragus derbianus" ; Times: 4
+	Query: "101040" ; Times: 1
+	Query: "Tragelaphus scriptus" ; Times: 4
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "T. tetradactyla" ; Times: 4
+	Query: "institutioncode:ucmp" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 4
+	Query: "181465" ; Times: 1
+	Query: "173959" ; Times: 1
+	Query: "173958" ; Times: 1
+	Query: "Papio ursinus" ; Times: 4
+	Query: "vntype:specimen family:Megaladapidae" ; Times: 1
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "173957" ; Times: 1
+	Query: "173956" ; Times: 1
+	Query: "173951" ; Times: 1
+	Query: "173504" ; Times: 1
+	Query: "173953" ; Times: 1
+	Query: "173952" ; Times: 1
+	Query: "61477" ; Times: 1
+	Query: "celestial" ; Times: 1
+	Query: "hasmedia:1 tarsometatarsus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "34276" ; Times: 1
+	Query: "40579" ; Times: 2
+	Query: "Orcinus orca" ; Times: 6
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "Sorubim lima" ; Times: 5
+	Query: "UMMP" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Palaeogale" ; Times: 1
+	Query: "233035" ; Times: 1
+	Query: "Hypomesus pretiosus" ; Times: 5
+	Query: "Panthera onca" ; Times: 4
+	Query: "173960" ; Times: 1
+	Query: "Manouria impressa" ; Times: 1
+	Query: "206916" ; Times: 1
+	Query: "90476" ; Times: 1
+	Query: "173965" ; Times: 1
+	Query: "173966" ; Times: 1
+	Query: "173967" ; Times: 1
+	Query: "Homo sapiens" ; Times: 12
+	Query: "specificepithet:sumichrasti genus:Bassariscus" ; Times: 1
+	Query: "90115" ; Times: 1
+	Query: "Phractocephalus hemioliopterus" ; Times: 15
+	Query: "V. vulpes" ; Times: 5
+	Query: "Trachurus symmetricus" ; Times: 5
+	Query: "Lagenorhynchus obliquidens" ; Times: 3
+	Query: "Canis adustus" ; Times: 5
+	Query: "Cuon alpinus" ; Times: 5
+	Query: "26816" ; Times: 3
+	Query: "29346" ; Times: 1
+	Query: "Psettichthys melanostictus" ; Times: 5
+	Query: "plethodon cinerus" ; Times: 4
+	Query: "catalognumber:232850" ; Times: 1
+	Query: "catalognumber:163274" ; Times: 1
+	Query: "222755" ; Times: 1
+	Query: "121600" ; Times: 2
+	Query: "173970" ; Times: 1
+	Query: "173507" ; Times: 1
+	Query: "56798" ; Times: 1
+	Query: "institutioncode:UCMP basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 8
+	Query: "Ambystoma flavipiperatum" ; Times: 4
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Lutra lutra" ; Times: 9
+	Query: "199167" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 135 (out of 1171 download events in this period)
+Total number of records downloaded: 273651
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 2
+	Country: Lithuania ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 108
+	Country: Netherlands ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 7
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 6
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-05 ; Times: 4
+	Date: 2020-04-06 ; Times: 6
+	Date: 2020-04-22 ; Times: 7
+	Date: 2020-04-23 ; Times: 10
+	Date: 2020-04-20 ; Times: 8
+	Date: 2020-04-07 ; Times: 4
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-02 ; Times: 3
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 17
+	Date: 2020-04-29 ; Times: 16
+	Date: 2020-04-09 ; Times: 2
+	Date: 2020-04-27 ; Times: 5
+	Date: 2020-04-24 ; Times: 4
+	Date: 2020-04-03 ; Times: 3
+	Date: 2020-04-19 ; Times: 2
+	Date: 2020-04-18 ; Times: 5
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-10 ; Times: 3
+	Date: 2020-04-16 ; Times: 5
+	Date: 2020-04-15 ; Times: 2
+	Date: 2020-04-14 ; Times: 7
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison antiquus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "specificepithet:bairdii genus:Tapirus" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+	Query: "genus:sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:JORDANI genus:Plethodon" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "class:Mammalia county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "vntype:specimen (Antarctica) isfossil:1" ; Times: 1
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;California&#34; country:&#34;United States&#34; hastypestatus:1" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "vntype:specimen family:Orycteropodidae" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+	Query: "institutioncode:UCMP basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Galago" ; Times: 1
+	Query: "order:cetacea institutioncode:UCMP basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "Xantusia henshawi" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "vulpes macrotis mutica" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "vntype:specimen family:Myoxidae" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tyto novaehollandiae" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "vntype:specimen family:Indridae" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;California&#34; country:&#34;United States&#34; hastypestatus:1" ; Times: 1
+	Query: "specificepithet:skiltonianus genus:Eumeces" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "Charina bottae" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "specificepithet:sumichrasti genus:Bassariscus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Bangladesh&#34; OR &#34;Bhutan&#34; OR &#34;Burma&#34; OR &#34;Cambodia&#34; OR &#34;China&#34; OR &#34;India&#34; OR &#34;Laos&#34; OR &#34;Malaysia&#34; OR &#34;Myanmar&#34; OR &#34;Nepal&#34; OR &#34;Thailand&#34; OR &#34;Vietnam&#34; continent:Asia" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "class:Mammalia county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen family:Gliridae" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
