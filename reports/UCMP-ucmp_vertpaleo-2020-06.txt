@@ -1,0 +1,175 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 159
+Number of records retrieved in searches: 1374
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: Peru ; Times: 8
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Nepal ; Times: 1
+	Country: Mexico ; Times: 47
+	Country: United Kingdom ; Times: 48
+	Country: Ireland ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 43
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 4
+	Date: 2020-06-05 ; Times: 9
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-08 ; Times: 7
+	Date: 2020-06-09 ; Times: 3
+	Date: 2020-06-06 ; Times: 3
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 37
+	Date: 2020-06-16 ; Times: 3
+	Date: 2020-06-02 ; Times: 6
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-15 ; Times: 4
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-10 ; Times: 24
+	Date: 2020-06-11 ; Times: 19
+	Date: 2020-06-12 ; Times: 2
+	Date: 2020-06-17 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:168016" ; Times: 1
+	Query: "37841" ; Times: 1
+	Query: "AMNH 125107" ; Times: 1
+	Query: "catalognumber:113678" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Magdalena&#34; country:&#34;Colombia&#34; AND (NOT CAS NOT FMNH NOT UMMZ NOT MCZ NOT CM NOT AMNH)" ; Times: 1
+	Query: "catalognumber:148251" ; Times: 1
+	Query: "catalognumber:163086" ; Times: 1
+	Query: "catalognumber:163087" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Blacktail deer" ; Times: 3
+	Query: "6601 AMNH" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "catalognumber:178321" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "catalognumber:126793" ; Times: 1
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "catalognumber:163090" ; Times: 1
+	Query: "catalognumber:175341" ; Times: 1
+	Query: "AMNH 125129" ; Times: 1
+	Query: "100399" ; Times: 2
+	Query: "order:aves" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 18
+	Query: "catalognumber:105376" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "100499" ; Times: 1
+	Query: "catalognumber:316689" ; Times: 1
+	Query: "catalognumber:316685" ; Times: 1
+	Query: "catalognumber:316686" ; Times: 1
+	Query: "catalognumber:316687" ; Times: 1
+	Query: "AMNH 28448" ; Times: 1
+	Query: "catalognumber:211069" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "catalognumber:144379" ; Times: 1
+	Query: "catalognumber:109713" ; Times: 1
+	Query: "catalognumber: 146659" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "AMNH 28441" ; Times: 1
+	Query: "V-1132" ; Times: 1
+	Query: "catalognumber:229747" ; Times: 1
+	Query: "catalognumber:148194" ; Times: 1
+	Query: "93995" ; Times: 1
+	Query: "catalognumber:316691" ; Times: 1
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "catalognumber:163045" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "lagomorph" ; Times: 1
+	Query: "family:Ctenomyidae country:&#34;Argentina&#34; isfossil:1" ; Times: 1
+	Query: "AMNH 125122" ; Times: 1
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "procolophon" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "catalognumber:163114" ; Times: 1
+	Query: "catalognumber:173950" ; Times: 1
+	Query: "93108" ; Times: 1
+	Query: "AMNH 28439" ; Times: 1
+	Query: "catalognumber:168331" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "genus:Barbourofelis hasmedia:1" ; Times: 2
+	Query: "catalognumber:173758" ; Times: 1
+	Query: "230140" ; Times: 1
+	Query: "catalognumber:208464" ; Times: 1
+	Query: "catalognumber:163103" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "catalognumber:174856" ; Times: 1
+	Query: "Homo sapiens" ; Times: 18
+	Query: "catalognumber:316725" ; Times: 1
+	Query: "Phractocephalus hemioliopterus" ; Times: 6
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Pituophis melanoleucas" ; Times: 1
+	Query: "AMNH 125113" ; Times: 1
+	Query: "catalognumber:232850" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "catalognumber: 152184" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "catalognumber: 196268" ; Times: 1
+	Query: "catalognumber: 147946" ; Times: 1
+	Query: "Dimetrodon limbatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 474 download events in this period)
+Total number of records downloaded: 133
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Nepal ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 7
+	Date: 2020-06-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "SMNS" ; Times: 1
+	Query: "muskrat" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Tolima&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "box turtle" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+
+
+End of report.
