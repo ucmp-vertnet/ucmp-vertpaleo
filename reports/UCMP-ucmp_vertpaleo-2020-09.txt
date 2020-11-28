@@ -1,0 +1,311 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 1106
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: United States ; Times: 99
+	Country: Australia ; Times: 7
+	Country: Peru ; Times: 11
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Finland ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 7
+	Country: Ireland ; Times: 1
+	Country: Greece ; Times: 14
+	Country: Switzerland ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 6
+	Date: 2020-09-08 ; Times: 4
+	Date: 2020-09-03 ; Times: 10
+	Date: 2020-09-02 ; Times: 4
+	Date: 2020-09-07 ; Times: 3
+	Date: 2020-09-06 ; Times: 8
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-21 ; Times: 10
+	Date: 2020-09-20 ; Times: 5
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 7
+	Date: 2020-09-29 ; Times: 41
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-16 ; Times: 14
+	Date: 2020-09-14 ; Times: 18
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 7
+	Date: 2020-09-17 ; Times: 11
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 5
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 4
+	Date: 2020-09-18 ; Times: 22
+	Date: 2020-09-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "meleagris californicus" ; Times: 1
+	Query: "vntype:specimen family:Camelidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "family:Rhinocerotidae locality:Pikermi" ; Times: 1
+	Query: "specificepithet:bodei genus:Amynodontopsis" ; Times: 1
+	Query: "wizard" ; Times: 9
+	Query: "mappable:1 scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "catalognumber: 186941" ; Times: 1
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "63240" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae order:Artiodactyla hasmedia:1 isfossil:1" ; Times: 1
+	Query: "Mola mola" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae order:Artiodactyla (Dentary OR Jaw OR Mandible OR Skull) hasmedia:1" ; Times: 1
+	Query: "99661" ; Times: 1
+	Query: "vntype:specimen family:Palaeomerycidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "family:Rhinocerotidae country:&#34;Greece&#34;" ; Times: 3
+	Query: "specificepithet:pulchra county:&#34;kern&#34;" ; Times: 2
+	Query: "vntype:specimen family:Bovidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "181804" ; Times: 1
+	Query: "139095" ; Times: 1
+	Query: "Taricha kern county" ; Times: 1
+	Query: "169738" ; Times: 1
+	Query: "93142" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "vntype:specimen class:Mammalia continent:North America institutioncode:UCMP isfossil:1" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Phorusrhacidae" ; Times: 1
+	Query: "197262" ; Times: 1
+	Query: "87306" ; Times: 3
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "316586" ; Times: 1
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "order:Struthioniformes class:aves preparations:Egg" ; Times: 2
+	Query: "specificepithet:marmorata genus:Actinemys" ; Times: 1
+	Query: "vntype:specimen specificepithet:cynocephalus genus:Thylacinus" ; Times: 2
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "149295" ; Times: 2
+	Query: "arapaima gigas" ; Times: 2
+	Query: "dolichops" ; Times: 1
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "family:Rhinocerotidae locality:Samos" ; Times: 3
+	Query: "dinomys" ; Times: 1
+	Query: "134990" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "specificepithet:caurina genus:martes stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "75208" ; Times: 1
+	Query: "order:Casuariiformes class:aves preparations:Egg" ; Times: 2
+	Query: "Aldabrachelys" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "112340" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "catalognumber:163664" ; Times: 1
+	Query: "126183" ; Times: 1
+	Query: "76541" ; Times: 1
+	Query: "aldabrachelys" ; Times: 2
+	Query: "Squatina squatina" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "95835" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 1
+	Query: "Anolis brunneus" ; Times: 2
+	Query: "142864" ; Times: 1
+	Query: "&#34;Canis lupus arctos&#34;" ; Times: 2
+	Query: "scientificname:Ailuropoda melanoleuca" ; Times: 32
+	Query: "23790" ; Times: 1
+	Query: "193557" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "specificepithet:pulchra genus:Anniella county:&#34;kern&#34;" ; Times: 1
+	Query: "eutamias merriami" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 5
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "vntype:specimen family:Agriochoeridae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "Barylambda" ; Times: 2
+	Query: "vntype:specimen family:Cervidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 2
+	Query: "vntype:specimen family:Tayassuidae order:Artiodactyla hasmedia:1" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "vntype:specimen family:Protoceratidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "genus:caiman hasmedia:1" ; Times: 6
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "specificepithet:mississippiensis genus:alligator hasmedia:1" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 1
+	Query: "titanoides" ; Times: 2
+	Query: "specificepithet:melampus genus:martes" ; Times: 2
+	Query: "order:Struthioniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "vntype:specimen family:Moschidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "genus:Aspideretes" ; Times: 1
+	Query: "vntype:specimen family:Antilocapridae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "vntype:specimen family:Anthracotheriidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "family:Rhinocerotidae country:Greece" ; Times: 7
+	Query: "genus:Miracinonyx" ; Times: 5
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "order:Casuariiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "Hexanchus griseus" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "174933" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "174938" ; Times: 2
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "vntype:specimen family:Merycoidodontidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "vntype:specimen family:Cainotheriidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "catalognumber:193664" ; Times: 1
+	Query: "specificepithet:rotundus genus:Desmodus hasmedia:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 89 (out of 976 download events in this period)
+Total number of records downloaded: 3729
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: Ghana ; Times: 1
+	Country: United States ; Times: 61
+	Country: Australia ; Times: 7
+	Country: Uganda ; Times: 1
+	Country: Greece ; Times: 1
+	Country: Fiji ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 8
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 3
+	Date: 2020-09-04 ; Times: 3
+	Date: 2020-09-21 ; Times: 7
+	Date: 2020-09-20 ; Times: 5
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 11
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-18 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "pusa hispida" ; Times: 1
+	Query: "vntype:specimen family:Phasianidae continent:Africa" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "specificepithet:lupus arctos genus:canis" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "order:Struthioniformes class:Aves preparations:Egg" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "&#34;Canis lupus arctos&#34;" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "order:Anseriformes class:Aves preparations:Egg" ; Times: 1
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "order:Serpentes" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "order:Casuariiformes class:Aves preparations:Egg" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "order:Anseriformes class:aves preparations:Egg" ; Times: 2
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Gavia immer OR adamsii" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "vntype:specimen family:Cervidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "family:Rhinocerotidae country:&#34;Greece&#34;" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "order:Casuariiformes class:aves preparations:Egg" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Aplodontia" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "order:Struthioniformes class:aves preparations:Egg" ; Times: 1
+	Query: "preparations:nest" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+
+
+End of report.
