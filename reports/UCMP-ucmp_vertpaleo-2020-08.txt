@@ -1,0 +1,385 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 310
+Number of records retrieved in searches: 1341
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Ireland ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 28
+	Country: Ecuador ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 116
+	Country: Belgium ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 102
+	Country: Sweden ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 21
+	Country: Malaysia ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Sri Lanka ; Times: 2
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 6
+	Date: 2020-08-16 ; Times: 4
+	Date: 2020-08-15 ; Times: 4
+	Date: 2020-08-14 ; Times: 121
+	Date: 2020-08-13 ; Times: 11
+	Date: 2020-08-12 ; Times: 5
+	Date: 2020-08-11 ; Times: 7
+	Date: 2020-08-10 ; Times: 8
+	Date: 2020-08-31 ; Times: 4
+	Date: 2020-08-19 ; Times: 9
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-01 ; Times: 3
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-03 ; Times: 10
+	Date: 2020-08-04 ; Times: 18
+	Date: 2020-08-05 ; Times: 5
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-07 ; Times: 8
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-24 ; Times: 3
+	Date: 2020-08-25 ; Times: 7
+	Date: 2020-08-22 ; Times: 4
+	Date: 2020-08-23 ; Times: 5
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 42
+	Date: 2020-08-26 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "134043" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "107585" ; Times: 1
+	Query: "133795" ; Times: 6
+	Query: "134125" ; Times: 1
+	Query: "115232" ; Times: 1
+	Query: "genus:Chamops" ; Times: 1
+	Query: "catalognumber:97893" ; Times: 1
+	Query: "genus:Actinemys" ; Times: 2
+	Query: "Vicuna" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "117272" ; Times: 1
+	Query: "167624" ; Times: 1
+	Query: "wizard" ; Times: 7
+	Query: "101565" ; Times: 1
+	Query: "aldabrachelys" ; Times: 1
+	Query: "Mesocricetus brandti" ; Times: 1
+	Query: "133705" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "133907" ; Times: 1
+	Query: "Mus minutoides" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:UCMP" ; Times: 4
+	Query: "133759" ; Times: 2
+	Query: "80729" ; Times: 5
+	Query: "genus:Marmota stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Proxestops" ; Times: 1
+	Query: "133593" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "133825" ; Times: 4
+	Query: "133824" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "133498" ; Times: 2
+	Query: "Otocyon megalotis" ; Times: 1
+	Query: "133495" ; Times: 2
+	Query: "133497" ; Times: 2
+	Query: "Crocodylus acutus 2007" ; Times: 5
+	Query: "Scleropages formosus" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 2
+	Query: "133598" ; Times: 2
+	Query: "133657" ; Times: 7
+	Query: "71370" ; Times: 2
+	Query: "133652" ; Times: 3
+	Query: "71376" ; Times: 1
+	Query: "162720" ; Times: 1
+	Query: "179254" ; Times: 1
+	Query: "162725" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "triceratops" ; Times: 1
+	Query: "133751" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "genus:Chelonia hastypestatus:1" ; Times: 8
+	Query: "133810" ; Times: 1
+	Query: "133786" ; Times: 2
+	Query: "genus:Coniophis" ; Times: 1
+	Query: "133487" ; Times: 2
+	Query: "Crocodylus acutus 2015" ; Times: 3
+	Query: "Crocodylus acutus 2016" ; Times: 3
+	Query: "catalognumber:91481" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "Pectinodon" ; Times: 1
+	Query: "Arapaima" ; Times: 1
+	Query: "velociraptor" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "133377" ; Times: 2
+	Query: "170489" ; Times: 1
+	Query: "Palaeoxantusia" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:california" ; Times: 4
+	Query: "143491" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Vicuna vicuna" ; Times: 2
+	Query: "70387" ; Times: 1
+	Query: "133805" ; Times: 1
+	Query: "196694" ; Times: 1
+	Query: "Canis adustus" ; Times: 1
+	Query: "133800" ; Times: 1
+	Query: "238110" ; Times: 1
+	Query: "mappable:1 scientificname:Phoenicopterus ruber" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "69660" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; castor" ; Times: 1
+	Query: "133653" ; Times: 2
+	Query: "70345" ; Times: 2
+	Query: "catalognumber:91704" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "Emydoidea blandingi" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "Leptocottus armatus stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "133690" ; Times: 1
+	Query: "133691" ; Times: 1
+	Query: "V. vulpes" ; Times: 1
+	Query: "134130" ; Times: 1
+	Query: "75459" ; Times: 1
+	Query: "Electrophorus electricus" ; Times: 1
+	Query: "genus:Edmontonia" ; Times: 2
+	Query: "133878" ; Times: 2
+	Query: "107643" ; Times: 2
+	Query: "genus:saurornithoides" ; Times: 1
+	Query: "133876" ; Times: 2
+	Query: "133877" ; Times: 2
+	Query: "133874" ; Times: 2
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "141528" ; Times: 1
+	Query: "class:mammalia catalognumber:30627" ; Times: 2
+	Query: "28881" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "family:Echimyidae hasmedia:1" ; Times: 4
+	Query: "genus:Dasyprocta hasmedia:1" ; Times: 3
+	Query: "133680" ; Times: 1
+	Query: "133682" ; Times: 1
+	Query: "107791" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "108252" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "class:aves catalognumber:225161" ; Times: 1
+	Query: "133906" ; Times: 2
+	Query: "44804" ; Times: 1
+	Query: "133904" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "133861" ; Times: 2
+	Query: "166358" ; Times: 2
+	Query: "133618" ; Times: 2
+	Query: "133862" ; Times: 2
+	Query: "133867" ; Times: 1
+	Query: "133909" ; Times: 3
+	Query: "Borealosuchus" ; Times: 1
+	Query: "107388" ; Times: 1
+	Query: "specimen records ASU" ; Times: 1
+	Query: "Papio ursinus" ; Times: 1
+	Query: "105735" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: "specificepithet:sapiens genus:homo country:&#34;United States&#34; preparations:bone" ; Times: 1
+	Query: "107783" ; Times: 1
+	Query: "208078" ; Times: 1
+	Query: "139918" ; Times: 1
+	Query: "107787" ; Times: 1
+	Query: "crotalus viridus" ; Times: 1
+	Query: "133857" ; Times: 1
+	Query: "133852" ; Times: 1
+	Query: "Exostinus" ; Times: 1
+	Query: "136360" ; Times: 1
+	Query: "133601" ; Times: 2
+	Query: "133600" ; Times: 2
+	Query: "107662" ; Times: 1
+	Query: "107663" ; Times: 1
+	Query: "133911" ; Times: 1
+	Query: "107593" ; Times: 1
+	Query: "125099" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 4
+	Query: "specificepithet:californicus genus:zalophus" ; Times: 2
+	Query: "133520" ; Times: 3
+	Query: "133522" ; Times: 1
+	Query: "133523" ; Times: 2
+	Query: "specificepithet:sapiens genus:homo country:&#34;United States&#34;" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "107589" ; Times: 2
+	Query: "133782" ; Times: 2
+	Query: "107797" ; Times: 2
+	Query: "133540" ; Times: 2
+	Query: "133787" ; Times: 2
+	Query: "133788" ; Times: 4
+	Query: "133789" ; Times: 1
+	Query: "catalognumber:98699" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 2
+	Query: "52769" ; Times: 1
+	Query: "Leidyosuchus" ; Times: 1
+	Query: "147299" ; Times: 1
+	Query: "hydrosaurus amboinensis" ; Times: 1
+	Query: "133846" ; Times: 2
+	Query: "Nandayus nenday California" ; Times: 1
+	Query: "genus:Odaxosaurus" ; Times: 1
+	Query: "133599" ; Times: 2
+	Query: "133815" ; Times: 1
+	Query: "133924" ; Times: 5
+	Query: "133925" ; Times: 1
+	Query: "162203" ; Times: 1
+	Query: "162202" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "equinus" ; Times: 1
+	Query: "133590" ; Times: 2
+	Query: "pituophis melanoleucus lodingi" ; Times: 1
+	Query: "125180" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "101570" ; Times: 1
+	Query: "71606" ; Times: 1
+	Query: "Logroño" ; Times: 1
+	Query: "genus:Litakis" ; Times: 2
+	Query: "Istiophorus platypterus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 756 download events in this period)
+Total number of records downloaded: 30336
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 77
+	Country: Switzerland ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Sri Lanka ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-29 ; Times: 4
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-11 ; Times: 2
+	Date: 2020-08-10 ; Times: 8
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-18 ; Times: 2
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-01 ; Times: 2
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-03 ; Times: 6
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-08 ; Times: 9
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-24 ; Times: 8
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 4
+	Date: 2020-08-26 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "Gasterosteus aculeatus aculeatus distance(location,geopoint(34.17385436955003,-119.15870682217088))&lt;100000" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "genus:Chamops" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Exostinus" ; Times: 1
+	Query: "specificepithet:tinctorius genus:Dendrobates" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "genus:Edmontonia" ; Times: 1
+	Query: "genus:Vulpes stateprovince:&#34;Oregon&#34;" ; Times: 2
+	Query: "Palaeoxantusia" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus" ; Times: 1
+	Query: "genus:saurornithoides" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "os penis" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Pectinodon" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Puno&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Coniophis" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:arctos horribilis genus:Ursus" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Proxestops" ; Times: 1
+	Query: "genus:Marmota stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "genus:Odaxosaurus" ; Times: 1
+	Query: "Leidyosuchus" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "specificepithet:lateralis genus:Spermophilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "specificepithet:austroriparius genus:myotis" ; Times: 2
+	Query: "equinus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Borealosuchus" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "emydoidea blandingi" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "fossa" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "crotalus horridus" ; Times: 2
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
