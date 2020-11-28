@@ -1,0 +1,417 @@
+Report for Institution Code UCMP, Resource ucmp_vertpaleo
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 281
+Number of records retrieved in searches: 4553
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 181
+	Country: Australia ; Times: 1
+	Country: Algeria ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Peru ; Times: 20
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 12
+	Country: Malaysia ; Times: 9
+	Country: Ecuador ; Times: 19
+	Country: Ireland ; Times: 3
+	Country: Japan ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 8
+	Date: 2020-07-21 ; Times: 13
+	Date: 2020-07-20 ; Times: 3
+	Date: 2020-07-26 ; Times: 30
+	Date: 2020-07-25 ; Times: 47
+	Date: 2020-07-24 ; Times: 9
+	Date: 2020-07-01 ; Times: 5
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-02 ; Times: 8
+	Date: 2020-07-07 ; Times: 15
+	Date: 2020-07-06 ; Times: 10
+	Date: 2020-07-23 ; Times: 10
+	Date: 2020-07-29 ; Times: 23
+	Date: 2020-07-18 ; Times: 3
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-11 ; Times: 11
+	Date: 2020-07-16 ; Times: 3
+	Date: 2020-07-31 ; Times: 16
+	Date: 2020-07-14 ; Times: 8
+	Date: 2020-07-17 ; Times: 6
+	Date: 2020-07-22 ; Times: 8
+	Date: 2020-07-15 ; Times: 13
+	Date: 2020-07-28 ; Times: 11
+	Date: 2020-07-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pediomys catalognumber:153676" ; Times: 1
+	Query: "102105" ; Times: 1
+	Query: "genus:Contogenys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "genus:Pediomys catalognumber:320925" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "genus:Gopherus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "78725" ; Times: 1
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "223293" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "genus:Protochelydra continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "78438" ; Times: 1
+	Query: "101569" ; Times: 1
+	Query: "101273" ; Times: 1
+	Query: "genus:Kimbetohia continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "genus:Meniscoessus locality:HC-11 isfossil:1" ; Times: 1
+	Query: "genus:Tullochelys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "173311" ; Times: 1
+	Query: "AMNH 125130" ; Times: 4
+	Query: "AMNH 125133" ; Times: 1
+	Query: "Dipodomys nitratoides" ; Times: 1
+	Query: "AMNH 125136" ; Times: 1
+	Query: "UCMP 117152" ; Times: 1
+	Query: "catalognumber:140487 institutioncode:UCMP" ; Times: 1
+	Query: "Saurornithoides" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 4
+	Query: "37676" ; Times: 1
+	Query: "specificepithet:kingi genus:Gerrhonotus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 1
+	Query: "genus:Habrosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Crotalus county:&#34;fresno&#34;" ; Times: 1
+	Query: "genus:Pediomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Cimexomys continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "23686" ; Times: 2
+	Query: "81530" ; Times: 1
+	Query: "Crocodylus acutus 2007" ; Times: 2
+	Query: "specificepithet:arctos genus:Ursus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "102990" ; Times: 1
+	Query: "LM 2660" ; Times: 1
+	Query: "Tyrannosaurus Rex" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "aeromys tephromelas" ; Times: 9
+	Query: "40514" ; Times: 2
+	Query: "class:Reptilia locality:Arvin county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "210999" ; Times: 1
+	Query: "hastypestatus:1 Lutra" ; Times: 11
+	Query: "genus:Didelphodon locality:Beamer 2 isfossil:1" ; Times: 1
+	Query: "genus:Allognathosuchus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "101647" ; Times: 2
+	Query: "herrerasaurus" ; Times: 1
+	Query: "specificepithet:marmorata county:&#34;Fresno&#34;" ; Times: 1
+	Query: "186157" ; Times: 1
+	Query: "253155" ; Times: 1
+	Query: "117348" ; Times: 1
+	Query: "varanus hasmedia:1" ; Times: 3
+	Query: "Crocodylus acutus 2015" ; Times: 2
+	Query: "52151" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 2
+	Query: "91859" ; Times: 1
+	Query: "genus:Pediomys catalognumber:132490" ; Times: 1
+	Query: "141136" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Plastomenus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "70414" ; Times: 1
+	Query: "genus:Gerrhonotus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "genus:Miracinonyx distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "genus:Nanocuris continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "215126" ; Times: 2
+	Query: "genus:Antilocapra stateprovince:california" ; Times: 2
+	Query: "AMNH 125153" ; Times: 1
+	Query: "genus:Pediomys catalognumber:132418" ; Times: 1
+	Query: "genus:Homotherium distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "class:Reptilia locality:Boron county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "AMNH 125154" ; Times: 1
+	Query: "104302" ; Times: 1
+	Query: "locality:Fox Canyon" ; Times: 3
+	Query: "101430" ; Times: 1
+	Query: "genus:Stygiochelys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Obamadon continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Obamadon continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "93698" ; Times: 1
+	Query: "genus:Ectoconus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Champsosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "catalognumber:158434" ; Times: 1
+	Query: "117361" ; Times: 1
+	Query: "genus:Neoplagiaulax continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "genus:Pediomys catalognumber:133759" ; Times: 1
+	Query: "genus:Protungulatum continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "aldabrachelys" ; Times: 1
+	Query: "genus:Procerberus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "AMNH 125148" ; Times: 1
+	Query: "Eurycea rathbuni" ; Times: 2
+	Query: "Pseudalopex gymnocercus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "genus:Gopherus class:Reptilia county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "AMNH 125141" ; Times: 1
+	Query: "genus:Cimolodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "catalognumber:117506 institutioncode:UCMP" ; Times: 1
+	Query: "V99434 continent:North America isfossil:1" ; Times: 1
+	Query: "85227" ; Times: 1
+	Query: "genus:Pediomys catalognumber:132177" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "locality:Cragin Quarry" ; Times: 2
+	Query: "catalognumber:215127" ; Times: 1
+	Query: "catalognumber:215126" ; Times: 1
+	Query: "genus:Alphadon locality:HC-29 isfossil:1" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Tullochelys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 2
+	Query: "Puercan genus:Nortedelphys continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "genus:Thylacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Habrosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Pediomys catalognumber:134789" ; Times: 1
+	Query: "genus:Nortedelphys continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "locality:Fox Canyon stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Boron county:&#34;Kern&#34; stateprovince:&#34;California&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "genus:Gypsonictops locality:Ant Metro isfossil:1" ; Times: 1
+	Query: "specificepithet:mitchelli county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Scapherpeton continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "AMNH 28532" ; Times: 2
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "genus:Ragnarok continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Didelphodon locality:Porkchop hill isfossil:1" ; Times: 1
+	Query: "88053" ; Times: 1
+	Query: "genus:Batodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Alphadon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "order:serpentes class:Reptilia county:&#34;cherry&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "134064?" ; Times: 1
+	Query: "101352" ; Times: 2
+	Query: "catalognumber:116941" ; Times: 1
+	Query: "varanus vntype:specimen hasmedia:1" ; Times: 2
+	Query: "saurornithoides" ; Times: 1
+	Query: "101357" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34; institutioncode:UCMP" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "112728" ; Times: 1
+	Query: "genus:Parectypodus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Antilocapra stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Pediomys catalognumber:133855" ; Times: 1
+	Query: "genus:Conacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "AMNH 125162" ; Times: 3
+	Query: "AMNH 125163" ; Times: 1
+	Query: "AMNH 125160" ; Times: 1
+	Query: "genus:Pediomys catalognumber:133377" ; Times: 1
+	Query: "genus:Parectypodus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "176298" ; Times: 1
+	Query: "catalognumber:172049" ; Times: 1
+	Query: "94277" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "genus:Pediomys catalognumber:134624" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "genus:Xyronomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "genus:Aspideretoides continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "230624" ; Times: 1
+	Query: "Pseudalopex culpaeus" ; Times: 1
+	Query: "225843" ; Times: 1
+	Query: "genus:Litakis continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "genus:Basilemys locality:Watchtower isfossil:1" ; Times: 1
+	Query: "genus:Pediomys catalognumber:133153" ; Times: 1
+	Query: "genus:Pediomys catalognumber:132599" ; Times: 1
+	Query: "101467" ; Times: 1
+	Query: "genus:Paracimexomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Odaxosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Paradiscoglossus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "316174" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Anolis grahami preparations:skeleton" ; Times: 1
+	Query: "genus:Edmontonia continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "catalognumber:124967 institutioncode:UCMP" ; Times: 2
+	Query: "153035" ; Times: 1
+	Query: "genus:Pediomys catalognumber:132516" ; Times: 1
+	Query: "genus:Cimolestes continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Prodesmodon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Scincopus fasciatus" ; Times: 2
+	Query: "genus:Pediomys catalognumber:133181" ; Times: 1
+	Query: "genus:Turgidodon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Postosuchus" ; Times: 2
+	Query: "27947" ; Times: 1
+	Query: "genus:Pediomys catalognumber:132358" ; Times: 1
+	Query: "genus:Avisaurus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:reptilia county:&#34;Sublette&#34;" ; Times: 1
+	Query: "catalognumber:63746" ; Times: 1
+	Query: "genus:Peneteius continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:amphibia county:&#34;Sublette&#34;" ; Times: 2
+	Query: "genus:Pediomys catalognumber:100602" ; Times: 2
+	Query: "specificepithet:marmorata class:reptilia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "genus:Proamphiuma continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "101571" ; Times: 1
+	Query: "87481" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 105 (out of 940 download events in this period)
+Total number of records downloaded: 11927
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: United States ; Times: 73
+	Country: Australia ; Times: 5
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 1
+	Date: 2020-07-25 ; Times: 36
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-03 ; Times: 7
+	Date: 2020-07-28 ; Times: 5
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 6
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-30 ; Times: 3
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-16 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "echimys" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "genus:Contogenys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:enyo genus:Crotalus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "genus:Protochelydra continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "genus:Antilocapra stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "genus:Tullochelys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "dromiciops" ; Times: 1
+	Query: "Saurornithoides" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "genus:Pediomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "genus:Allognathosuchus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Cimolestes continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Lamprophiidae" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Gerrhonotus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Miracinonyx distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "genus:Nanocuris continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Stygiochelys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Obamadon continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "genus:Ectoconus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Champsosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;cundinamarca&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "genus:Neoplagiaulax continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Protungulatum continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Procerberus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "genus:Plastomenus continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Pseudalopex gymnocercus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Cimolodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Turgidodon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Tullochelys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "genus:Thylacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Habrosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Nortedelphys continent:North America basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:ingens genus:Dipodomys" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "class:Amphibia bakeri" ; Times: 1
+	Query: "Echinosorex" ; Times: 1
+	Query: "genus:Scapherpeton continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Ragnarok continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Batodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "genus:Conacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Parectypodus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Aspideretoides continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "genus:Xyronomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Homotherium" ; Times: 1
+	Query: "Pseudalopex culpaeus" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "genus:Paracimexomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Odaxosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Edmontonia continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Anolis sagrei" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Notiosorex isfossil:1" ; Times: 1
+	Query: "genus:Proamphiuma continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Prodesmodon continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "specificepithet:nitratoides genus:dipodomys" ; Times: 1
+	Query: "specificepithet:alvarius family:bufonidae" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "genus:Peneteius continent:North America (Maastrichtian) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+
+End of report.
